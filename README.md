@@ -26,7 +26,7 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 - Feature mining for localised crowd counting (**ECCV2012**) [paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2008
--Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
+- Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
 
 ## Datasets
 - ShanghaiTech Dataset [Link: [Dropbox ](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)/ [BaiduNetdisk](https://pan.baidu.com/s/1nuAYslz)]
@@ -35,3 +35,6 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 - Mall Dataset  [[Link](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)]
 - UCSD Dataset [[Link](http://www.svcl.ucsd.edu/projects/peoplecnt/)]
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]
+
+## Tools
+- Density Map Generation from Key Points [[Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)]

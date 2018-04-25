@@ -20,10 +20,16 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 - Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [[code](https://github.com/svishwa/crowdcount-mcnn)]
 
 ### 2015
-### 2014
+
+- COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest
+for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf)]
+- - Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]
+
 ### 2013
+- Multi-Source Multi-Scale Counting in Extremely Dense Crowd Images (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
+- Crossing the Line: Crowd Counting by Integer Programming with Local Features (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf)]
 ### 2012
-- Feature mining for localised crowd counting (**ECCV2012**) [paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
+- Feature mining for localised crowd counting (**ECCV2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2008
 - Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]

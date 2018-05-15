@@ -55,6 +55,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 - Mall Dataset  [[Link](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)]
 - UCSD Dataset [[Link](http://www.svcl.ucsd.edu/projects/peoplecnt/)]
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]
+- AHU-Crowd Dataset [[Link](http://cs-chan.com/downloads_crowd_dataset.html)] 
 
 ## Tools
 

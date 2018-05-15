@@ -3,7 +3,7 @@
 ## Papers
 
 ### 2018
-
+- Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
 - Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)]
 - CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)]
 - Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)]
@@ -12,7 +12,7 @@
 - Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]
 
 ### 2017
-
+- Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](https://arxiv.org/pdf/1707.07890.pdf)]
 - Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV2017**) [[paper](https://arxiv.org/abs/1708.00953)]
 - Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)]
 - CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS2017**) [[paper](https://arxiv.org/abs/1707.09605)] [[code](https://github.com/svishwa/crowdcount-cascaded-mtl)]

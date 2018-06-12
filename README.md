@@ -3,13 +3,13 @@
 ## Papers
 
 ### 2018
-- Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
-- Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)]
-- CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)]
-- Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)]
-- Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) 
-- DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density (**CVPR2018**) [[paper](https://arxiv.org/abs/1712.06679)]
-- Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]
+- Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]<a name="DAN"></a>
+- Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] <a name="BSAD"></a>
+- CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)] <a name="CSR"></a>
+- Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)] <a name="L2R"></a>
+- Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) <a name="ACSCP"></a>
+- DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density (**CVPR2018**) [[paper](https://arxiv.org/abs/1712.06679)]<a name="DecideNet"></a>
+- Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]<a name="SaCNN"></a>
 
 ### 2017
 - Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](https://arxiv.org/pdf/1707.07890.pdf)]
@@ -27,7 +27,7 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 - Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
 - Slicing Convolutional Neural Network for Crowd Video Understanding (**CVPR2016**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.pdf)] [[code](https://github.com/amandajshao/Slicing-CNN)]
 - CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**CVPR2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
-- Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [[code](https://github.com/svishwa/crowdcount-mcnn)] [[unofficial code](https://github.com/aditya-vora/crowd_counting_tensorflow)]
+- Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [[code](https://github.com/svishwa/crowdcount-mcnn)] [[unofficial code](https://github.com/aditya-vora/crowd_counting_tensorflow)]<a name="MCNN"></a>
 
 ### 2015
 
@@ -57,6 +57,59 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]
 - AHU-Crowd Dataset [[Link](http://cs-chan.com/downloads_crowd_dataset.html)] 
 
+## Performance
+The section is being continually updated.
+
+### ShanghaiTech Part A
+
+| Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Runtime (ms) | Pre-trained |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [DAN](#DAN) | 81.8 | 134.7 | - | - | - | - | - | - |
+| [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | - | - | - |
+| [L2R](#L2R) | 73.6 | 112.0 | - | - | - | - | - | - |
+| [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | 5.1M | - | - | - |
+| [MCNN](#MCNN) | 110.2 | 173.2 | 21.4 | 0.52 | 0.12M | - | - | - |
+
+
+### ShanghaiTech Part B
+
+| Method | MAE | MSE | 
+| --- | --- | --- | 
+| [DAN](#DAN) | 13.2 | 20.1 | 
+| [BSAD](#BSAD) | 20.2 | 35.6 |
+| [CSR](#CSR) | 10.6 | 16.0 |
+| [MCNN](#MCNN) | 26.4 | 41.3 |
+| [L2R](#L2R) | 13.7 | 21.4 | 
+| [DecideNet](#DecideNet) | 21.53 | 31.98 | 
+| [ACSCP](#ACSCP) | 17.2 | 27.4 | 
+
+### UCF_CC_50
+| Method | MAE | MSE | 
+| --- | --- | --- | 
+| [DAN](#DAN) | 309.6 | 402.64 | 
+| [BSAD](#BSAD) | 409.5 | 563.7 | 
+| [CSR](#CSR) | 266.1 | 397.5 |
+| [L2R](#L2R) | 279.6 | 388.9 | 
+| [ACSCP](#ACSCP) | 291.0 | 404.6 | 
+
+### WorldExpo'10
+| Method | S1 | S2 | S3 | S4 | S5 | Avg. |
+| --- | --- | --- | --- | --- | --- | --- |
+| [DAN](#DAN) | 4.1 | 11.1 | 10.7 | 16.2 | 5.0 | 9.4 |
+| [BSAD](#BSAD) | 4.1 | 21.7 | 11.9 | 11.0 | 3.5 | 10.5 |
+| [CSR](#CSR) | 2.9 | 11.5 | 8.6 | 16.6 | 3.4 | 8.6 |
+| [DecideNet](#DecideNet) | 2.0 | 13.14 | 8.90 | 17.40 | 4.75 | 9.23 |
+| [ACSCP](#ACSCP) | 2.8 | 14.05 | 9.6 | 8.1 | 2.9 | 7.5 |
+
+### UCSD
+| Method | MAE | MSE | 
+| --- | --- | --- |
+| [BSAD](#BSAD) | 1.00 | 1.40 | 
+| [CSR](#CSR) | 1.16 | 1.47 |
+| [ACSCP](#ACSCP) | 1.04 | 1.35 |
+
 ## Tools
 
 - Density Map Generation from Key Points [[Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)]
+
+

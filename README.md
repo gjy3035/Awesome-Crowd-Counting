@@ -3,13 +3,14 @@
 ## Papers
 
 ### 2018
-- Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]<a name="DAN"></a>
-- Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] <a name="BSAD"></a>
-- CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)] <a name="CSR"></a>
-- Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)] <a name="L2R"></a>
-- Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) <a name="ACSCP"></a>
-- DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density (**CVPR2018**) [[paper](https://arxiv.org/abs/1712.06679)]<a name="DecideNet"></a>
-- Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]<a name="SaCNN"></a>
+
+- <a name="DAN"></a> Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
+- <a name="BSAD"></a> Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] 
+- <a name="CSR"></a> CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)] 
+- <a name="L2R"></a> Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)] 
+- <a name="ACSCP"></a> Crowd Counting via Adversarial Cross-Scale Consistency Pursuit  (**CVPR2018**) 
+- <a name="DecideNet"></a> DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density (**CVPR2018**) [[paper](https://arxiv.org/abs/1712.06679)]
+- <a name="SaCNN"></a> Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]
 
 ### 2017
 - Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](https://arxiv.org/pdf/1707.07890.pdf)]
@@ -27,8 +28,7 @@ Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
 - Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
 - Slicing Convolutional Neural Network for Crowd Video Understanding (**CVPR2016**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.pdf)] [[code](https://github.com/amandajshao/Slicing-CNN)]
 - CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**CVPR2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
-- Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [[code](https://github.com/svishwa/crowdcount-mcnn)] [[unofficial code](https://github.com/aditya-vora/crowd_counting_tensorflow)]<a name="MCNN"></a>
-
+- <a name="MCNN"></a> Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [[code](https://github.com/svishwa/crowdcount-mcnn)] [[unofficial code](https://github.com/aditya-vora/crowd_counting_tensorflow)]
 ### 2015
 
 - COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest

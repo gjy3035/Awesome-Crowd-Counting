@@ -3,7 +3,9 @@
 ## Papers
 
 ### 2018
-
+- <a name="NCL"></a> Crowd Counting with Deep Negative Correlation Learning (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf)]
+- <a name="IG-CNN"></a> Divide and Grow: Capturing Huge Diversity in Crowd Images with
+Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sam_Divide_and_Grow_CVPR_2018_paper.pdf)]
 - <a name="DAN"></a> Structured Inhomogeneous Density Map Learning for Crowd Counting (arXiv) [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
 - <a name="BSAD"></a> Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] 
 - <a name="CSR"></a> CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes (**CVPR2018**) [[paper](https://arxiv.org/abs/1802.10062)] 

@@ -50,7 +50,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 - Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
 
 ## Datasets
-
+- UCF-QNRF Dataset [[Link](http://crcv.ucf.edu/data/ucf-qnrf/)]
 - ShanghaiTech Dataset [Link: [Dropbox ](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)/ [BaiduNetdisk](https://pan.baidu.com/s/1nuAYslz)]
 - WorldExpo'10 Dataset [[Link](http://www.ee.cuhk.edu.hk/~xgwang/expo.html)]
 - UCF CC 50 Dataset [[Link](http://crcv.ucf.edu/data/crowd_counting.php)]

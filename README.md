@@ -3,6 +3,7 @@
 ## Papers
 
 ### 2018
+- <a name="todo"></a> Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds (**ECCV2018**) [[paper](https://arxiv.org/abs/1808.01050)]
 - <a name="NCL"></a> Crowd Counting with Deep Negative Correlation Learning (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf)] [[code](https://github.com/shizenglin/Deep-NCL)]
 - <a name="IG-CNN"></a> Divide and Grow: Capturing Huge Diversity in Crowd Images with
 Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sam_Divide_and_Grow_CVPR_2018_paper.pdf)]

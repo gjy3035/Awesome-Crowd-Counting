@@ -57,7 +57,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 - UCF-QNRF Dataset [[Link](http://crcv.ucf.edu/data/ucf-qnrf/)]
 - ShanghaiTech Dataset [Link: [Dropbox ](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)/ [BaiduNetdisk](https://pan.baidu.com/s/1nuAYslz)]
 - WorldExpo'10 Dataset [[Link](http://www.ee.cuhk.edu.hk/~xgwang/expo.html)]
-- UCF CC 50 Dataset [[Link](http://crcv.ucf.edu/data/crowd_counting.php)]
+- UCF CC 50 Dataset [[Link](http://crcv.ucf.edu/data/ucf-cc-50/)]
 - Mall Dataset  [[Link](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)]
 - UCSD Dataset [[Link](http://www.svcl.ucsd.edu/projects/peoplecnt/)]
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]

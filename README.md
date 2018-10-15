@@ -93,7 +93,7 @@ The section is being continually updated. Note that some values have superscript
 ### ShanghaiTech Part A
 
 | Year-Conference/Journal | Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Pre-trained Model |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ---  | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2018--ECCV | [SANet](#SANet) | 67.0 | 104.5 | - | - | -  | 0.91M | None |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | None |
 | 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | 16.26M<sup>[SANet](#SANet)</sup> | VGG-16 |

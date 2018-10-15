@@ -92,14 +92,14 @@ The section is being continually updated. Note that some values have superscript
 
 ### ShanghaiTech Part A
 
-| Year-Conference/Journal | Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Runtime (ms) | Pre-trained |
+| Year-Conference/Journal | Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Pre-trained Model |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018--ECCV | [SANet](#SANet) | 67.0 | 104.5 | - | - | - | - | 0.91M | - |
-| 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | - | - |
-| 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | - | 16.26M<sup>[SANet](#SANet)</sup> | - |
-| 2018--CVPR | [L2R](#L2R) | 73.6 | 112.0 | - | - | - | - | - | - |
-| 2018--CVPR | [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | 5.1M | - | - | - |
-| 2016--CVPR | [MCNN](#MCNN) | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup> | - | - | 0.13M<sup>[SANet](#SANet)</sup> | - |
+| 2018--ECCV | [SANet](#SANet) | 67.0 | 104.5 | - | - | -  | 0.91M | None |
+| 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | None |
+| 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | 16.26M<sup>[SANet](#SANet)</sup> | VGG-16 |
+| 2018--CVPR | [L2R](#L2R) | 73.6 | 112.0 | - | - | - | - | VGG-16 |
+| 2018--CVPR | [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | 5.1M | - | None |
+| 2016--CVPR | [MCNN](#MCNN) | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup> | - | 0.13M<sup>[SANet](#SANet)</sup> | None |
 
 
 ### ShanghaiTech Part B

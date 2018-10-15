@@ -98,7 +98,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | None |
 | 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | 16.26M<sup>[SANet](#SANet)</sup> | VGG-16 |
 | 2018--CVPR | [L2R](#L2R) | 73.6 | 112.0 | - | - | - | - | VGG-16 |
-| 2018--CVPR | [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | 5.1M | - | None |
+| 2018--CVPR | [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | - | 5.1M | None |
 | 2016--CVPR | [MCNN](#MCNN) | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup> | - | 0.13M<sup>[SANet](#SANet)</sup> | None |
 
 
@@ -132,7 +132,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP | [BSAD](#BSAD) | 409.5 | 563.7 | 
 | 2018--CVPR | [CSR](#CSR) | 266.1 | 397.5 |
 | 2018--CVPR | [L2R](#L2R) | 279.6 | 388.9 | 
-| 2016--CVPR | [ACSCP](#ACSCP) | 291.0 | 404.6 | 
+| 2018--CVPR | [ACSCP](#ACSCP) | 291.0 | 404.6 | 
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |
@@ -142,7 +142,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP | [BSAD](#BSAD) | 4.1 | 21.7 | 11.9 | 11.0 | 3.5 | 10.5 |
 | 2018--CVPR | [CSR](#CSR) | 2.9 | 11.5 | 8.6 | 16.6 | 3.4 | 8.6 |
 | 2018--CVPR | [DecideNet](#DecideNet) | 2.0 | 13.14 | 8.90 | 17.40 | 4.75 | 9.23 |
-| 2016--CVPR | [ACSCP](#ACSCP) | 2.8 | 14.05 | 9.6 | 8.1 | 2.9 | 7.5 |
+| 2018--CVPR | [ACSCP](#ACSCP) | 2.8 | 14.05 | 9.6 | 8.1 | 2.9 | 7.5 |
 
 ### UCSD
 | Year-Conference/Journal | Method | MAE | MSE | 
@@ -150,7 +150,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet) | 1.02 | 1.29 |
 | 2018--TIP | [BSAD](#BSAD) | 1.00 | 1.40 | 
 | 2018--CVPR | [CSR](#CSR) | 1.16 | 1.47 |
-| 2016--CVPR | [ACSCP](#ACSCP) | 1.04 | 1.35 |
+| 2018--CVPR | [ACSCP](#ACSCP) | 1.04 | 1.35 |
 
 
 

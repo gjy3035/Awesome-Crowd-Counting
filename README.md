@@ -20,7 +20,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)]
 - Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)]
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
-
+<!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] -->
 
 
 
@@ -49,13 +49,11 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 - Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]
 - A **Survey** of Recent Advances in CNN-based Single Image Crowd Counting and Density
 Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
-- Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (arXiv) [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]
-- Multi-scale Convolution Neural Networks for Crowd Counting (arXiv) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]
+- Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP2017**) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]
 
 ### 2016 
 
 - Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
-<!--- - Slicing Convolutional Neural Network for Crowd Video Understanding (**CVPR2016**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.pdf)] [[code](https://github.com/amandajshao/Slicing-CNN)] -->
 - CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**ACMMM2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [unofficial code: [TensorFlow](https://github.com/aditya-vora/crowd_counting_tensorflow) [PyTorch](https://github.com/svishwa/crowdcount-mcnn)]
 ### 2015

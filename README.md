@@ -69,7 +69,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 
 ### 2012
 
-- Feature mining for localised crowd counting (**ECCV2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
+- Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2008
 - Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]

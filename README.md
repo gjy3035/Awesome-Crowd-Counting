@@ -3,17 +3,17 @@
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 ## Contents
-* [Tools](#Tools)
-* [Datasets](#Datasets)
-* [Papers](#Papers)
-* [Leaderboard](#Leaderboard)
+* [Tools](#tools)
+* [Datasets](#datasets)
+* [Papers](#papers)
+* [Leaderboard](#leaderboard)
 
-##  <a name="Tools"></a> Tools
+##  Tools
 
 - Density Map Generation from Key Points [[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)] [[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb)]
 
 
-## <a name="Datasets"></a> Datasets
+## Datasets
 
 - UCF-QNRF Dataset [[Link](http://crcv.ucf.edu/data/ucf-qnrf/)]
 - ShanghaiTech Dataset [Link: [Dropbox ](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)/ [BaiduNetdisk](https://pan.baidu.com/s/1nuAYslz)]
@@ -24,7 +24,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]
 - AHU-Crowd Dataset [[Link](http://cs-chan.com/downloads_crowd_dataset.html)] 
 
-## <a name="Papers"></a> Papers
+## Papers
 
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
@@ -94,7 +94,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 
 
 
-## <a name="Leaderboard"></a> Leaderboard
+## Leaderboard
 The section is being continually updated. Note that some values have superscript, which indicates their source. 
 
 

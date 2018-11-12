@@ -103,7 +103,6 @@ The section is being continually updated. Note that some values have superscript
 
 | Year-Conference/Journal | Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Pre-trained Model |
 | ---  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018 | [PaDNet](#PaDNet) | 63.3 | 95.6 | - | - | - | - | VGG-16 |
 | 2018--ECCV | [SANet](#SANet) | 67.0 | 104.5 | - | - | -  | 0.91M | None |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | None |
 | 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | 16.26M<sup>[SANet](#SANet)</sup> | VGG-16 |
@@ -116,7 +115,6 @@ The section is being continually updated. Note that some values have superscript
 
 | Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
-| 2018 | [PaDNet](#PaDNet) | 8.8 | 13.5 |
 | 2018--ECCV | [SANet](#SANet) | 8.4 | 13.6 |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 10.7 | 16.0 |
 | 2018--TIP | [BSAD](#BSAD) | 20.2 | 35.6 |
@@ -131,7 +129,6 @@ The section is being continually updated. Note that some values have superscript
 
 | Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
-| 2018 | [PaDNet](#PaDNet) | 107.8 | 187.1 |
 | 2018--ECCV | [CL](#CL) | 132 | 191 |
 | 2016--CVPR | [MCNN](#MCNN) | 277<sup>[CL](#CL)</sup> | 426<sup>[CL](#CL)</sup> |
 
@@ -139,7 +136,6 @@ The section is being continually updated. Note that some values have superscript
 ### UCF_CC_50
 | Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
-| 2018 | [PaDNet](#PaDNet) | 228.0 | 298.7 |
 | 2018--ECCV | [SANet](#SANet) | 258.4 | 334.9 |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 260.9 | 365.5 |
 | 2018--TIP | [BSAD](#BSAD) | 409.5 | 563.7 |
@@ -160,7 +156,6 @@ The section is being continually updated. Note that some values have superscript
 ### UCSD
 | Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
-| 2018 | [PaDNet](#PaDNet) | 0.82 | 1.03 |
 | 2018--ECCV | [SANet](#SANet) | 1.02 | 1.29 |
 | 2018--TIP | [BSAD](#BSAD) | 1.00 | 1.40 |
 | 2018--CVPR | [CSR](#CSR) | 1.16 | 1.47 |

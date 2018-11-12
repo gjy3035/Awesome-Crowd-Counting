@@ -29,6 +29,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper]( https://arxiv.org/abs/1811.02805 )]
 - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)]
 - In Defense of Single-column Networks for Crowd Counting [[paper](https://arxiv.org/abs/1808.06133)]
 - Perspective-Aware CNN For Crowd Counting [[paper](https://arxiv.org/abs/1807.01989)]
@@ -38,7 +39,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)]
 - Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)]
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
-<!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] -->
+  <!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] -->
 
 
 
@@ -112,35 +113,35 @@ The section is being continually updated. Note that some values have superscript
 
 ### ShanghaiTech Part B
 
-| Year-Conference/Journal | Method | MAE | MSE | 
-| --- | --- | --- | --- | 
+| Year-Conference/Journal | Method | MAE | MSE |
+| --- | --- | --- | --- |
 | 2018--ECCV | [SANet](#SANet) | 8.4 | 13.6 |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 10.7 | 16.0 |
 | 2018--TIP | [BSAD](#BSAD) | 20.2 | 35.6 |
 | 2018--CVPR | [CSR](#CSR) | 10.6 | 16.0 |
-| 2018--CVPR | [L2R](#L2R) | 13.7 | 21.4 | 
-| 2018--CVPR | [DecideNet](#DecideNet) | 21.53 | 31.98 | 
-| 2018--CVPR | [ACSCP](#ACSCP) | 17.2 | 27.4 | 
+| 2018--CVPR | [L2R](#L2R) | 13.7 | 21.4 |
+| 2018--CVPR | [DecideNet](#DecideNet) | 21.53 | 31.98 |
+| 2018--CVPR | [ACSCP](#ACSCP) | 17.2 | 27.4 |
 | 2016--CVPR | [MCNN](#MCNN) | 26.4 | 41.3 |
 
 
 ### UCF-QNRF
 
-| Year-Conference/Journal | Method | MAE | MSE | 
-| --- | --- | --- | --- | 
+| Year-Conference/Journal | Method | MAE | MSE |
+| --- | --- | --- | --- |
 | 2018--ECCV | [CL](#CL) | 132 | 191 |
 | 2016--CVPR | [MCNN](#MCNN) | 277<sup>[CL](#CL)</sup> | 426<sup>[CL](#CL)</sup> |
 
 
 ### UCF_CC_50
-| Year-Conference/Journal | Method | MAE | MSE | 
-| --- | --- | --- | --- | 
+| Year-Conference/Journal | Method | MAE | MSE |
+| --- | --- | --- | --- |
 | 2018--ECCV | [SANet](#SANet) | 258.4 | 334.9 |
 | 2018--ECCV | [ic-CNN](#ic-CNN) | 260.9 | 365.5 |
-| 2018--TIP | [BSAD](#BSAD) | 409.5 | 563.7 | 
+| 2018--TIP | [BSAD](#BSAD) | 409.5 | 563.7 |
 | 2018--CVPR | [CSR](#CSR) | 266.1 | 397.5 |
-| 2018--CVPR | [L2R](#L2R) | 279.6 | 388.9 | 
-| 2018--CVPR | [ACSCP](#ACSCP) | 291.0 | 404.6 | 
+| 2018--CVPR | [L2R](#L2R) | 279.6 | 388.9 |
+| 2018--CVPR | [ACSCP](#ACSCP) | 291.0 | 404.6 |
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |
@@ -153,10 +154,10 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [ACSCP](#ACSCP) | 2.8 | 14.05 | 9.6 | 8.1 | 2.9 | 7.5 |
 
 ### UCSD
-| Year-Conference/Journal | Method | MAE | MSE | 
+| Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
 | 2018--ECCV | [SANet](#SANet) | 1.02 | 1.29 |
-| 2018--TIP | [BSAD](#BSAD) | 1.00 | 1.40 | 
+| 2018--TIP | [BSAD](#BSAD) | 1.00 | 1.40 |
 | 2018--CVPR | [CSR](#CSR) | 1.16 | 1.47 |
 | 2018--CVPR | [ACSCP](#ACSCP) | 1.04 | 1.35 |
 

@@ -44,13 +44,13 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### 2018
-- <a name="todo"></a> Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid (**BMVC2018**) [[paper](https://arxiv.org/abs/1805.06115)]
-- <a name="todo"></a> Crowd Counting using Deep Recurrent Spatial-Aware Network (**IJCAI2018**) [[paper](https://arxiv.org/abs/1807.00601)]
-- <a name="todo"></a> Top-Down Feedback for Crowd Counting Convolutional Neural Network (**AAAI2018**) [[paper](https://arxiv.org/abs/1807.08881)]
+- <a name="AFP"></a>**[AFP]** Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid (**BMVC2018**) [[paper](https://arxiv.org/abs/1805.06115)]
+- <a name="DRSAN"></a>**[DRSAN]** Crowd Counting using Deep Recurrent Spatial-Aware Network (**IJCAI2018**) [[paper](https://arxiv.org/abs/1807.00601)]
+- <a name="TDF-CNN"></a>**[TDF-CNN]** Top-Down Feedback for Crowd Counting Convolutional Neural Network (**AAAI2018**) [[paper](https://arxiv.org/abs/1807.08881)]
 - <a name="SANet"></a> **[SANet]** Scale Aggregation Network for Accurate and Efficient Crowd Counting (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinkun_Cao_Scale_Aggregation_Network_ECCV_2018_paper.pdf)]
 - <a name="ic-CNN"></a> **[ic-CNN]** Iterative Crowd Counting (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09959)]
-- <a name="todo"></a> **[CL]** Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds (**ECCV2018**) [[paper](https://arxiv.org/abs/1808.01050)]
-- <a name="NCL"></a> Crowd Counting with Deep Negative Correlation Learning (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf)] [[code](https://github.com/shizenglin/Deep-NCL)]
+- <a name="CL"></a> **[CL]** Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds (**ECCV2018**) [[paper](https://arxiv.org/abs/1808.01050)]
+- <a name="D-ConvNet"></a> **[D-ConvNet]** Crowd Counting with Deep Negative Correlation Learning (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Crowd_Counting_With_CVPR_2018_paper.pdf)] [[code](https://github.com/shizenglin/Deep-NCL)]
 - <a name="IG-CNN"></a> **[IG-CNN]** Divide and Grow: Capturing Huge Diversity in Crowd Images with
 Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sam_Divide_and_Grow_CVPR_2018_paper.pdf)]
 - <a name="BSAD"></a> **[BSAD]** Body Structure Aware Deep Crowd Counting (**TIP2018**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] 
@@ -62,53 +62,64 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 - <a name="SaCNN"></a> **[SaCNN]** Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]
 
 ### 2017
-- Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV2017**) [[paper](https://arxiv.org/abs/1708.00953)]
-- Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)]
-- CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS2017**) [[paper](https://arxiv.org/abs/1707.09605)] [[code](https://github.com/svishwa/crowdcount-cascaded-mtl)]
-- Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]
+- <a name="CP-CNN"></a> **[CP-CNN]** Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV2017**) [[paper](https://arxiv.org/abs/1708.00953)]
+- <a name="ConvLSTM"></a> **[ConvLSTM]** Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)]
+- <a name="CMTL"></a> **[CMTL]** CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS2017**) [[paper](https://arxiv.org/abs/1707.09605)] [[code](https://github.com/svishwa/crowdcount-cascaded-mtl)]
+- <a name="SCNN"></a> **[Switching CNN]** Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]
 - A **Survey** of Recent Advances in CNN-based Single Image Crowd Counting and Density
 Estimation (**PR Letters**) [[paper](https://arxiv.org/abs/1707.01202)]
-- Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP2017**) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]
+- <a name="MSCNN"></a> **[MSCNN]** Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP2017**) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]
 
 ### 2016 
 
-- Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
-- CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**ACMMM2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
+- <a name="Hydra-CNN"></a> **[Hydra-CNN]** Towards perspective-free object counting with deep learning  (**ECCV2016**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]
+- <a name="CrowdNet"></a> **[CrowdNet]** CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**ACMMM2016**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [unofficial code: [TensorFlow](https://github.com/aditya-vora/crowd_counting_tensorflow) [PyTorch](https://github.com/svishwa/crowdcount-mcnn)]
 ### 2015
 
-- COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest
+- <a name="COUNTForest"></a> **[COUNT Forest]** COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest
 for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf)]
-- Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]
+- <a name="Zhang2015"></a> **[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]
 
 ### 2013
 
-- Multi-Source Multi-Scale Counting in Extremely Dense Crowd Images (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
-- Crossing the Line: Crowd Counting by Integer Programming with Local Features (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf)]
+- <a name="Idrees2013"></a> **[Idrees 2013]** Multi-Source Multi-Scale Counting in Extremely Dense Crowd Images (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
+- <a name="Ma2013"></a> **[Ma 2013]** Crossing the Line: Crowd Counting by Integer Programming with Local Features (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf)]
 
 ### 2012
 
-- Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
+- <a name="Chen2013"></a> **[Chen 2013]** Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2008
-- Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
+- <a name="Chan2008"></a> **[Chan 2008]** Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
 
 
 
 ## Leaderboard
-The section is being continually updated. Note that some values have superscript, which indicates their source. 
+The section is being continually updated. Note that some values have superscripts, which indicate their source. 
 
 
 ### ShanghaiTech Part A
 
-| Year-Conference/Journal | Method | MAE | MSE | PSNR | SSIM | Model Size | Params | Pre-trained Model |
-| ---  | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018--ECCV | [SANet](#SANet) | 67.0 | 104.5 | - | - | -  | 0.91M | None |
-| 2018--ECCV | [ic-CNN](#ic-CNN) | 69.8 | 117.3 | - | - | - | - | None |
-| 2018--CVPR | [CSR](#CSR) | 68.2 | 115.0 | 23.79 | 0.76 | - | 16.26M<sup>[SANet](#SANet)</sup> | VGG-16 |
-| 2018--CVPR | [L2R](#L2R) | 73.6 | 112.0 | - | - | - | - | VGG-16 |
-| 2018--CVPR | [ACSCP](#ACSCP) | 75.7 | 102.7 | - | - | - | 5.1M | None |
-| 2016--CVPR | [MCNN](#MCNN) | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup> | - | 0.13M<sup>[SANet](#SANet)</sup> | None |
+| Year-Conference/Journal | Methods                              | MAE   | MSE   | PSNR  | SSIM | Params | Pre-trained   Model |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2016-CVPR | [MCNN](#MCNN)                                 | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup> | 0.13M<sup>[SANet](#SANet)</sup>  | None                 |
+| 2017--ICIP | [MSCNN](#MSCNN)                           | 83.8  | 127.4 | -     | -    | -      | -                   |
+| 2017--AVSS | [CMTL](#CMTL)                                 | 101.3 | 152.4 | -     | -    | -      | None                |
+| 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135   | -     | -    | -      |VGG-16                 |
+| 2017--ICCV | [CP-CNN](#CP-CNN)                              | 73.6  | 106.4 | -     | -    | -      | -                   |
+| 2018-WACV | [SaCNN](#SaCNN)                                | 86.8  | 139.2 | -     | -    | -      | -                   |
+|  2018--CVPR | [ACSCP](#ACSCP)              | 75.7  | 102.7 | -     | -    | 5.1M     | None                 |
+|  2018--CVPR | [CSRNet](#CSR)                 | 68.2  | 115   | 23.79 | 0.76 | 16.26M<sup>[SANet](#SANet)</sup>   |VGG-16               |
+|  2018--CVPR | [IG-CNN](#IG-CNN)                               | 72.5  | 118.2 | -     | -    | -      | -                   |
+| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                        | 73.5  | 112.3 | -     | -    | -      | -                   |
+| 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 72    | 106.6 | -     | -    | -      | VGG-16                 |
+| 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 73.6  | 112   | -     | -    | -      |VGG-16               |
+| 2018--IJCAI | **[DRSAN](#DRSAN)**                              | 69.3  | **96.4**  | -     | -    | -      | -                   |
+| 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                   | 69.8  | 117.3 | -     | -    | -      | -                   |
+| 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                  | 68.5  | 116.2 | -     | -    | -      | -                   |
+| 2018--ECCV | **[SANet](#SANet)**                                | **67.0**    | 104.5 | -     | -    | 0.91M     | None               |
+| 2018--AAAI | [TDF-CNN](#TDF-CNN)                              | 97.5  | 145.1 | -     | -    | -      | -                   |
 
 
 ### ShanghaiTech Part B
@@ -160,6 +171,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP | [BSAD](#BSAD) | 1.00 | 1.40 |
 | 2018--CVPR | [CSR](#CSR) | 1.16 | 1.47 |
 | 2018--CVPR | [ACSCP](#ACSCP) | 1.04 | 1.35 |
+
 
 
 

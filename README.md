@@ -62,6 +62,7 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 - <a name="DR-ResNet"></a> **[DR-ResNet]** A Deeply-Recursive Convolutional Network for Crowd Counting (**ICASSP2018**) [[paper](https://arxiv.org/abs/1805.05633)] 
 - <a name="SaCNN"></a> **[SaCNN]** Crowd counting via scale-adaptive convolutional neural network (**WACV2018**) [[paper](https://arxiv.org/abs/1711.04433)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]
 - <a name="GAN-MTR"></a> **[GAN-MTR]** Crowd Counting With Minimal Data Using Generative Adversarial Networks For Multiple Target Regression (**WACV2018**) [[paper](http://visionlab.engr.ccny.cuny.edu/ccvcl/assets/publications/155/paper/crowd_gans_wacv_paper_final.pdf)] 
+- <a name="NetVLAD"></a> **[NetVLAD]** Multiscale Multitask Deep NetVLAD for Crowd Counting (**TII2018**) [[paper](https://ieeexplore.ieee.org/document/8401914)] [[code](https://github.com/shizenglin/Multitask-Multiscale-Deep-NetVLAD)]
 
 ### 2017
 
@@ -93,6 +94,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 - <a name="Bayesian"></a> **[Bayesian]** Bayesian Model Adaptation for Crowd Counts (**ICCV2015**) [[paper](https://ieeexplore.ieee.org/document/7410832?arnumber=7410832&tag=1)]
 - <a name="Zhang2015"></a> **[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]
 - <a name="Wang2015"></a> **[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM2015**) [[paper](https://dl.acm.org/citation.cfm?id=2806337)] 
+- <a name="Fu2015"></a> **[Fu 2015]** Fast crowd density estimation with convolutional neural networks (**AI2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)] 
 
 ### 2013
 
@@ -102,6 +104,10 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 ### 2012
 
 - <a name="Chen2013"></a> **[Chen 2013]** Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
+
+### 2010
+
+- <a name="Lempitsky2010"></a> **[Lempitsky 2010]** Learning To Count Objects in Images (**NIPS2010**) [[paper](http://papers.nips.cc/paper/4043-learning-to-count-objects-in-images)]
 
 ### 2008
 - <a name="Chan2008"></a> **[Chan 2008]** Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR 2008**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]

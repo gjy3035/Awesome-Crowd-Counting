@@ -125,15 +125,15 @@ The section is being continually updated. Note that some values have superscript
 | 2016--CVPR | [MCNN](#MCNN)     | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup>  | 0.13M<sup>[SANet](#SANet)</sup>  | None  |
 | 2017--ICIP | [MSCNN](#MSCNN)                              | 83.8  | 127.4 | -  | -  | -  | -           |
 | 2017--AVSS | [CMTL](#CMTL)                                | 101.3 | 152.4 | -  | -  | -  | None        |
-| 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135   | -  | -  | -  | VGG-16      |
+| 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135.0 | -  | -  | -  | VGG-16      |
 | 2017--ICCV | [CP-CNN](#CP-CNN)                            | 73.6  | 106.4 | -  | -  | -  | -           |
 | 2018--WACV | [SaCNN](#SaCNN)                              | 86.8  | 139.2 | -  | -  | -  | -           |
 | 2018--CVPR | [ACSCP](#ACSCP)                              | 75.7  | 102.7 | -  | -  | 5.1M | None      |
-| 2018--CVPR | [CSRNet](#CSR)   | 68.2  | 115 | 23.79 | 0.76 | 16.26M<sup>[SANet](#SANet)</sup> |VGG-16  |
+| 2018--CVPR | [CSRNet](#CSR)   | 68.2  | 115.0 | 23.79 | 0.76 | 16.26M<sup>[SANet](#SANet)</sup> |VGG-16|
 | 2018--CVPR | [IG-CNN](#IG-CNN)                            | 72.5  | 118.2 | -  | -  | -  | -           |
 | 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                   | 73.5  | 112.3 | -  | -  | -  | -           |
-| 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 72    | 106.6 | -  | -  | -  | VGG-16      |
-| 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 73.6  | 112   | -  | -  | -  | VGG-16      |
+| 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 72.0  | 106.6 | -  | -  | -  | VGG-16      |
+| 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 73.6  | 112.0 | -  | -  | -  | VGG-16      |
 | 2018--IJCAI| **[DRSAN](#DRSAN)**                          | 69.3  | **96.4**   | -  | -  | -     | -   |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                | 69.8  | 117.3 | -  | -  | -  | -           |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 68.5  | 116.2 | -  | -  | -  | -           |
@@ -146,15 +146,15 @@ The section is being continually updated. Note that some values have superscript
 | ---- | ---------------- | ----- | ---- |
 | 2016--CVPR | [MCNN](#MCNN)                                 | 26.4  | 41.3  |
 | 2017--ICIP | [MSCNN](#MSCNN)                               | 17.7  | 30.2  |
-| 2017--AVSS | [CMTL](#CMTL)                                 | 20    | 31.1  |
+| 2017--AVSS | [CMTL](#CMTL)                                 | 20.0  | 31.1  |
 | 2017--CVPR | [Switching CNN](#SCNN)                        | 21.6  | 33.4  |
 | 2017--ICCV | [CP-CNN](#CP-CNN)                             | 20.1  | 30.1  |
 | 2018--TIP  | [BSAD](#BSAD)                                 | 20.2  | 35.6  |
 | 2018--WACV | [SaCNN](#SaCNN)                               | 16.2  | 25.8  |
 | 2018--CVPR | [ACSCP](#ACSCP)                               | 17.2  | 27.4  |
-| 2018--CVPR | [CSRNet](#CSR)                                | 10.6  | 16    |
+| 2018--CVPR | [CSRNet](#CSR)                                | 10.6  | 16.0  |
 | 2018--CVPR | [IG-CNN](#IG-CNN)                             | 13.6  | 21.1  |
-| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                    | 18.7  | 26    |
+| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                    | 18.7  | 26.0  |
 | 2018--CVPR | [DecideNet](#DecideNet)                       | 21.53 | 31.98 |
 | 2018--CVPR | [DecideNet + R3](#DecideNet)                  | 20.75 | 29.42 |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example)  | 14.4  | 23.8  |
@@ -181,19 +181,20 @@ The section is being continually updated. Note that some values have superscript
 | Year-Conference/Journal | Methods                         | MAE   | MSE   | 
 | ---- | ---------------- | ----- | ---- |
 | 2013--CVPR | [Idrees 2013](#Idrees2013)                   | 468   | 590.3  |
-| 2015--CVPR | [Zhang 2015](#Zhang2015)                     | 467   | 498.5  |
+| 2015--CVPR | [Zhang 2015](#Zhang2015)                     | 467.0 | 498.5  |
 | 2016--CVPR | [MCNN](#MCNN)                                | 377.6 | 509.1  |
-| 2016--ACM MM | [CrowdNet](#CrowdNet)                      | 452.5 | -      |
-| 2016--ECCV | [Hydra-CNN](#Hydra-CNN)                      | 333.7 | 425.2  |
-| 2016--ICIP | [Shang 2016](#Shang2016)                     | 270.3 | -      |
+| 2016--ACM MM | [CrowdNet](#CrowdNet)                      | 452.5 |   -    |
+| 2016--ECCV | [Hydra-CNN](#Hydra-CNN)                      | 333.73| 425.26 |
+| 2016--ECCV | [CNN-Boosting](#CNN-Boosting)                | 364.4 |   -    |
+| 2016--ICIP | [Shang 2016](#Shang2016)                     | 270.3 |   -    |
 | 2017--ICIP | [MSCNN](#MSCNN)                              | 363.7 | 468.4  |
 | 2017--AVSS | [CMTL](#CMTL)                                | 322.8 | 397.9  |
 | 2017--CVPR | [Switching CNN](#SCNN)                       | 318.1 | 439.2  |
 | 2017--ICCV | [ConvLSTM-nt](#ConvLSTM)                     | 284.5 | 297.1  |
-| 2017--ICCV | [CP-CNN](#CP-CNN)                            | 295.8 | 320.9  |
+| 2017--ICCV | [CP-CNN](#CP-CNN)                            | 298.8 | 320.9  |
 | 2018--TIP  | [BSAD](#BSAD)                                | 409.5 | 563.7  |
 | 2018--WACV | [SaCNN](#SaCNN)                              | 314.9 | 424.8  |
-| 2018--CVPR | [ACSCP](#ACSCP)                              | 291   | 404.6  |
+| 2018--CVPR | [ACSCP](#ACSCP)                              | 291.0 | 404.6  |
 | 2018--CVPR | [CSRNet](#CSR)                               | 266.1 | 397.5  |
 | 2018--CVPR | [IG-CNN](#IG-CNN)                            | 291.4 | 349.4  |
 | 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                   | 288.4 | 404.7  |
@@ -233,13 +234,15 @@ The section is being continually updated. Note that some values have superscript
 
 | Year-Conference/Journal | Method | MAE | MSE |
 | --- | --- | --- | --- |
-| 2015--CVPR | [Zhang 2015](#Zhang2015)                | 1.6  | 3.31 |
+| 2015--CVPR | [Zhang 2015](#Zhang2015)                | 1.60 | 3.31 |
 | 2016--CVPR | [MCNN](#MCNN)                           | 1.07 | 1.35 |
-| 2017--CVPR | [Switching CNN](#SCNN)                  | 1.62 | 2.1  |
+| 2016--ECCV | [Hydra-CNN](#Hydra-CNN)                 | 1.65 |  -   |
+| 2016--ECCV | [CNN-Boosting](#CNN-Boosting)           | 1.10 |  -   |
+| 2017--CVPR | [Switching CNN](#SCNN)                  | 1.62 | 2.10 |
 | 2017--ICCV | [ConvLSTM-nt](#ConvLSTM)                | 1.73 | 3.52 |
-| 2017--ICCV | [ConvLSTM](#ConvLSTM)                   | 1.3  | 1.79 |
+| 2017--ICCV | [ConvLSTM](#ConvLSTM)                   | 1.30 | 1.79 |
 | 2017--ICCV | [Bidirectional   ConvLSTM](#ConvLSTM)   | 1.13 | 1.43 |
-| 2018--TIP  | **[BSAD](#BSAD)**                       | **1.0**   | 1.4  |
+| 2018--TIP  | **[BSAD](#BSAD)**                       | **1.0**  | 1.40 |
 | 2018--CVPR | [ACSCP](#ACSCP)                         | 1.04 | 1.35 |
-| 2018--CVPR | [CSRNet](#CSR)                          | 1.07 | 1.35 |
+| 2018--CVPR | [CSRNet](#CSR)                          | 1.16 | 1.47 |
 | 2018--ECCV | **[SANet](#SANet)**                     | 1.02 | **1.29** |

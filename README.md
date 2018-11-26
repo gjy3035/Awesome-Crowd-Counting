@@ -218,9 +218,9 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP  | [BSAD](#BSAD)                         | 4.1  | 21.7  | 11.9  | 11   | 3.5  | 10.5 |
 | 2018--WACV | [SaCNN](#SaCNN)                       | 2.6  | 13.5  | 10.6  | 12.5 | 3.3  | 8.5  |
 | 2018--CVPR | **[ACSCP](#ACSCP)**                   | 2.8  | 14.05 | 9.6   | **8.1**  | 2.9  | **7.5**  |
-| 2018--CVPR | [CSRNet](#CSR)                        | 2.9  | **11.5**  | **8.6**   | 16.6 | 3.4  | 8.6  |
+| 2018--CVPR | **[CSRNet](#CSR)**                    | 2.9  | **11.5**  | **8.6**  | 16.6 | 3.4  | 8.6  |
 | 2018--CVPR | [IG-CNN](#IG-CNN)                     | 2.6  | 16.1  | 10.15 | 20.2 | 7.6  | 11.3 |
-| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)            | **1.9**  | 12.1  | 20.7  | 8.3  | **2.6**  | 9.1  |
+| 2018--CVPR | **[D-ConvNet-v1](#D-ConvNet)**        | **1.9**  | 12.1  | 20.7  | 8.3  | **2.6** | 9.1  |
 | 2018--CVPR | [DecideNet](#DecideNet)               | 2    | 13.14 | 8.9   | 17.4 | 4.75 | 9.23 |
 | 2018--IJCAI| [DRSAN](#DRSAN)                       | 2.6  | 11.8  | 10.3  | 10.4 | 3.7  | 7.76 |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)        | 17   | 12.3  | 9.2   | 8.1  | 4.7  | 10.3 |

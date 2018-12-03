@@ -29,7 +29,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
-- <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper]( https://arxiv.org/abs/1811.02805 )]
+- <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
+- <a name="Context-Aware Net"></a>Context-Aware Crowd Counting [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
+- <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
 - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)]
 - In Defense of Single-column Networks for Crowd Counting [[paper](https://arxiv.org/abs/1808.06133)]
 - Perspective-Aware CNN For Crowd Counting [[paper](https://arxiv.org/abs/1807.01989)]
@@ -142,7 +144,7 @@ The section is being continually updated. Note that some values have superscript
 
 ### ShanghaiTech Part B
 
-| Year-Conference/Journal | Methods                          | MAE   | MSE   | 
+| Year-Conference/Journal | Methods                          | MAE   | MSE   |
 | ---- | ---------------- | ----- | ---- |
 | 2016--CVPR | [MCNN](#MCNN)                                 | 26.4  | 41.3  |
 | 2017--ICIP | [MSCNN](#MSCNN)                               | 17.7  | 30.2  |
@@ -178,7 +180,7 @@ The section is being continually updated. Note that some values have superscript
 
 ### UCF_CC_50
 
-| Year-Conference/Journal | Methods                         | MAE   | MSE   | 
+| Year-Conference/Journal | Methods                         | MAE   | MSE   |
 | ---- | ---------------- | ----- | ---- |
 | 2013--CVPR | [Idrees 2013](#Idrees2013)                   | 468   | 590.3  |
 | 2015--CVPR | [Zhang 2015](#Zhang2015)                     | 467.0 | 498.5  |

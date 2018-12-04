@@ -29,6 +29,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968)]
 - <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper]( https://arxiv.org/abs/1811.02805 )]
 - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)]
 - In Defense of Single-column Networks for Crowd Counting [[paper](https://arxiv.org/abs/1808.06133)]

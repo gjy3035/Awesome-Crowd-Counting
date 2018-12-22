@@ -29,6 +29,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+
 - <a neme="ASD"></a>Adaptive Scenario Discovery for Crowd Counting [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
 - <a name="Context-Aware Net"></a>Context-Aware Crowd Counting [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
@@ -44,7 +45,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
   <!-- --  Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] -->
   <!-- --  Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[<font color=red>code</font>](https://github.com/hankong/crowd-counting)] -->
 
+### 2019
 
+- <a name="GWTA-CCNN"></a>Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 
 ### 2018
 

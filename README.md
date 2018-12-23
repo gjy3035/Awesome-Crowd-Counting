@@ -47,6 +47,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2019
 
+- <a name=""></a>Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
 - <a name="GWTA-CCNN"></a>Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 
 ### 2018

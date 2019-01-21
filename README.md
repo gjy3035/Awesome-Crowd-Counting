@@ -34,6 +34,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a neme=""></a>Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
 - <a neme=""></a>Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)]
 - <a neme="ASD"></a>Adaptive Scenario Discovery for Crowd Counting [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
@@ -45,10 +46,10 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)]
 - Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)]
 - Geometric and Physical Constraints for Head Plane Crowd Density Estimation in Videos [[paper](https://arxiv.org/abs/1803.08805)]
-  <!-- -- Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[<font color=red>code</font>](https://github.com/littleaich/heatmap-regulation)] -->
-  <!-- --  Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)] -->
-  <!-- --  Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] -->
-  <!-- --  Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[<font color=red>code</font>](https://github.com/hankong/crowd-counting)] -->
+  <!-- - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[<font color=red>code</font>](https://github.com/littleaich/heatmap-regulation)] -->
+  <!-- - Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)] -->
+  <!-- - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] -->
+  <!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[<font color=red>code</font>](https://github.com/hankong/crowd-counting)] -->
 
 ### 2019
 

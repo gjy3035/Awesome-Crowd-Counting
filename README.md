@@ -37,7 +37,6 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a neme=""></a>Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
 - <a neme=""></a>Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
 - <a neme=""></a>Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)]
-- <a neme="ASD"></a>Adaptive Scenario Discovery for Crowd Counting [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
 - <a name="Context-Aware Net"></a>Context-Aware Crowd Counting [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
 - <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
@@ -53,7 +52,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
   <!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[<font color=red>code</font>](https://github.com/hankong/crowd-counting)] -->
 
 ### 2019
-
+- <a neme="ASD"></a>Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name=""></a>Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
 - <a name="GWTA-CCNN"></a>Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 

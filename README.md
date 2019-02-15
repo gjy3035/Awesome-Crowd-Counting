@@ -225,6 +225,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 260.9 | 365.5  |
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 354.7 | 491.4  |
+| 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  | 
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |

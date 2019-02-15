@@ -50,11 +50,17 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
   <!-- - Depth Information Guided Crowd Counting for Complex Crowd Scenes [[paper](https://arxiv.org/abs/1803.02256)] -->
   <!-- - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)] -->
   <!-- - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field  [[paper](https://arxiv.org/abs/1706.03686)] [[<font color=red>code</font>](https://github.com/hankong/crowd-counting)] -->
+  
+### Methods dealing with the lack of labelled data
+- <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
+- <a name="CAC"></a>**[CAC]** Class-Agnostic Counting (**ACCV2018**) [[paper](https://arxiv.org/abs/1811.00472) [<font color=red>code</font>](https://github.com/erikalu/class-agnostic-counting)]
+- <a name="L2R"></a>  **[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[<font color=red>code</font>](https://github.com/xialeiliu/CrowdCountingCVPR18)] 
+
 
 ### 2019
 - <a neme="ASD"></a>Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name=""></a>Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
-- <a name="GWTA-CCNN"></a>Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
+- <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 
 ### 2018
 - <a name="LCFCN"></a> **[LCFCN]**  Where are the Blobs: Counting by Localization with Point Supervision (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09856)] [[<font color=red>code</font>](https://github.com/ElementAI/LCFCN)]
@@ -153,6 +159,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 68.5  | 116.2 | -  | -  | -  | -           |
 | 2018--ECCV | **[SANet](#SANet)**                          | **67.0** | 104.5   | -  | -  | 0.91M | None|
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 97.5  | 145.1 | -  | -  | -  | -           |
+| 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
 
 ### ShanghaiTech Part B
 
@@ -218,6 +225,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 260.9 | 365.5  |
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 354.7 | 491.4  |
+| 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  | 
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |

@@ -59,7 +59,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### 2019
-- <a name="ASD"></a>Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
+- <a name="ASD"></a> **[ASD]** Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name=""></a>Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 

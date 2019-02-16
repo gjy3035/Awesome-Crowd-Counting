@@ -161,7 +161,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 67.0  | 104.5 | -  | -  | 0.91M | None|
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 97.5  | 145.1 | -  | -  | -  | -           |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
-| 2019--ICASSP |**[ASD](#ASD)**				                      | **65.6**  | 98.0  | - | - | - | -          |
+| 2019--ICASSP |**[ASD](#ASD)**                             | **65.6**  | 98.0  | - | - | - | -          |
 
 ### ShanghaiTech Part B
 
@@ -187,7 +187,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16    |
 | 2018--ECCV | **[SANet](#SANet)**                           |  **8.4**   | **13.6**  |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                           | 20.7  | 32.8  |
-| 2019--ICASSP | [ASD](#ASD)				                         | 8.5   | 13.7  |
+| 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 
 ### UCF-QNRF
 
@@ -229,7 +229,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 354.7 | 491.4  |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  |
-| 2019--ICASSP| [ASD](#ASD)				                          | 196.2 | 270.9  |
+| 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |

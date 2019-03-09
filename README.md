@@ -43,7 +43,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
 - <a name="Context-Aware Net"></a>Context-Aware Crowd Counting [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
 - <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
-- Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[<font color=red>code</font>](http://github.com/siyuhuang/crowdcount-stackpool)]
+  <!-- - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[<font color=red>code</font>](http://github.com/siyuhuang/crowdcount-stackpool)]
 - In Defense of Single-column Networks for Crowd Counting [[paper](https://arxiv.org/abs/1808.06133)]
 - Perspective-Aware CNN For Crowd Counting [[paper](https://arxiv.org/abs/1807.01989)]
 - Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)]

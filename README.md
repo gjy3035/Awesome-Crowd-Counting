@@ -70,6 +70,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 
 ### 2018
+- <a name="AMDCN"></a> **[AMDCN]** An Aggregated Multicolumn Dilated Convolution Network for Perspective-Free Counting (**CVPRW2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Deb_An_Aggregated_Multicolumn_CVPR_2018_paper.pdf)] [[code](https://github.com/diptodip/counting)]
+- <a name="DA-Net"></a> **[DA-Net]** DA-Net: Learning the Fine-Grained Density Distribution With Deformation Aggregation Network (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8497050)][[code](https://github.com/BigTeacher-777/DA-Net)]
 - <a name="LCFCN"></a> **[LCFCN]**  Where are the Blobs: Counting by Localization with Point Supervision (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09856)] [[<font color=red>code</font>](https://github.com/ElementAI/LCFCN)]
 - <a name="CAC"></a>**[CAC]** Class-Agnostic Counting (**ACCV2018**) [[paper](https://arxiv.org/abs/1811.00472) [<font color=red>code</font>](https://github.com/erikalu/class-agnostic-counting)]
 - <a name="AFP"></a>**[AFP]** Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid (**BMVC2018**) [[paper](https://arxiv.org/abs/1805.06115)]

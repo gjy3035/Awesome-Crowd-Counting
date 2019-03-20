@@ -20,7 +20,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Datasets
 - GCC Dataset [[Link](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/gjy3035_mail_nwpu_edu_cn/Eo4L82dALJFDvUdy8rBm6B0BuQk6n5akJaN1WUF1BAeKUA?e=ge2cRg)] (a large-scale, synthetic and diverse dataset)
-- UCF-QNRF Dataset [[Link](http://crcv.ucf.edu/data/ucf-qnrf/)]
+- UCF-QNRF Dataset [[Link](http://crcv.ucf.edu/data/ucf-qnrf/) / [GoogleDrive](https://drive.google.com/open?id=1fLZdOsOXlv2muNB_bXEW6t-IS9MRziL6)]
 - ShanghaiTech Dataset [Link: [Dropbox ](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)/ [BaiduNetdisk](https://pan.baidu.com/s/1nuAYslz)]
 - WorldExpo'10 Dataset [[Link](http://www.ee.cuhk.edu.hk/~xgwang/expo.html)]
 - UCF CC 50 Dataset [[Link](http://crcv.ucf.edu/data/ucf-cc-50/)]

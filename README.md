@@ -41,7 +41,6 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
 - <a name=""></a>Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
 - <a name=""></a>Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)]
-- <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding [[paper](https://arxiv.org/pdf/1811.11968.pdf)]
 - <a name="Context-Aware Net"></a>Context-Aware Crowd Counting [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
 - <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
   <!-- - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[<font color=red>code</font>](http://github.com/siyuhuang/crowdcount-stackpool)]
@@ -64,6 +63,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### 2019
+- <a name="ADCrowdNet"></a>ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding (**CVPR2019**) [[paper](https://arxiv.org/abs/1811.11968)]
 - <a name="CCWld"></a> **[CCWld]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)])
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="ASD"></a> **[ASD]** Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]

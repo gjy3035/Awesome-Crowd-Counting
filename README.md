@@ -11,7 +11,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Code
 ### Crowd Counting Code Framework (C^3 Framework)
-[[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is under development.
+[[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released.
 
 ##  Tools
 

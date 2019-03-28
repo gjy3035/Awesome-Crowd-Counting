@@ -34,6 +34,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a name=""></a>W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)]
 - <a name=""></a>Crowd Counting with Decomposed Uncertainty [[paper](http://arxiv.org/abs/1903.07427)]
 - <a name="TEDnet"></a>Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks [[paper](https://arxiv.org/abs/1903.00853)]
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting [[paper](https://arxiv.org/abs/1811.11269)]

@@ -3,18 +3,18 @@
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 ## Contents
-* [Code](#code)
-* [Tools](#tools)
+* [Misc](#misc)
 * [Datasets](#datasets)
 * [Papers](#papers)
 * [Leaderboard](#leaderboard)
 
-## Code
-### Crowd Counting Code Framework (C^3 Framework)
+## Misc
+
+### Code
 [[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released.
-
-##  Tools
-
+### Technical blog
+[2017-11-19] Counting Crowds and Lines with AI [[Link1](https://blog.dimroc.com/2017/11/19/counting-crowds-and-lines/)] [[Link2](https://count.dimroc.com/)] [[Code](https://github.com/dimroc/count)]
+###  GT generation
 - Density Map Generation from Key Points [[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)] [[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb)] [[Fast Python Code](https://github.com/vlad3996/computing-density-maps)]
 
 

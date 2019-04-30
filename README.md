@@ -190,14 +190,15 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                   | 73.5  | 112.3 | -  | -  | -  | -           |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 72.0  | 106.6 | -  | -  | -  | VGG-16      |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 73.6  | 112.0 | -  | -  | -  | VGG-16      |
-| 2018--IJCAI| **[DRSAN](#DRSAN)**                          | 69.3  | **96.4**   | -  | -  | -     | -   |
+| 2018--IJCAI| **[DRSAN](#DRSAN)**                          | 69.3  | **96.4**   | -  | -  | - | -       |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                | 69.8  | 117.3 | -  | -  | -  | -           |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 68.5  | 116.2 | -  | -  | -  | -           |
 | 2018--ECCV | [SANet](#SANet)                              | 67.0  | 104.5 | -  | -  | 0.91M | None|
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 97.5  | 145.1 | -  | -  | -  | -           |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
-| 2019--CVPR |**[SFCN](#SFCN)**                             | **64.8** | 107.5  | - | - | - | -          |
+| 2019--CVPR | [SFCN](#SFCN)                                | 64.8  | 107.5 | -  | -  | -  | -           |
+| 2019--CVPR |**[CAN](#CAN)**                               | **62.3** | 100.0   | -  | -  | - | -       |
 
 ### ShanghaiTech Part B
 
@@ -224,7 +225,8 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
-| 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | **13.0** |
+| 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | 13.0 |
+| 2019--CVPR | **[CAN](#CAN)**                               | 7.8   | **12.2** |
 
 ### UCF-QNRF
 
@@ -235,6 +237,7 @@ The section is being continually updated. Note that some values have superscript
 | 2017--AVSS | [CMTL](#CMTL)<sup>[CL](#CL)</sup>            | 252 | 0.54 | 514 | 0.005932 | 0.0244 | 0.5024 | - | - | - |
 | 2017--CVPR | [Switching CNN](#SCNN)<sup>[CL](#CL)</sup>   | 228 | 0.44 | 445 | 0.005673 | 0.0263 | 0.5301 | - | - | - |
 | 2018--ECCV | [CL](#CL)     | 132 | 0.26 | 191 | 0.00044| 0.0017 | 0.9131 | 75.8% | 59.75%	| 0.714|
+| 2019--CVPR | [CAN](#CAN)   | 107 | - | 183 | - | - | - | - | - | - |
 | 2019--CVPR | **[SFCN](#SFCN)** | **102.0** | - | **171.4** | - | - | - | - | - | - |
 
 
@@ -244,30 +247,31 @@ The section is being continually updated. Note that some values have superscript
 | ---- | ---------------- | ----- | ---- |
 | 2013--CVPR | [Idrees 2013](#Idrees2013)                   | 468.0 | 590.3  |
 | 2015--CVPR | [Zhang 2015](#Zhang2015)                     | 467.0 | 498.5  |
-| 2016--CVPR | [MCNN](#MCNN)                                | 377.6 | 509.1  |
 | 2016--ACM MM | [CrowdNet](#CrowdNet)                      | 452.5 |   -    |
-| 2016--ECCV | [Hydra-CNN](#Hydra-CNN)                      | 333.73| 425.26 |
+| 2016--CVPR | [MCNN](#MCNN)                                | 377.6 | 509.1  |
 | 2016--ECCV | [CNN-Boosting](#CNN-Boosting)                | 364.4 |   -    |
+| 2016--ECCV | [Hydra-CNN](#Hydra-CNN)                      | 333.73| 425.26 |
 | 2016--ICIP | [Shang 2016](#Shang2016)                     | 270.3 |   -    |
 | 2017--ICIP | [MSCNN](#MSCNN)                              | 363.7 | 468.4  |
 | 2017--AVSS | [CMTL](#CMTL)                                | 322.8 | 397.9  |
 | 2017--CVPR | [Switching CNN](#SCNN)                       | 318.1 | 439.2  |
-| 2017--ICCV | [ConvLSTM-nt](#ConvLSTM)                     | 284.5 | 297.1  |
 | 2017--ICCV | [CP-CNN](#CP-CNN)                            | 298.8 | 320.9  |
+| 2017--ICCV | [ConvLSTM-nt](#ConvLSTM)                     | 284.5 | 297.1  |
 | 2018--TIP  | [BSAD](#BSAD)                                | 409.5 | 563.7  |
+| 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 354.7 | 491.4  |
 | 2018--WACV | [SaCNN](#SaCNN)                              | 314.9 | 424.8  |
-| 2018--CVPR | [ACSCP](#ACSCP)                              | 291.0 | 404.6  |
-| 2018--CVPR | [CSRNet](#CSR)                               | 266.1 | 397.5  |
 | 2018--CVPR | [IG-CNN](#IG-CNN)                            | 291.4 | 349.4  |
-| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                   | 288.4 | 404.7  |
+| 2018--CVPR | [ACSCP](#ACSCP)                              | 291.0 | 404.6  |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 291.5 | 397.6  |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 279.6 | 388.9  |
-| 2018--IJCAI| **[DRSAN](#DRSAN)**                          | 219.2 | **250.2**  |
+| 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)                   | 288.4 | 404.7  |
+| 2018--CVPR | [CSRNet](#CSR)                               | 266.1 | 397.5  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 260.9 | 365.5  |
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
-| 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 354.7 | 491.4  |
+| 2018--IJCAI| [DRSAN](#DRSAN)                              | 219.2 | 250.2  |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  |
 | 2019--CVPR | [SFCN](#SFCN)                                | 214.2 | 318.2  |
+| 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7**  |
 | 2019--ICASSP| **[ASD](#ASD)**                             | **196.2** | 270.9  |
 
 ### WorldExpo'10
@@ -284,7 +288,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP  | [BSAD](#BSAD)                         | 4.1  | 21.7  | 11.9  | 11.0 | 3.5  | 10.5 |
 | 2018--WACV | [SaCNN](#SaCNN)                       | 2.6  | 13.5  | 10.6  | 12.5 | 3.3  | 8.5  |
 | 2018--CVPR | [ACSCP](#ACSCP)                       | 2.8  | 14.05 | 9.6   | 8.1  | 2.9  | 7.5  |
-| 2018--CVPR | **[CSRNet](#CSR)**                    | 2.9  | **11.5**  | **8.6**  | 16.6 | 3.4  | 8.6  |
+| 2018--CVPR | **[CSRNet](#CSR)**                    | 2.9  | 11.5  | **8.6** | 16.6 | 3.4 | 8.6 |
 | 2018--CVPR | [IG-CNN](#IG-CNN)                     | 2.6  | 16.1  | 10.15 | 20.2 | 7.6  | 11.3 |
 | 2018--CVPR | **[D-ConvNet-v1](#D-ConvNet)**        | 1.9  | 12.1  | 20.7  | 8.3  | **2.6** | 9.1  |
 | 2018--CVPR | [DecideNet](#DecideNet)               | 2.0  | 13.14 | 8.9   | 17.4 | 4.75 | 9.23 |
@@ -293,8 +297,10 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN)                     | 17.0 | 12.3  | 9.2   | 8.1  | 4.7  | 10.3 |
 | 2018--ECCV | [SANet](#SANet)                       | 2.6  | 13.2  | 9.0   | 13.3 | 3.0  | 8.2  |
 | 2019--CVPR | [PACNN](#PACNN)                       | 2.3  | 12.5  | 9.1   | 11.2 | 3.8  | 7.8  |
-| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)**   | 1.7  | 14.4  | 11.5  | **7.9** | 3.0  | 7.7 |
-| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)**    | **1.6**  | 13.2  | 8.7  | 10.6 | **2.6**  | **7.3** |
+| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)** | 1.7   | 14.4  | 11.5 | **7.9** | 3.0 | 7.7 |
+| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)**  | **1.6** | 13.2 | 8.7 | 10.6 | **2.6** | 7.3 |
+| 2019--CVPR | [CAN](#CAN)                           | 2.9  | 12.0  | 10.0  | **7.9** | 4.3 | 7.4  |
+| 2019--CVPR | [ECAN](#CAN)                          | 2.4  | **9.4** | 8.8 | 11.2 | 4.0 | **7.2** |
 
 
 

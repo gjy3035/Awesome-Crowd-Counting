@@ -305,7 +305,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)** | 1.7   | 14.4  | 11.5 | **7.9** | 3.0 | 7.7 |
 | 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)**  | **1.6** | 13.2 | 8.7 | 10.6 | **2.6** | 7.3 |
 | 2019--CVPR | **[CAN](#CAN)**                       | 2.9  | 12.0  | 10.0  | **7.9** | 4.3 | 7.4  |
-| 2019--CVPR | **[CAN](ECAN)(#CAN)**                 | 2.4  | **9.4** | 8.8 | 11.2 | 4.0 | **7.2** |
+| 2019--CVPR | **[CAN](#CAN)(ECAN)**                 | 2.4  | **9.4** | 8.8 | 11.2 | 4.0 | **7.2** |
 
 
 

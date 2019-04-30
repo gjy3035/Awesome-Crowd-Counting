@@ -61,7 +61,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 - <a name="CAC"></a>**[CAC]** Class-Agnostic Counting (**ACCV2018**) [[paper](https://arxiv.org/abs/1811.00472)] [[<font color=red>code</font>](https://github.com/erikalu/class-agnostic-counting)]
 - <a name="L2R"></a>  **[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[<font color=red>code</font>](https://github.com/xialeiliu/CrowdCountingCVPR18)] 
-
+- <a name="SSR"></a> **[SSR]** From Semi-Supervised to Transfer Counting of Crowds (**ICCV2013**) [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Loy_From_Semi-supervised_to_2013_ICCV_paper.pdf)]
 
 ### 2019
 - <a name="TEDnet"></a> **[TEDnet]** Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.00853)]
@@ -72,7 +72,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="CCWld"></a> **[CCWld]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="ASD"></a> **[ASD]** Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
-- <a name=""></a>Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
+- <a name="SAAN"></a> **[SAAN]** Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]
 - <a name="SPN"></a> **[SPN]** Scale Pyramid Network for Crowd Counting (**WACV2019**) [[paper](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8642793)]
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 - <a name=""></a>Cross-Line Pedestrian Counting Based on Spatially-Consistent Two-Stage Local Crowd Density Estimation and Accumulation (**CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8295124)]
@@ -144,6 +144,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 
 - <a name="Idrees2013"></a> **[Idrees 2013]** Multi-Source Multi-Scale Counting in Extremely Dense Crowd Images (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
 - <a name="Ma2013"></a> **[Ma 2013]** Crossing the Line: Crowd Counting by Integer Programming with Local Features (**CVPR2013**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf)]
+- <a name="SSR"></a> **[SSR]** From Semi-Supervised to Transfer Counting of Crowds (**ICCV2013**) [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Loy_From_Semi-supervised_to_2013_ICCV_paper.pdf)]
 
 ### 2012
 

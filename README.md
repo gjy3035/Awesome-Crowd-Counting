@@ -63,6 +63,15 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="L2R"></a>  **[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[<font color=red>code</font>](https://github.com/xialeiliu/CrowdCountingCVPR18)] 
 - <a name="SSR"></a> **[SSR]** From Semi-Supervised to Transfer Counting of Crowds (**ICCV2013**) [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Loy_From_Semi-supervised_to_2013_ICCV_paper.pdf)]
 
+### Survey
+- <a name=""></a> Beyond Counting：Comparisons of Density Maps for Crowd Analysis Tasks (**CSVT2018**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360001)]
+- <a name=""></a> A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation (**PR Letters2018**) [[paper](https://arxiv.org/abs/1707.01202)]
+- <a name=""></a> Advances and Trends in Visual Crowd Analysis: A Systematic Survey and Evaluation of Crowd Modelling Techniques (**Neurocomputing2016**) [[paper](https://home.isr.uc.pt/~jorge/wp-content/uploads/85.pdf)]
+- <a name=""></a> An Evaluation of Crowd Counting Methods, Features and Regression Models (**CVIU2015**) [[paper](https://eprints.qut.edu.au/75845/4/75845.pdf)]
+- <a name=""></a> Crowded Scene Analysis：A Survey (**CSVT2015**) [[paper](https://arxiv.org/pdf/1502.01812.pdf)]
+- <a name=""></a> Fast crowd density estimation with convolutional neural networks (**AI2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)]
+- <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
+
 ### 2019
 - <a name="TEDnet"></a> **[TEDnet]** Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.00853)]
 - <a name="CAN"></a> **[CAN]** Context-Aware Crowd Counting (**CVPR2019**) [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
@@ -114,7 +123,6 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 - <a name="CMTL"></a> **[CMTL]** CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS2017**) [[paper](https://arxiv.org/abs/1707.09605)] [[<font color=red>code</font>](https://github.com/svishwa/crowdcount-cascaded-mtl)]
 - <a name="ResnetCrowd"></a> **[ResnetCrowd]** ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification (**AVSS2017**) [[paper](https://arxiv.org/abs/1705.10698)]
 - <a name="SCNN"></a> **[Switching CNN]** Switching Convolutional Neural Network for Crowd Counting (**CVPR2017**) [[paper](https://arxiv.org/abs/1708.00199)] [[<font color=red>code</font>](https://github.com/val-iisc/crowd-counting-scnn)]
-- A **Survey** of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation (**PR Letters2017**) [[paper](https://arxiv.org/abs/1707.01202)]
 - <a name="DAL-SVR"></a> **[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters2017**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
 - <a name="MSCNN"></a> **[MSCNN]** Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP2017**) [[paper](https://arxiv.org/abs/1702.02359)] [[<font color=red>code</font>](https://github.com/Ling-Bao/mscnn)]
 - <a name="FCNCC"></a> **[FCNCC]** Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP2017**) [[paper](https://arxiv.org/abs/1612.00220)] 
@@ -137,8 +145,7 @@ Incrementally Growing CNN (**CVPR2018**) [[paper](http://openaccess.thecvf.com/c
 for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf)]
 - <a name="Bayesian"></a> **[Bayesian]** Bayesian Model Adaptation for Crowd Counts (**ICCV2015**) [[paper](https://ieeexplore.ieee.org/document/7410832?arnumber=7410832&tag=1)]
 - <a name="Zhang2015"></a> **[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR2015**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[<font color=red>code</font>](https://github.com/wk910930/crowd_density_segmentation)]
-- <a name="Wang2015"></a> **[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM2015**) [[paper](https://dl.acm.org/citation.cfm?id=2806337)] 
-- <a name="Fu2015"></a> **[Fu 2015]** Fast crowd density estimation with convolutional neural networks (**AI2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)] 
+- <a name="Wang2015"></a> **[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM2015**) [[paper](https://dl.acm.org/citation.cfm?id=2806337)]
 
 ### 2014
 

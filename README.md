@@ -199,7 +199,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
 | 2019--CVPR | [SFCN](#SFCN)                                | 64.8  | 107.5 | -  | -  | -  | -           |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | -  | -  | -  | -           |
-| 2019--CVPR |**[CAN](#CAN)**                               | **62.3** | 100.0   | -  | -  | - | -       |
+| 2019--CVPR | [CAN](#CAN)                                  | 62.3  | 100.0 | -  | -  | -  | -           |
+| 2019--WACV |**[SPN](#SPN)**                               | **61.7** | 99.5 | - | - | -  | -           |
 
 ### ShanghaiTech Part B
 
@@ -225,6 +226,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                 | 10.4  | 16.7  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
+| 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
 | 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | 13.0 |
@@ -273,6 +275,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
 | 2018--IJCAI| [DRSAN](#DRSAN)                              | 219.2 | 250.2  |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  |
+| 2019--WACV | [SPN](#SPN)                                  | 259.2 | 335.9  |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
 | 2019--CVPR | [SFCN](#SFCN)                                | 214.2 | 318.2  |
 | 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7**  |
@@ -325,5 +328,6 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [ACSCP](#ACSCP)                         | 1.04 | 1.35 |
 | 2018--ECCV | [SANet](#SANet)                         | 1.02 | 1.29 |
 | 2018--TIP  | [BSAD](#BSAD)                           | 1.00 | 1.40 |
+| 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)               | 0.98 | 1.25 |
 | 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | **1.18** |

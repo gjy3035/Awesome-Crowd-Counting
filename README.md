@@ -182,7 +182,7 @@ The section is being continually updated. Note that some values have superscript
 | 2017--AVSS | [CMTL](#CMTL)                                | 101.3 | 152.4 | -  | -  | -  | None        |
 | 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135.0 | -  | -  | -  | VGG-16      |
 | 2017--ICIP | [MSCNN](#MSCNN)                              | 83.8  | 127.4 | -  | -  | -  | -           |
-| 2017--ICCV | [CP-CNN](#CP-CNN)                            | 73.6  | 106.4 | -  | -  | -  | -           |
+| 2017--ICCV | [CP-CNN](#CP-CNN) | 73.6  | 106.4 | 21.72<sup>[TEDnet](#TEDnet)</sup> | 0.72<sup>[TEDnet](#TEDnet)</sup>  | 68.4M<sup>[TEDnet](#TEDnet)</sup>  | - |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 97.5  | 145.1 | -  | -  | -  | -           |
 | 2018--WACV | [SaCNN](#SaCNN)                              | 86.8  | 139.2 | -  | -  | -  | -           |
 | 2018--CVPR | [ACSCP](#ACSCP)                              | 75.7  | 102.7 | -  | -  | 5.1M | None      |
@@ -198,7 +198,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
 | 2019--CVPR | [SFCN](#SFCN)                                | 64.8  | 107.5 | -  | -  | -  | -           |
-| 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | -  | -  | -  | -           |
+| 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | 25.88 | 0.83 | 1.63M | -   |
 | 2019--CVPR | [CAN](#CAN)                                  | 62.3  | 100.0 | -  | -  | -  | -           |
 | 2019--WACV |**[SPN](#SPN)**                               | **61.7** | 99.5 | - | - | -  | -           |
 

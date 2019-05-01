@@ -199,6 +199,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
 | 2019--CVPR | [SFCN](#SFCN)                                | 64.8  | 107.5 | -  | -  | -  | -           |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | 25.88 | 0.83 | 1.63M | -   |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)     | 63.2  | 98.9  | 24.48 | 0.88 | -     | -   |
 | 2019--CVPR | [CAN](#CAN)                                  | 62.3  | 100.0 | -  | -  | -  | -           |
 | 2019--WACV |**[SPN](#SPN)**                               | **61.7** | 99.5 | - | - | -  | -           |
 

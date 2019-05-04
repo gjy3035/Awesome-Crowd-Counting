@@ -44,8 +44,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
 - <a name=""></a>Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
 - <a name=""></a>Mask-aware networks for crowd counting [[paper](https://arxiv.org/pdf/1901.00039.pdf)]
-- <a name="PaDNet"></a> PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
-  <!-- - Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[<font color=red>code</font>](http://github.com/siyuhuang/crowdcount-stackpool)]
+<!-- - PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)]
+- Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[<font color=red>code</font>](http://github.com/siyuhuang/crowdcount-stackpool)]
 - In Defense of Single-column Networks for Crowd Counting [[paper](https://arxiv.org/abs/1808.06133)]
 - Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)]
 - Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)]
@@ -180,9 +180,9 @@ The section is being continually updated. Note that some values have superscript
 | ---- | ------------------------------------ | ----- | ----- | ----- | ---- | ------ | ------------------- |
 | 2016--CVPR | [MCNN](#MCNN)     | 110.2 | 173.2 | 21.4<sup>[CSR](#CSR)</sup> | 0.52<sup>[CSR](#CSR)</sup>  | 0.13M<sup>[SANet](#SANet)</sup>  | None  |
 | 2017--AVSS | [CMTL](#CMTL)                                | 101.3 | 152.4 | -  | -  | -  | None        |
-| 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135.0 | -  | -  | -  | VGG-16      |
+| 2017--CVPR | [Switching CNN](#SCNN)                       | 90.4  | 135.0 | -  | -  | 15.11M<sup>[SANet](#SANet)</sup>  | VGG-16      |
 | 2017--ICIP | [MSCNN](#MSCNN)                              | 83.8  | 127.4 | -  | -  | -  | -           |
-| 2017--ICCV | [CP-CNN](#CP-CNN) | 73.6  | 106.4 | 21.72<sup>[TEDnet](#TEDnet)</sup> | 0.72<sup>[TEDnet](#TEDnet)</sup>  | 68.4M<sup>[TEDnet](#TEDnet)</sup>  | - |
+| 2017--ICCV | [CP-CNN](#CP-CNN) | 73.6  | 106.4 | 21.72<sup>[CP-CNN](#CP-CNN)</sup> | 0.72<sup>[CP-CNN](#CP-CNN)</sup>  | 68.4M<sup>[SANet](#SANet)</sup>  | - |
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                          | 97.5  | 145.1 | -  | -  | -  | -           |
 | 2018--WACV | [SaCNN](#SaCNN)                              | 86.8  | 139.2 | -  | -  | -  | -           |
 | 2018--CVPR | [ACSCP](#ACSCP)                              | 75.7  | 102.7 | -  | -  | 5.1M | None      |

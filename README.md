@@ -73,6 +73,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
+- <a name=""></a> Residual Regression with Semantic Prior for Crowd Counting. (**CVPR2019**)
 - <a name="TEDnet"></a> **[TEDnet]** Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.00853)]
 - <a name="CAN"></a> **[CAN]** Context-Aware Crowd Counting (**CVPR2019**) [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
 - <a name="PACNN"></a> **[PACNN]** Revisiting Perspective Information for Efficient Crowd Counting (**CVPR2019**)[[paper](https://arxiv.org/abs/1807.01989v3)]

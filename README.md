@@ -231,8 +231,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
+| 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2 |
 | 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | 13.0 |
-| 2019--CVPR | **[CAN](#CAN)**                               | 7.8   | **12.2** |
+| 2019--CVPR | **[PACNN]+CSRNet(#PACNN)**                    | **7.6** | **11.8** |
 
 ### UCF-QNRF
 

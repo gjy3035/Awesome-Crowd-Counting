@@ -164,7 +164,7 @@ for Crowd Density Estimation (**ICCV2015**) [[paper](http://openaccess.thecvf.co
 
 ### 2012
 
-- <a name="Chen2013"></a> **[Chen 2013]** Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
+- <a name="Chen2012"></a> **[Chen 2012]** Feature mining for localised crowd counting (**BMVC2012**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2010
 
@@ -341,3 +341,12 @@ The section is being continually updated. Note that some values have superscript
 | 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)               | 0.98 | 1.25 |
 | 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | **1.18** |
+
+### Mall
+
+| Year-Conference/Journal | Method | MAE | MSE |
+| --- | --- | --- | --- |
+| 2012--BMVC | [Chen 2012](#Chen2012)                  | 3.15 | 15.7 |
+| 2016--ECCV | [CNN-Boosting](#CNN-Boosting)           | 2.01 |  -   |
+| 2017--ICCV | [Bidirectional   ConvLSTM](#ConvLSTM)   | 2.10 | 7.6  |
+| 2018--CVPR | [DecideNet](#DecideNet)                 | 1.52 | 1.90 |

@@ -79,7 +79,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 ### 2019
 - <a name=""></a> Residual Regression with Semantic Prior for Crowd Counting (**CVPR2019**)
 - <a name="TEDnet"></a> **[TEDnet]** Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.00853)]
-- <a name="CAN"></a> **[CAN]** Context-Aware Crowd Counting (**CVPR2019**) [[paper](https://arxiv.org/pdf/1811.10452.pdf)]
+- <a name="CAN"></a> **[CAN]** Context-Aware Crowd Counting (**CVPR2019**) [[paper](https://arxiv.org/pdf/1811.10452.pdf)][unofficial code: [PyTorch](https://github.com/CommissarMa/Context-Aware_Crowd_Counting-pytorch)]
 - <a name="PACNN"></a> **[PACNN]** Revisiting Perspective Information for Efficient Crowd Counting (**CVPR2019**)[[paper](https://arxiv.org/abs/1807.01989v3)]
 - <a name="PSDDN"></a> **[PSDDN]** Point in, Box out: Beyond Counting Persons in Crowds (**CVPR2019**)[[paper](https://arxiv.org/abs/1904.01333)]
 - <a name="ADCrowdNet"></a> **[ADCrowdNet]** ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding (**CVPR2019**) [[paper](https://arxiv.org/abs/1811.11968)]

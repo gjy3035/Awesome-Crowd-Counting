@@ -243,6 +243,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
 | 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2  |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)       | 7.7   | 12.9  |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
 | 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | 13.0 |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
 | 2019--CVPR | **[PACNN+CSRNet](#PACNN)**                    | **7.6** | **11.8** |
@@ -290,8 +292,11 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 258.4 | 334.9  |
 | 2018--IJCAI| [DRSAN](#DRSAN)                              | 219.2 | 250.2  |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 433.7 | 583.3  |
+| 2019--CVPR | [PACNN](#PACNN)                              | 267.9 | 357.8  |
 | 2019--WACV | [SPN](#SPN)                                  | 259.2 | 335.9  |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(DME)               | 257.1 | 363.5  |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
+| 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 241.7 | 320.7  |
 | 2019--CVPR | [SFCN](#SFCN)                                | 214.2 | 318.2  |
 | 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7**  |
 | 2019--ICASSP| **[ASD](#ASD)**                             | **196.2** | 270.9  |
@@ -344,7 +349,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                         | 1.02 | 1.29 |
 | 2018--TIP  | [BSAD](#BSAD)                           | 1.00 | 1.40 |
 | 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
-| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)               | 0.98 | 1.25 |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(DME)          | 0.98 | 1.25 |
 | 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | **1.18** |
 
 ### Mall

@@ -215,7 +215,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 67.0  | 104.5 | -  | -  | 0.91M | None     |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
-| 2019--CVPR | [SFCN](#SFCN)                                | 64.8  | 107.5 | -  | -  | -  | -           |
+| 2019--CVPR | [SFCN](#CCWld)                               | 64.8  | 107.5 | -  | -  | -  | -           |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | 25.88 | 0.83 | 1.63M | -   |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)     | 63.2  | 98.9  | 24.48 | 0.88 | -     | -   |
 | 2019--CVPR | [PACNN](#PACNN)                              | 66.3  | 106.4 | -  | -  | -  | -           |
@@ -253,7 +253,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)       | 7.7   | 12.9  |
 | 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-DME)**        | **7.6** | 13.9  |
-| 2019--CVPR | **[SFCN](#SFCN)**                             | **7.6** | 13.0 |
+| 2019--CVPR | **[SFCN](#CCWld)**                            | **7.6** | 13.0 |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
 | 2019--CVPR | **[PACNN+CSRNet](#PACNN)**                    | **7.6** | **11.8** |
 
@@ -268,7 +268,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [CL](#CL)     | 132 | 0.26 | 191 | 0.00044| 0.0017 | 0.9131 | 75.8% | 59.75%	| 0.714|
 | 2019--CVPR | [TEDnet](#TEDnet)   | 113 | - | 188 | - | - | - | - | - | - |
 | 2019--CVPR | [CAN](#CAN)   | 107 | - | 183 | - | - | - | - | - | - |
-| 2019--CVPR | **[SFCN](#SFCN)** | **102.0** | - | **171.4** | - | - | - | - | - | - |
+| 2019--CVPR | **[SFCN](#CCWld)**  | **102.0** | - | **171.4** | - | - | - | - | - | - |
 
 
 ### UCF_CC_50
@@ -305,7 +305,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
 | 2019--CVPR | [PACNN](#PACNN)                              | 267.9 | 357.8  |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 241.7 | 320.7  |
-| 2019--CVPR | [SFCN](#SFCN)                                | 214.2 | 318.2  |
+| 2019--CVPR | [SFCN](#CCWld)                               | 214.2 | 318.2  |
 | 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7**  |
 | 2019--ICASSP| **[ASD](#ASD)**                             | **196.2** | 270.9  |
 

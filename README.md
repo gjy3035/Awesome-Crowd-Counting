@@ -45,7 +45,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>DENet: A Universal Network for Counting Crowd with Varying Densities and Scales [[paper](https://arxiv.org/abs/1904.08056)]
 - <a name=""></a>Counting with Focus for Free [[paper](https://arxiv.org/abs/1903.12206)]
 - <a name=""></a>Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
-- <a name=""></a>W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)]
+- <a name=""></a>W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]
 - <a name=""></a>Crowd Counting with Decomposed Uncertainty [[paper](http://arxiv.org/abs/1903.07427)]
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting [[paper](https://arxiv.org/abs/1811.11269)]
 - <a name=""></a>Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling [[paper](https://arxiv.org/abs/1902.05379)]

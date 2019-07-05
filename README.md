@@ -93,6 +93,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="ADCrowdNet"></a> **[ADCrowdNet]** ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding (**CVPR2019**) [[paper](https://arxiv.org/abs/1811.11968)]
 - <a name="CCWld"></a> **[CCWld]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
+- <a name="IA-DNN"></a> **[IA-DNN]** Inverse Attention Guided Deep Crowd Counting Network (**AVSS2019**) [[paper](https://arxiv.org/pdf/1907.01193.pdf)]
 - <a name="CODA"></a> **[CODA]** CODA: Counting Objects via Scale-aware Adversarial Density Adaption (**ICME2019**) [[paper](https://arxiv.org/abs/1903.10442)][[code](https://github.com/Willy0919/CODA)]
 - <a name=""></a> Locality-Constrained Spatial Transformer Network for Video Crowd Counting (**ICME2019**) 
 - <a name=""></a> Dynamic Region Division for Adaptive Learning Pedestrian Counting (**ICME2019**) 

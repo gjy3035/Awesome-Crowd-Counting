@@ -369,4 +369,6 @@ The section is being continually updated. Note that some values have superscript
 | 2012--BMVC | [Chen 2012](#Chen2012)                  | 3.15 | 15.7 |
 | 2016--ECCV | [CNN-Boosting](#CNN-Boosting)           | 2.01 |  -   |
 | 2017--ICCV | [Bidirectional   ConvLSTM](#ConvLSTM)   | 2.10 | 7.6  |
-| 2018--CVPR | **[DecideNet](#DecideNet)**             | **1.52** | **1.90** |
+| 2018--CVPR | [DecideNet](#DecideNet)                 | 1.52 | 1.90 |
+| 2018--IJCAI| [DRSAN](#DRSAN)                         | 1.72 | 2.1  |
+| 2019--WACV | **[SAAN](#SAAN)**                       | **1.28** | **1.68** |

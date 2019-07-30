@@ -81,7 +81,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
-- <a name=""></a> Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
+- <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
 - <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]
 - <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)
@@ -107,8 +107,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="SPN"></a> **[SPN]** Scale Pyramid Network for Crowd Counting (**WACV2019**) [[paper](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8642793)]
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 - <a name="PCC-Net"></a> **[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT2019**) [[paper](https://arxiv.org/abs/1905.10085)] [[code](https://github.com/gjy3035/PCC-Net)]
-- <a name=""></a> Cross-Line Pedestrian Counting Based on Spatially-Consistent Two-Stage Local Crowd Density Estimation and Accumulation (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8295124)]
-- <a name=""></a> Crowd Counting With Limited Labeling Through Submodular Frame Selection (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360780)]
+- <a name="CLPC"></a> **[CLPC]** Cross-Line Pedestrian Counting Based on Spatially-Consistent Two-Stage Local Crowd Density Estimation and Accumulation (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8295124)]
+- <a name="CCLL"></a> **[CCLL]** Crowd Counting With Limited Labeling Through Submodular Frame Selection (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360780)]
 - <a name="ACSPNet"></a> **[ACSPNet]** Atrous convolutions spatial pyramid network for crowd counting and density estimation (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219304059)]
 - <a name="DDCN"></a> **[DDCN]** Removing background interference for crowd counting via de-background detail convolutional network (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218315042)]
 - <a name="MRA-CNN"></a> **[MRA-CNN]** Multi-resolution attention convolutional neural network for crowd counting (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218312542)]

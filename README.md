@@ -95,7 +95,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="PACNN"></a> **[PACNN]** Revisiting Perspective Information for Efficient Crowd Counting (**CVPR2019**)[[paper](https://arxiv.org/abs/1807.01989v3)]
 - <a name="PSDDN"></a> **[PSDDN]** Point in, Box out: Beyond Counting Persons in Crowds (**CVPR2019**)[[paper](https://arxiv.org/abs/1904.01333)]
 - <a name="ADCrowdNet"></a> **[ADCrowdNet]** ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding (**CVPR2019**) [[paper](https://arxiv.org/abs/1811.11968)]
-- <a name="CCWld"></a> **[CCWld]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
+- <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="IA-DNN"></a> **[IA-DNN]** Inverse Attention Guided Deep Crowd Counting Network (**AVSS2019**) [[paper](https://arxiv.org/pdf/1907.01193.pdf)]
 - <a name="CODA"></a> **[CODA]** CODA: Counting Objects via Scale-aware Adversarial Density Adaption (**ICME2019**) [[paper](https://arxiv.org/abs/1903.10442)][[code](https://github.com/Willy0919/CODA)]
@@ -225,6 +225,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                              | 67.0  | 104.5 | -  | -  | 0.91M | None     |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
+| 2019--ICCV | [CFF](#CFF)                                  | 65.2  | 109.4 | 25.4  | 0.78 | -     | -   |
 | 2019--CVPR | [SFCN](#CCWld)                               | 64.8  | 107.5 | -  | -  | -  | -           |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | 25.88 | 0.83 | 1.63M | -   |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)     | 63.2  | 98.9  | 24.48 | 0.88 | -     | -   |
@@ -262,10 +263,12 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
 | 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)       | 7.7   | 12.9  |
-| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-DME)**        | **7.6** | 13.9  |
-| 2019--CVPR | **[SFCN](#CCWld)**                            | **7.6** | 13.0 |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
+| 2019--CVPR | [SFCN](#CCWld)                                | 7.6   | 13.0  |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
-| 2019--CVPR | **[PACNN+CSRNet](#PACNN)**                    | **7.6** | **11.8** |
+| 2019--CVPR | **[PACNN+CSRNet](#PACNN)**                    | 7.6 | **11.8** |
+| 2019--ICCV | **[CFF](#CFF)**                               | **7.2** | 12.2 |
+| 2019--ICCV | **[L2SM](#L2SM)**                               | **7.2** | 12.2 |
 
 ### UCF-QNRF
 

@@ -86,6 +86,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]
 - <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**)
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**)
+- <a name=""></a> Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**)
 - <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)
 - <a name="RAZ-Net"></a> **[RAZ-Net]** Recurrent Attentive Zooming for Joint Crowd Counting and Precise Localization (**CVPR2019**) [[paper](http://www.muyadong.com/paper/cvpr19_0484.pdf)]

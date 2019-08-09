@@ -97,7 +97,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="TEDnet"></a> **[TEDnet]** Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.00853)]
 - <a name="CAN"></a> **[CAN]** Context-Aware Crowd Counting (**CVPR2019**) [[paper](https://arxiv.org/pdf/1811.10452.pdf)] [[code](https://github.com/weizheliu/Context-Aware-Crowd-Counting)]
 - <a name="PACNN"></a> **[PACNN]** Revisiting Perspective Information for Efficient Crowd Counting (**CVPR2019**)[[paper](https://arxiv.org/abs/1807.01989v3)]
-- <a name="PSDDN"></a> **[PSDDN]** Point in, Box out: Beyond Counting Persons in Crowds (**CVPR2019**)[[paper](https://arxiv.org/abs/1904.01333)]
+- <a name="PSDDN"></a> **[PSDDN]** Point in, Box out: Beyond Counting Persons in Crowds (**CVPR2019(oral)**)[[paper](https://arxiv.org/abs/1904.01333)]
 - <a name="ADCrowdNet"></a> **[ADCrowdNet]** ADCrowdNet: An Attention-injective Deformable Convolutional Network for Crowd Understanding (**CVPR2019**) [[paper](https://arxiv.org/abs/1811.11968)]
 - <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))

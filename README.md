@@ -116,8 +116,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="ACSPNet"></a> **[ACSPNet]** Atrous convolutions spatial pyramid network for crowd counting and density estimation (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219304059)]
 - <a name="DDCN"></a> **[DDCN]** Removing background interference for crowd counting via de-background detail convolutional network (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218315042)]
 - <a name="MRA-CNN"></a> **[MRA-CNN]** Multi-resolution attention convolutional neural network for crowd counting (**Neurocomputing2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218312542)]
+- <a name="ACM-CNN"></a> **[ACM-CNN]** Attend To Count: Crowd Counting with Adaptive Capacity Multi-scale CNNs (**Neurocomputing2019**) [[paper](https://arxiv.org/abs/1908.02797)]
 - <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP2019**) [[paper](https://arxiv.org/abs/1907.10255)]
-- <a name=""></a> Geometric and Physical Constraints for Drone-Based Head Plane Crowd Density Estimation (**IROS2019**) [[paper](https://arxiv.org/abs/1803.08805)]
+- <a name="GPC"></a> **[GPC]** Geometric and Physical Constraints for Drone-Based Head Plane Crowd Density Estimation (**IROS2019**) [[paper](https://arxiv.org/abs/1803.08805)]
 
 ### 2018
 - <a name="LCFCN"></a> **[LCFCN]**  Where are the Blobs: Counting by Localization with Point Supervision (**ECCV2018**) [[paper](https://arxiv.org/abs/1807.09856)] [[code](https://github.com/ElementAI/LCFCN)]

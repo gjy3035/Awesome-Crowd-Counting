@@ -105,7 +105,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="IA-DNN"></a> **[IA-DNN]** Inverse Attention Guided Deep Crowd Counting Network (**AVSS2019**) [[paper](https://arxiv.org/pdf/1907.01193.pdf)]
 - <a name="CODA"></a> **[CODA]** CODA: Counting Objects via Scale-aware Adversarial Density Adaption (**ICME2019**) [[paper](https://arxiv.org/abs/1903.10442)][[code](https://github.com/Willy0919/CODA)]
 - <a name="LSTN"></a> **[LSTN]** Locality-Constrained Spatial Transformer Network for Video Crowd Counting (**ICME2019(oral)**)  [[paper](https://arxiv.org/abs/1907.07911)]
-- <a name=""></a> Dynamic Region Division for Adaptive Learning Pedestrian Counting (**ICME2019**) 
+- <a name="DRD"></a> **[DRD]** Dynamic Region Division for Adaptive Learning Pedestrian Counting (**ICME2019**) [[paper](https://arxiv.org/abs/1908.03978)]
 - <a name=""></a> Crowd Counting via Multi-View Scale Aggregation Networks (**ICME2019**)
 - <a name="ASD"></a> **[ASD]** Adaptive Scenario Discovery for Crowd Counting (**ICASSP2019**) [[paper](https://arxiv.org/pdf/1812.02393.pdf)]
 - <a name="SAAN"></a> **[SAAN]** Crowd Counting Using Scale-Aware Attention Networks (**WACV2019**) [[paper](http://www.cs.umanitoba.ca/~ywang/papers/wacv19.pdf)]

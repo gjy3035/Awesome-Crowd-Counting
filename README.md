@@ -244,7 +244,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 62.4  | 102.0 | -  | -  | -  | -           |
 | 2019--CVPR | [CAN](#CAN)                                  | 62.3  | 100.0 | -  | -  | -  | -           |
 | 2019--TIP  |**[HA-CCN](#HA-CCN)**                         | 62.9  | **94.9**| - | - | -  | -           |
-| 2019--WACV |**[SPN](#SPN)**                               | **61.7** | 99.5 | - | - | -  | -           |
+| 2019--ICCV | [BL](#BL)                                    | 62.8  | 101.8 | -  | -  | -  | -           |
+| 2019--WACV | [SPN](#SPN)                                  | 61.7  | 99.5  | -  | -  | -  | -           |
+| 2019--ICCV |**[S-DCNet](#S-DCNet)**                       | **58.3** | 95.0 | -  | -  | -  | -         |
 
 ### ShanghaiTech Part B
 
@@ -279,9 +281,11 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 7.6   | 13.0  |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
-| 2019--CVPR | [PACNN+CSRNet](#PACNN)                        | 7.6   | 1.8   |
-| 2019--ICCV | **[CFF](#CFF)**                               | **7.2** | 12.2 |
-| 2019--ICCV | **[SPN+L2SM](#L2SM)**                         | **7.2** | **11.1** |
+| 2019--CVPR | [PACNN+CSRNet](#PACNN)                        | 7.6   | 11.8  |
+| 2019--ICCV | [BL](#BL)                                     | 7.7   | 12.7  |
+| 2019--ICCV | [CFF](#CFF)                                   | 7.2   | 12.2  |
+| 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
+| 2019--ICCV | **[S-DCNet](#S-DCNet)**                       | **6.7** | **10.7** |
 
 ### UCF-QNRF
 
@@ -296,7 +300,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)   | 113 | - | 188 | - | - | - | - | - | - |
 | 2019--CVPR | [CAN](#CAN)   | 107 | - | 183 | - | - | - | - | - | - |
 | 2019--ICCV | [SPN+L2SM](#L2SM)   | 104.7 | - | 173.6 | - | - | - | - | - | - |
-| 2019--CVPR | **[SFCN](#CCWld)**  | **102.0** | - | **171.4** | - | - | - | - | - | - |
+| 2019--ICCV | [S-DCNet](#S-DCNet) | 104.4 | - | 176.1 | - | - | - | - | - | - |
+| 2019--CVPR | [SFCN](#CCWld)  | 102.0 | - | 171.4 | - | - | - | - | - | - |
+| 2019--ICCV | **[BL](#BL)**  | **88.7** | - | **154.8** | - | - | - | - | - | - |
 
 
 ### UCF_CC_50
@@ -334,8 +340,10 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
 | 2019--CVPR | [PACNN](#PACNN)                              | 267.9 | 357.8  |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 241.7 | 320.7  |
+| 2019--ICCV | [BL](#BL)                                    | 229.3 | 308.2  |
 | 2019--CVPR | [SFCN](#CCWld)                               | 214.2 | 318.2  |
 | 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7** |
+| 2019--ICCV | [S-DCNet](#S-DCNet)                          | 204.2 | 301.3  |
 | 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
 | 2019--ICCV | **[SPN+L2SM](#L2SM)**                        | **188.4** | 315.3 |
 

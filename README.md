@@ -87,9 +87,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
 - <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]
 - <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.06473)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]
-- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**)
-- <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**)
+- <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.08692)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
 - <a name="BL"></a> **[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1908.03684)][[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)] 
+- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)
 - <a name="RAZ-Net"></a> **[RAZ-Net]** Recurrent Attentive Zooming for Joint Crowd Counting and Precise Localization (**CVPR2019**) [[paper](http://www.muyadong.com/paper/cvpr19_0484.pdf)]
@@ -105,6 +105,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="IA-DNN"></a> **[IA-DNN]** Inverse Attention Guided Deep Crowd Counting Network (**AVSS2019**) [[paper](https://arxiv.org/abs/1907.01193)]
+- <a name="MTCNet"></a> **[MTCNet]** MTCNET: Multi-task Learning Paradigm for Crowd Count Estimation (**AVSS2019**) [[paper](https://arxiv.org/abs/1908.08652)]
 - <a name="CODA"></a> **[CODA]** CODA: Counting Objects via Scale-aware Adversarial Density Adaption (**ICME2019**) [[paper](https://arxiv.org/abs/1903.10442)][[code](https://github.com/Willy0919/CODA)]
 - <a name="LSTN"></a> **[LSTN]** Locality-Constrained Spatial Transformer Network for Video Crowd Counting (**ICME2019(oral)**)  [[paper](https://arxiv.org/abs/1907.07911)]
 - <a name="DRD"></a> **[DRD]** Dynamic Region Division for Adaptive Learning Pedestrian Counting (**ICME2019**) [[paper](https://arxiv.org/abs/1908.03978)]

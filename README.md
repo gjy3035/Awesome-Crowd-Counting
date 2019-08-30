@@ -244,10 +244,11 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [PACNN](#PACNN)                              | 66.3  | 106.4 | -  | -  | -  | -           |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 62.4  | 102.0 | -  | -  | -  | -           |
 | 2019--CVPR | [CAN](#CAN)                                  | 62.3  | 100.0 | -  | -  | -  | -           |
-| 2019--TIP  |**[HA-CCN](#HA-CCN)**                         | 62.9  | **94.9**| - | - | -  | -           |
+| 2019--TIP  | [HA-CCN](#HA-CCN)                            | 62.9  | 94.9  | -  | -  | -  | -           |
 | 2019--ICCV | [BL](#BL)                                    | 62.8  | 101.8 | -  | -  | -  | -           |
 | 2019--WACV | [SPN](#SPN)                                  | 61.7  | 99.5  | -  | -  | -  | -           |
-| 2019--ICCV |**[DSSINet](#DSSINet)**                       | 60.63 | 96.04 | -  | -  | -  | -           |
+| 2019--ICCV | [DSSINet](#DSSINet)                          | 60.63 | 96.04 | -  | -  | -  | -           |
+| 2019--ICCV |**[MBTTBF-SCFB](#MBTTBF)**                    | 60.2  | **94.1** | - | - | - | -           |
 | 2019--ICCV |**[S-DCNet](#S-DCNet)**                       | **58.3** | 95.0 | -  | -  | -  | -         |
 
 ### ShanghaiTech Part B
@@ -306,6 +307,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [S-DCNet](#S-DCNet) | 104.4 | - | 176.1 | - | - | - | - | - | - |
 | 2019--CVPR | [SFCN](#CCWld)  | 102.0 | - | 171.4 | - | - | - | - | - | - |
 | 2019--ICCV | [DSSINet](#DSSINet)  | 99.1 | - | 159.2 | - | - | - | - | - | - |
+| 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)      | 97.5 | - | 165.2 | - | - | - | - | - | - |
 | 2019--ICCV | **[BL](#BL)**  | **88.7** | - | **154.8** | - | - | - | - | - | - |
 
 
@@ -344,6 +346,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
 | 2019--CVPR | [PACNN](#PACNN)                              | 267.9 | 357.8  |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 241.7 | 320.7  |
+| 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)                       | 233.1 | 300.9  |
 | 2019--ICCV | [BL](#BL)                                    | 229.3 | 308.2  |
 | 2019--ICCV | [DSSINet](#DSSINet)                          | 216.9 | 302.4  |
 | 2019--CVPR | [SFCN](#CCWld)                               | 214.2 | 318.2  |

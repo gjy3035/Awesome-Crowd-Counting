@@ -82,6 +82,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
+- <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]
 - <a name="E3D"></a> **[E3D]** Enhanced 3D convolutional networks for crowd counting (**BMVC2019**) [[paper](https://arxiv.org/abs/1908.04121)]
 - <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
 - <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]

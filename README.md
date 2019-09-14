@@ -91,7 +91,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.06473)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.08692)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
 - <a name="BL"></a> **[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1908.03684)][[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)] 
-- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[code](https://github.com/Zhaoyi-Yan/PGCNet)] 
+- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[code](https://github.com/Zhaoyi-Yan/PGCNet)]
+- <a name=""></a> Adaptive Density Map Generation for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)
 - <a name="RAZ-Net"></a> **[RAZ-Net]** Recurrent Attentive Zooming for Joint Crowd Counting and Precise Localization (**CVPR2019**) [[paper](http://www.muyadong.com/paper/cvpr19_0484.pdf)]

@@ -83,6 +83,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
+- <a name="SPANet"></a> **[SPANet]** Learning Spatial Awareness to Improve Crowd Counting (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1909.07057)]
 - <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
 - <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]
 - <a name="E3D"></a> **[E3D]** Enhanced 3D convolutional networks for crowd counting (**BMVC2019**) [[paper](https://arxiv.org/abs/1908.04121)]
@@ -91,7 +92,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.06473)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.08692)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
 - <a name="BL"></a> **[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1908.03684)][[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)] 
-- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[code](https://github.com/Zhaoyi-Yan/PGCNet)]
+- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1909.06966)][[code](https://github.com/Zhaoyi-Yan/PGCNet)]
 - <a name=""></a> Adaptive Density Map Generation for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
 - <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)

@@ -85,6 +85,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2019
 - <a name="McML"></a> **[McML]** Improving the Learning of Multi-column Convolutional Neural Network for Crowd Counting (**ACM MM2019**) [[paper](https://arxiv.org/abs/1909.07608)]
+- <a name=""></a> DADNet: Dilated-Attention-Deformable ConvNet for Crowd Counting (**ACM MM2019**) 
+- <a name=""></a> Crowd Counting via Multi-layer Regression (**ACM MM2019**) 
 - <a name="SPANet"></a> **[SPANet]** Learning Spatial Awareness to Improve Crowd Counting (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1909.07057)]
 - <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
 - <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]

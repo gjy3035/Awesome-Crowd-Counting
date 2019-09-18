@@ -91,6 +91,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
 - <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]
 - <a name="E3D"></a> **[E3D]** Enhanced 3D convolutional networks for crowd counting (**BMVC2019**) [[paper](https://arxiv.org/abs/1908.04121)]
+- <a name="OSSS"></a> **[OSSS]** One-Shot Scene-Specific Crowd Counting (**BMVC2019**) [[paper](https://bmvc2019.org/wp-content/uploads/papers/0209-paper.pdf)]
 - <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
 - <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]
 - <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.06473)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]

@@ -84,6 +84,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
+- <a name="McML"></a> **[McML]** Improving the Learning of Multi-column Convolutional Neural Network for Crowd Counting (**ACM MM2019**) [[paper](https://arxiv.org/abs/1909.07608)]
 - <a name="SPANet"></a> **[SPANet]** Learning Spatial Awareness to Improve Crowd Counting (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1909.07057)]
 - <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
 - <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]

@@ -414,7 +414,8 @@ The section is being continually updated. Note that some values have superscript
 | 2018--TIP  | [BSAD](#BSAD)                           | 1.00 | 1.40 |
 | 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(DME)          | 0.98 | 1.25 |
-| 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | **1.18** |
+| 2019--BMVC | **[E3D](#E3D)**                         | 0.93 | **1.17** |
+| 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | 1.18 |
 
 ### Mall
 
@@ -425,4 +426,5 @@ The section is being continually updated. Note that some values have superscript
 | 2017--ICCV | [Bidirectional   ConvLSTM](#ConvLSTM)   | 2.10 | 7.6  |
 | 2018--CVPR | [DecideNet](#DecideNet)                 | 1.52 | 1.90 |
 | 2018--IJCAI| [DRSAN](#DRSAN)                         | 1.72 | 2.1  |
+| 2019--BMVC | [E3D](#E3D)                             | 1.64 | 2.13 |
 | 2019--WACV | **[SAAN](#SAAN)**                       | **1.28** | **1.68** |

@@ -288,6 +288,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
 | 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
+| 2019--ICCV | [PGCNet](#PGCNet)                             | 8.8   | 13.7  |
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
 | 2019--TIP  | [HA-CCN](#HA-CCN)                             | 8.1   | 13.4  |
@@ -385,15 +386,16 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN)                     | 17.0 | 12.3  | 9.2   | 8.1  | 4.7  | 10.3 |
 | 2018--CVPR | [DecideNet](#DecideNet)               | 2.0  | 13.14 | 8.9   | 17.4 | 4.75 | 9.23 |
 | 2018--CVPR | [D-ConvNet-v1](#D-ConvNet)            | 1.9  | 12.1  | 20.7  | 8.3  | 2.6  | 9.1  |
-| 2018--CVPR | **[CSRNet](#CSR)**                    | 2.9  | 11.5  | **8.6** | 16.6 | 3.4 | 8.6 |
+| 2018--CVPR | [CSRNet](#CSR)                        | 2.9  | 11.5  | 8.6   | 16.6 | 3.4  | 8.6  |
 | 2018--WACV | [SaCNN](#SaCNN)                       | 2.6  | 13.5  | 10.6  | 12.5 | 3.3  | 8.5  |
 | 2018--ECCV | [SANet](#SANet)                       | 2.6  | 13.2  | 9.0   | 13.3 | 3.0  | 8.2  |
 | 2018--IJCAI| [DRSAN](#DRSAN)                       | 2.6  | 11.8  | 10.3  | 10.4 | 3.7  | 7.76 |
 | 2018--CVPR | [ACSCP](#ACSCP)                       | 2.8  | 14.05 | 9.6   | 8.1  | 2.9  | 7.5  |
+| 2019--ICCV | [PGCNet](#PGCNet)                     | 2.5  | 12.7  | **8.4** | 13.7 | 3.2 | 8.1 |
 | 2019--CVPR | [TEDnet](#TEDnet)                     | 2.3  | 10.1  | 11.3  | 13.8 | 2.6  | 8.0  |
 | 2019--CVPR | [PACNN](#PACNN)                       | 2.3  | 12.5  | 9.1   | 11.2 | 3.8  | 7.8  |
 | 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)** | 1.7   | 14.4  | 11.5 | **7.9** | 3.0 | 7.7 |
-| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)  | 1.6 | 13.2 | 8.7 | 10.6 | 2.6 | 7.3 |
+| 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)      | 1.6   | 13.2  | 8.7  | 10.6    | 2.6 | 7.3 |
 | 2019--CVPR | **[CAN](#CAN)**                       | 2.9  | 12.0  | 10.0  | **7.9** | 4.3 | 7.4  |
 | 2019--CVPR | **[CAN](#CAN)(ECAN)**                 | 2.4  | **9.4** | 8.8 | 11.2 | 4.0 | 7.2 |
 | 2019--ICCV | **[DSSINet](#DSSINet)**               | **1.57**  | 9.51 | 9.46 | 10.35 | **2.49** | **6.67** |

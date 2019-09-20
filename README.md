@@ -257,8 +257,11 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [BL](#BL)                                    | 62.8  | 101.8 | -  | -  | -  | -           |
 | 2019--WACV | [SPN](#SPN)                                  | 61.7  | 99.5  | -  | -  | -  | -           |
 | 2019--ICCV | [DSSINet](#DSSINet)                          | 60.63 | 96.04 | -  | -  | -  | -           |
-| 2019--ICCV |**[MBTTBF-SCFB](#MBTTBF)**                    | 60.2  | **94.1** | - | - | - | -           |
-| 2019--ICCV |**[S-DCNet](#S-DCNet)**                       | **58.3** | 95.0 | -  | -  | -  | -         |
+| 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)                       | 60.2  | 94.1  | -  | -  | -  | -           |
+| 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
+| 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
+| 2019--ICCV |**[PGCNet](#PGCNet)**                         | **57.0** | **86.0** | -  | -  | -  | -         |
+
 
 ### ShanghaiTech Part B
 
@@ -297,8 +300,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [BL](#BL)                                     | 7.7   | 12.7  |
 | 2019--ICCV | [CFF](#CFF)                                   | 7.2   | 12.2  |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
-| 2019--ICCV | **[DSSINet](#DSSINet)**                       | 6.85  | **10.34** |
-| 2019--ICCV | **[S-DCNet](#S-DCNet)**                       | **6.7** | 10.7 |
+| 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
+| 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
+| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | **6.5** | **9.9** |
 
 ### UCF-QNRF
 
@@ -413,6 +417,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [SANet](#SANet)                         | 1.02 | 1.29 |
 | 2018--TIP  | [BSAD](#BSAD)                           | 1.00 | 1.40 |
 | 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
+| 2019--ICCV | [SPANet+SANet](#SPANet)                 | 1.00 | 1.28 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(DME)          | 0.98 | 1.25 |
 | 2019--BMVC | **[E3D](#E3D)**                         | 0.93 | **1.17** |
 | 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | 1.18 |

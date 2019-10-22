@@ -37,6 +37,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - SmartCity Dataset [Link: [GoogleDrive ](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)/ [BaiduNetdisk](https://pan.baidu.com/s/1pMuGyNp)]
 - AHU-Crowd Dataset [[Link](http://cs-chan.com/downloads_crowd_dataset.html)] 
 - CityStreet: Multi-View Crowd Counting Dataset [[Link](http://visal.cs.cityu.edu.hk/research/citystreet/)] 
+- Beijing-BRT-dataset [[Link](https://github.com/XMU-smartdsp/Beijing-BRT-dataset)]
 
 ## Papers
 

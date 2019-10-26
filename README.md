@@ -87,24 +87,27 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2019
+- <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and
+Benchmark Method (**ICCV2019**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
+- <a name="ADMG"></a> **[ADMG]** Adaptive Density Map Generation for Crowd Counting (**ICCV2019**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Adaptive_Density_Map_Generation_for_Crowd_Counting_ICCV_2019_paper.pdf)]
+- <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
+- <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Relational_Attention_Network_for_Crowd_Counting_ICCV_2019_paper.pdf)]
+- <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Attentional_Neural_Fields_for_Crowd_Counting_ICCV_2019_paper.pdf)]
+- <a name="SPANet"></a> **[SPANet]** Learning Spatial Awareness to Improve Crowd Counting (**ICCV2019(oral)**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Learning_Spatial_Awareness_to_Improve_Crowd_Counting_ICCV_2019_paper.pdf)]
+- <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Multi-Level_Bottom-Top_and_Top-Bottom_Feature_Fusion_for_Crowd_Counting_ICCV_2019_paper.pdf)]
+- <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Counting_With_Focus_for_Free_ICCV_2019_paper.pdf)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
+- <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Learn_to_Scale_Generating_Multipolar_Normalized_Density_Maps_for_Crowd_ICCV_2019_paper.pdf)]
+- <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_From_Open_Set_to_Closed_Set_Counting_Objects_by_Spatial_ICCV_2019_paper.pdf)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]
+- <a name="BL"></a> **[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.pdf)][[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)] 
+- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Perspective-Guided_Convolution_Networks_for_Crowd_Counting_ICCV_2019_paper.pdf)][[code](https://github.com/Zhaoyi-Yan/PGCNet)]
+
+- <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
 - <a name="MRCNet"></a> **[MRCNet]** MRCNet: Crowd Counting and Density Map Estimation in Aerial and Ground Imagery (**BMVCW2019**)[[paper](https://arxiv.org/abs/1909.12743)]
 - <a name="McML"></a> **[McML]** Improving the Learning of Multi-column Convolutional Neural Network for Crowd Counting (**ACM MM2019**) [[paper](https://arxiv.org/abs/1909.07608)]
 - <a name=""></a> DADNet: Dilated-Attention-Deformable ConvNet for Crowd Counting (**ACM MM2019**) 
 - <a name=""></a> Crowd Counting via Multi-layer Regression (**ACM MM2019**) 
-- <a name="SPANet"></a> **[SPANet]** Learning Spatial Awareness to Improve Crowd Counting (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1909.07057)]
-- <a name="SACANet"></a> **[SACANet]** Crowd Counting on Images with Scale Variation and Isolated Clusters (**ICCVW2019**) [[paper](https://arxiv.org/abs/1909.03839)]
-- <a name="MBTTBF"></a> **[MBTTBF]** Multi-Level Bottom-Top and Top-Bottom Feature Fusion for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.10937)]
 - <a name="E3D"></a> **[E3D]** Enhanced 3D convolutional networks for crowd counting (**BMVC2019**) [[paper](https://arxiv.org/abs/1908.04121)]
 - <a name="OSSS"></a> **[OSSS]** One-Shot Scene-Specific Crowd Counting (**BMVC2019**) [[paper](https://bmvc2019.org/wp-content/uploads/papers/0209-paper.pdf)]
-- <a name="CFF"></a> **[CFF]** Counting with Focus for Free (**ICCV2019**) [[paper](https://arxiv.org/abs/1903.12206)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] 
-- <a name="L2SM"></a> **[L2SM]** Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1907.12428)]
-- <a name="S-DCNet"></a> **[S-DCNet]** From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.06473)][[code](https://github.com/xhp-hust-2018-2011/S-DCNet)]
-- <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV2019**) [[paper](https://arxiv.org/abs/1908.08692)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
-- <a name="BL"></a> **[BL]** Bayesian Loss for Crowd Count Estimation with Point Supervision (**ICCV2019(oral)**) [[paper](https://arxiv.org/abs/1908.03684)][[code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)] 
-- <a name="PGCNet"></a> **[PGCNet]** Perspective-Guided Convolution Networks for Crowd Counting (**ICCV2019**) [[paper](https://arxiv.org/abs/1909.06966)][[code](https://github.com/Zhaoyi-Yan/PGCNet)]
-- <a name=""></a> Adaptive Density Map Generation for Crowd Counting (**ICCV2019**)
-- <a name=""></a> Relational Attention Network for Crowd Counting (**ICCV2019**)
-- <a name=""></a> Attentional Neural Fields for Crowd Counting (**ICCV2019**)
 - <a name="RAZ-Net"></a> **[RAZ-Net]** Recurrent Attentive Zooming for Joint Crowd Counting and Precise Localization (**CVPR2019**) [[paper](http://www.muyadong.com/paper/cvpr19_0484.pdf)]
 - <a name="RDNet"></a> **[RDNet]** Density Map Regression Guided Detection Network for RGB-D Crowd Counting and Localization (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lian_Density_Map_Regression_Guided_Detection_Network_for_RGB-D_Crowd_Counting_CVPR_2019_paper.pdf)][[code](https://github.com/svip-lab/RGBD-Counting)] 
 - <a name="RRSP"></a> **[RRSP]** Residual Regression with Semantic Prior for Crowd Counting (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Residual_Regression_With_Semantic_Prior_for_Crowd_Counting_CVPR_2019_paper.pdf)][[code](https://github.com/jia-wan/ResidualRegression-pytorch)] 

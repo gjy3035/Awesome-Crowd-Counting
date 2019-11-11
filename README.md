@@ -249,6 +249,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [IG-CNN](#IG-CNN)                            | 72.5  | 118.2 | -  | -  | -  | -           |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Query-by-example) | 72.0  | 106.6 | -  | -  | -  | VGG-16      |
 | 2018--CVPR | [L2R](#L2R) (Multi-task,   Keyword)          | 73.6  | 112.0 | -  | -  | -  | VGG-16      |
+| 2019--CVPRW| [GSP](#GSP) (one stage, efficient)           | 70.7  | 103.6 | -  | -  | -  | VGG-16      |
 | 2018--IJCAI| [DRSAN](#DRSAN)                              | 69.3  | 96.4  | -  | -  | -  | -           |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                | 69.8  | 117.3 | -  | -  | -  | -           |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)               | 68.5  | 116.2 | -  | -  | -  | -           |
@@ -297,6 +298,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--AAAI | [TDF-CNN](#TDF-CNN)                           | 20.7  | 32.8  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                 | 10.4  | 16.7  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
+| 2019--CVPRW| [GSP](#GSP) (one stage, efficient)            | 9.1   | 15.9  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
 | 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
 | 2019--ICCV | [PGCNet](#PGCNet)                             | 8.8   | 13.7  |

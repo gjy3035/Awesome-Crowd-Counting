@@ -86,7 +86,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2020
-- <a name=""></a>3D Crowd Counting via Multi-View Fusion with 3D Gaussian Kernels (**AAAI**)
+- <a name=""></a>3D Crowd Counting via Multi-View Fusion with 3D Gaussian Kernels (**AAAI**) [[Project](http://visal.cs.cityu.edu.hk/research/aaai20-3d-counting/)]
 
 ### 2019
 - <a name="D-ConvNet"></a> **[D-ConvNet]** Robust Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://arxiv.org/abs/1908.09066)](extension of [D-ConvNet](#D-ConvNet))
@@ -148,9 +148,6 @@ Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_20
 - <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**TNNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
 
 ### 2018
-
-
-
 - <a name="SANet"></a> **[SANet]** Scale Aggregation Network for Accurate and Efficient Crowd Counting (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinkun_Cao_Scale_Aggregation_Network_ECCV_2018_paper.pdf)]
 - <a name="ic-CNN"></a> **[ic-CNN]** Iterative Crowd Counting (**ECCV**) [[paper](https://arxiv.org/abs/1807.09959)]
 - <a name="CL"></a> **[CL]** Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds (**ECCV**) [[paper](https://arxiv.org/abs/1808.01050)]

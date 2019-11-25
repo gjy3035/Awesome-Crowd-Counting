@@ -85,8 +85,11 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Fast crowd density estimation with convolutional neural networks (**AI2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)]
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
+### 2020
+- <a name=""></a>3D Crowd Counting via Multi-View Fusion with 3D Gaussian Kernels (**AAAI**)
+
 ### 2019
-- <a name=""></a>Robust Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://arxiv.org/abs/1908.09066)](extension of [D-ConvNet](#D-ConvNet))
+- <a name="D-ConvNet"></a> **[D-ConvNet]** Robust Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://arxiv.org/abs/1908.09066)](extension of [D-ConvNet](#D-ConvNet))
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
 - <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and
 Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]

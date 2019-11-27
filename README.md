@@ -59,7 +59,6 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 <!--- Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling [[paper](https://arxiv.org/abs/1902.05379)] -->
 <!--- Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]-->
 <!--- Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)] -->
-<!--- PaDNet: Pan-Density Crowd Counting [[paper](https://arxiv.org/abs/1811.02805)] -->
 <!--- Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance [[paper](https://arxiv.org/abs/1808.07456)][[code](http://github.com/siyuhuang/crowdcount-stackpool)] -->
 <!--- Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)] -->
 <!--- Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)] -->
@@ -146,8 +145,9 @@ Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_20
 - <a name="MRA-CNN"></a> **[MRA-CNN]** Multi-resolution attention convolutional neural network for crowd counting (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218312542)]
 - <a name="ACM-CNN"></a> **[ACM-CNN]** Attend To Count: Crowd Counting with Adaptive Capacity Multi-scale CNNs (**Neurocomputing**) [[paper](https://arxiv.org/abs/1908.02797)]
 - <a name="SCAR"></a> **[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/1908.03716)][[code](https://github.com/gjy3035/SCAR)]
-- <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
 - <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**TNNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
+- <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
+- <a name="PaDNet"></a> **[PaDNet]** PaDNet: Pan-Density Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897143)]
 
 ### 2018
 
@@ -277,6 +277,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [DSSINet](#DSSINet)                          | 60.63 | 96.04 | -  | -  | -  | -           |
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)                       | 60.2  | 94.1  | -  | -  | -  | -           |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
+| 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
 | 2019--ICCV |**[PGCNet](#PGCNet)**                         | **57.0** | **86.0** | -  | -  | -  | -         |
 
@@ -311,6 +312,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICASSP | [ASD](#ASD)                                 | 8.5   | 13.7  |
 | 2019--CVPR | [TEDnet](#TEDnet)                             | 8.2   | 12.8  |
 | 2019--TIP  | [HA-CCN](#HA-CCN)                             | 8.1   | 13.4  |
+| 2019--TIP  | [PaDNet](#PaDNet)                             | 8.1   | 12.2  |
 | 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)       | 7.7   | 12.9  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
@@ -341,6 +343,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [SFCN](#CCWld)  | 102.0 | - | 171.4 | - | - | - | - | - | - |
 | 2019--ICCV | [DSSINet](#DSSINet)  | 99.1 | - | 159.2 | - | - | - | - | - | - |
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)      | 97.5 | - | 165.2 | - | - | - | - | - | - |
+| 2019--TIP  | [PaDNet](#PaDNet)           | 96.5 | - | 170.2 | - | - | - | - | - | - |
 | 2019--ICCV | **[BL](#BL)**  | **88.7** | - | **154.8** | - | - | - | - | - | - |
 
 
@@ -386,7 +389,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | **[CAN](#CAN)**                              | 212.2 | **243.7** |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 204.2 | 301.3  |
 | 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
-| 2019--ICCV | **[SPN+L2SM](#L2SM)**                        | **188.4** | 315.3 |
+| 2019--ICCV | [SPN+L2SM](#L2SM)                            | 188.4 | 315.3 |
+| 2019--TIP  | **[PaDNet](#PaDNet)**                        | **185.8** | 278.3 |
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |
@@ -440,8 +444,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--WACV | [SPN](#SPN)                             | 1.03 | 1.32 |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                 | 1.00 | 1.28 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(DME)          | 0.98 | 1.25 |
-| 2019--BMVC | **[E3D](#E3D)**                         | 0.93 | **1.17** |
-| 2019--CVPR | **[PACNN](#PACNN)**                     | **0.89** | 1.18 |
+| 2019--BMVC | [E3D](#E3D)                             | 0.93 | 1.17 |
+| 2019--CVPR | [PACNN](#PACNN)                         | 0.89 | 1.18 |
+| 2019--TIP  | **[PaDNet](#PaDNet)**                   | **0.85** | **1.06** |
 
 ### Mall
 

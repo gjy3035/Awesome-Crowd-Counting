@@ -90,7 +90,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2019
 
-- <a name="D-ConvNet"></a> **[D-ConvNet]** Robust Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://arxiv.org/abs/1908.09066)](extension of [D-ConvNet](#D-ConvNet))
+- <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
 - <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and
 Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]

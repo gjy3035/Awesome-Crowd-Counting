@@ -46,6 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a name=""></a>AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - <a name=""></a>Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
 - <a name=""></a>Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
 - <a name=""></a>Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]

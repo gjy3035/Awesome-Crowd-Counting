@@ -23,6 +23,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ## Datasets
+- ShanghaiTechRGBD Dataset [[Link](https://github.com/svip-lab/RGBD-Counting)]
 - DroneCrowd Dataset [[Link](https://github.com/VisDrone/VisDrone-Dataset)]
 - JHU-CROWD Dataset [[Link]()]
 - DLR-ACD Dataset [[Link](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-58354/)]

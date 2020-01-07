@@ -86,7 +86,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Advances and Trends in Visual Crowd Analysis: A Systematic Survey and Evaluation of Crowd Modelling Techniques (**Neurocomputing2016**) [[paper](https://home.isr.uc.pt/~jorge/wp-content/uploads/85.pdf)]
 - <a name=""></a> An Evaluation of Crowd Counting Methods, Features and Regression Models (**CVIU2015**) [[paper](https://eprints.qut.edu.au/75845/4/75845.pdf)]
 - <a name=""></a> Crowded Scene Analysis：A Survey (**T-CSVT2015**) [[paper](https://arxiv.org/pdf/1502.01812.pdf)]
-- <a name=""></a> Fast crowd density estimation with convolutional neural networks (**AI2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)]
+- <a name=""></a> Recent survey on crowd density estimation and counting for visual surveillance (**Artificial Intelligence2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000081)]
 - <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2020
@@ -221,6 +221,7 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 - <a name="Bayesian"></a> **[Bayesian]** Bayesian Model Adaptation for Crowd Counts (**ICCV**) [[paper](https://ieeexplore.ieee.org/document/7410832?arnumber=7410832&tag=1)]
 - <a name="Zhang2015"></a> **[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]
 - <a name="Wang2015"></a> **[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM**) [[paper](https://dl.acm.org/citation.cfm?id=2806337)]
+- <a name=""></a> Fast crowd density estimation with convolutional neural networks (**Artificial Intelligence**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)]
 
 ### 2014
 

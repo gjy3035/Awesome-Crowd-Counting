@@ -237,6 +237,10 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 
 - <a name="Chen2012"></a> **[Chen 2012]** Feature mining for localised crowd counting (**BMVC**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
+### 2011
+
+- <a name="Rodriguez2011"></a> **[Rodriguez 2011]** Density-aware person detection and tracking in crowds (**ICCV**) [[paper](https://hal-enpc.archives-ouvertes.fr/hal-00654266/file/ICCV11a.pdf)]
+
 ### 2010
 
 - <a name="Lempitsky2010"></a> **[Lempitsky 2010]** Learning To Count Objects in Images (**NIPS**) [[paper](http://papers.nips.cc/paper/4043-learning-to-count-objects-in-images)]

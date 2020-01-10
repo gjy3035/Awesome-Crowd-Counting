@@ -23,6 +23,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ## Datasets
+- NWPU-Crowd Dataset (A Large-Scale Benchmark for Crowd Counting) [[Link](https://www.crowdbenchmark.com/)] [[Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/)] 
 - ShanghaiTechRGBD Dataset [[Link](https://github.com/svip-lab/RGBD-Counting)]
 - DroneCrowd Dataset [[Link](https://github.com/VisDrone/VisDrone-Dataset)]
 - JHU-CROWD Dataset [[Link]()]

@@ -58,9 +58,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - <a name=""></a>Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
 - <a name=""></a>Deep Density-aware Count Regressor [[paper](https://arxiv.org/abs/1908.03314)][[code](https://github.com/GeorgeChenZJ/deepcount)]
-<!--- <a name=""></a>Video Crowd Counting via Dynamic Temporal Modeling [[paper](https://arxiv.org/abs/1907.02198)]-->
-<!--- <a name=""></a>Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]-->
-<!--- <a name=""></a> Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]-->
+<!--- Video Crowd Counting via Dynamic Temporal Modeling [[paper](https://arxiv.org/abs/1907.02198)]-->
+<!--- Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]-->
+<!--- Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]-->
 <!--- Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]-->
 <!--- Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]-->
 <!--- W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]-->

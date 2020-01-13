@@ -48,7 +48,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
-- <a name=""></a>NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
+- <a name=""></a>NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360)][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
 - <a name=""></a>From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - <a name=""></a>AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - <a name=""></a>Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
@@ -58,7 +58,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a>Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - <a name=""></a>Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
 - <a name=""></a>Deep Density-aware Count Regressor [[paper](https://arxiv.org/abs/1908.03314)][[code](https://github.com/GeorgeChenZJ/deepcount)]
-- <a name=""></a>Video Crowd Counting via Dynamic Temporal Modeling [[paper](https://arxiv.org/abs/1907.02198)]
+<!--- <a name=""></a>Video Crowd Counting via Dynamic Temporal Modeling [[paper](https://arxiv.org/abs/1907.02198)]-->
 <!--- <a name=""></a>Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]-->
 <!--- <a name=""></a> Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]-->
 <!--- Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]-->

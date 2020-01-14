@@ -111,7 +111,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2020
 
-- <a name=""></a>3D Crowd Counting via Multi-View Fusion with 3D Gaussian Kernels (**AAAI**) [[Project](http://visal.cs.cityu.edu.hk/research/aaai20-3d-counting/)]
+- <a name=""></a> Shallow  Feature  based  Dense  Attention  Network  for  Crowd  Counting (**AAAI**)
+- <a name=""></a> Hybrid  Graph  Neural  Networks  for  Crowd  Counting (**AAAI**)
+- <a name=""></a> 3D Crowd Counting via Multi-View Fusion with 3D Gaussian Kernels (**AAAI**) [[Project](http://visal.cs.cityu.edu.hk/research/aaai20-3d-counting/)]
 - <a name="DUBNet"></a> **[DUBNet]** Crowd Counting with Decomposed Uncertainty (**AAAI**) [[paper](https://arxiv.org/pdf/1903.07427.pdf)]
 - <a name="CC-Mod"></a> **[CC-Mod]** Plug-and-Play Rescaling Based Crowd Counting in Static Images (**WACV**) [[paper](https://arxiv.org/pdf/2001.01786.pdf)]
 

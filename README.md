@@ -47,9 +47,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | Venice | 2019 | 4 Fixed Scenes  | 720\*1280 | 167 | - | - |  [[Download](https://drive.google.com/file/d/15PUf7C3majy-BbWJSSHaXUlot0SUh3mJ/view)] |
 | CityStreet | 2019 | Multi-view | 1520\*2704 | 500 | - | - |  [[Homepage](http://visal.cs.cityu.edu.hk/research/citystreet/)]  |
 | Beijing-BRT | 2019 | 1 Fixed Scene | 640\*360 | 1,280 | 16,795 | - | [[Homepage](https://github.com/XMU-smartdsp/Beijing-BRT-dataset)] |
-| SmartCity | 2018 | - | 1080\*1920 | 50 | 369 | 7  | Download: [[Link1](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)] [[Link2](https://pan.baidu.com/s/1pMuGyNp)] |
+| SmartCity | 2018 | - | 1080\*1920 | 50 | 369 | 7 | Download: [[Link1](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)] [[Link2](https://pan.baidu.com/s/1pMuGyNp)] |
 | ShanghaiTech Part B | 2016 |  Free Scenes | 768\*1024 | 716 | 88,488 | 123 | Download: [[Link1](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)] [[Link2](https://pan.baidu.com/s/1nuAYslz)] |
 | WorldExpo'10 | 2016 | 108 Fixed Scenes | 576\*720 | 3,980 | 199,923 | 50 | [[Homepage](http://www.ee.cuhk.edu.hk/~xgwang/expo.html)] |
+| CityUHK-X | 2017 | 55 Fixed Scenes | 384\*512 | 3,191 | 106,783 | 50 | [[Homepage](http://visal.cs.cityu.edu.hk/downloads/#cityuhk-x)] |
 | Mall | 2012 | 1 Fixed Scene | 480\*640 | 2,000 | 62,325 | 31 | [[Homepage](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)] |
 | UCSD | 2008 | 1 Fixed Scene  | 158\*238 | 4,250 | 49,885 | 25 | [[Homepage](http://www.svcl.ucsd.edu/projects/peoplecnt/)] |
 
@@ -216,6 +217,7 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 
 ### 2017
 
+- <a name="ACNN"></a> **[ACNN]** Incorporating Side Information by Adaptive Convolution (**NIPS**) [[paper](http://papers.nips.cc/paper/6976-incorporating-side-information-by-adaptive-convolution.pdf)][[Project](http://visal.cs.cityu.edu.hk/research/acnn/)]
 - <a name="CP-CNN"></a> **[CP-CNN]** Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV**) [[paper](https://arxiv.org/abs/1708.00953)]
 - <a name="ConvLSTM"></a> **[ConvLSTM]** Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)]
 - <a name="CMTL"></a> **[CMTL]** CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS**) [[paper](https://arxiv.org/abs/1707.09605)] [[code](https://github.com/svishwa/crowdcount-cascaded-mtl)]

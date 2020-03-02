@@ -95,6 +95,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 <!--- Image Crowd Counting Using Convolutional Neural Network and Markov Random Field [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)] -->
   
 ### Methods dealing with the lack of labelled data
+- <a name="FSC"></a> **[FSC]** Focus on Semantic Consistency for Cross-domain Crowd Understanding (**ICASSP**) [[paper](https://arxiv.org/abs/2002.08623)]
 - <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
@@ -113,7 +114,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2020
 
-- <a name=""></a> Focus on Semantic Consistency for Cross-domain Crowd Understanding (**ICASSP**) [[paper](https://arxiv.org/abs/2002.08623)]
+- <a name="FSC"></a> **[FSC]** Focus on Semantic Consistency for Cross-domain Crowd Understanding (**ICASSP**) [[paper](https://arxiv.org/abs/2002.08623)]
 - <a name="C-CNN"></a> **[C-CNN]** A Real-Time Deep Network for Crowd Counting (**ICASSP**) [[paper](https://arxiv.xilesou.top/abs/2002.06515)]
 - <a name="HyGnn"></a> **[HyGnn]** Hybrid  Graph  Neural  Networks  for  Crowd  Counting (**AAAI**) [[paper](https://arxiv.org/abs/2002.00092)]
 - <a name="DUBNet"></a> **[DUBNet]** Crowd Counting with Decomposed Uncertainty (**AAAI**) [[paper](https://arxiv.org/abs/1903.07427)]

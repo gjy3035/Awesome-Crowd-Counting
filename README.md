@@ -59,14 +59,18 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Drone-view
 | Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
 | --- | --- |  --- | --- |--- | --- | --- | --- |
+| DroneVehicle | 2020 | Vehicle | 840\*712 |  31,064 |  441,642 | 14.2 | [[Homepage](https://github.com/VisDrone/DroneVehicle)] |
 | DroneCrowd | 2019 | Video | 1080\*1920 |  33,600 | 4,864,280 | 145 | [[Homepage](https://github.com/VisDrone/VisDrone-Dataset)] |
 | DLR-ACD | 2019 | - | - | 33 |  226,291 | 6,857 | [[Homepage](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-58354/)] |
+
+
 
 ## Papers
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- <a name=""></a>Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - <a name=""></a>NAS-Count: Counting-by-Density with Neural Architecture Search [[paper](https://arxiv.org/abs/2003.00217)]
 - <a name=""></a>Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
 - <a name=""></a>ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images [[paper](https://arxiv.org/abs/2002.12256)]

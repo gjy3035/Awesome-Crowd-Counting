@@ -10,6 +10,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Misc
 
+### News
+- Dataset of JHU-CROWD++ has been released!
+
 ### Code
 - [[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released.
 

@@ -29,10 +29,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
 | --- | --- |  --- | --- |--- | --- | --- | --- |
 | NWPU-Crowd | 2020 | Congested | 2311\*3383 | 5,109 | 2,133,238 | 418 | [[Homepage](https://www.crowdbenchmark.com/)]   [[Download](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/gjy3035_mail_nwpu_edu_cn/EsubMp48wwJDiH0YlT82NYYBmY9L0s-FprrBcoaAJkI1rw?e=e2JLgD)] [[Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/)]  |
-| JHU-CROWD | 2019 | Congested | 1450\*900 | 4,250 | 1,114,785 | 262 | Unreleased |
+| JHU-CROWD | 2019 | Congested | 1450\*900 | 4,250 | 1,114,785 | 262 | [[Homepage](http://www.crowd-counting.com)] |
 | UCF-QNRF | 2018 | Congested | 2013\*2902 | 1,535 | 1,251,642 | 815 | [[Homepage](http://crcv.ucf.edu/data/ucf-qnrf/)] [[Download](https://drive.google.com/open?id=1fLZdOsOXlv2muNB_bXEW6t-IS9MRziL6)] |
 | ShanghaiTech Part A | 2016 |  Congested | 589\*868 | 482 | 241,677 | 501 | Download: [[Link1](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)] [[Link2](https://pan.baidu.com/s/1nuAYslz)] |
-| UCF_CC_50 | 2013 | Congested | 2101\*2888 | 50 | 63,974 | 1,279 | [[Homepage](http://crcv.ucf.edu/data/ucf-cc-50/)]|
+| UCF_CC_50 | 2013 | Congested | 2101\*2888 | 50 | 63,974 | 1,279 | [[Homepage](http://crcv.ucf.edu/data/ucf-cc-50/)] |
 
 
 

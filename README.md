@@ -70,6 +70,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- <a name=""></a>JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](http://www.crowd-counting.com/assets/img/jhucrowdv2.pdf)]
 - <a name=""></a>Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
 - <a name=""></a>CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - <a name=""></a>Efficient Crowd Counting via Structured Knowledge Transfer [[paper](https://arxiv.org/abs/2003.10120)]

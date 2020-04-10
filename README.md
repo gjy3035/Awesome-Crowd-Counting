@@ -33,10 +33,10 @@ Please refer to [this page](src/Datasets.md).
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
 
-| [[**Survey**](src/Survey.md)] | [[**Auxiliary Tasks**](#)] (ing) | [[**Un-/semi-/weakly-/self- Supervised**](src/Un-, semi-, weakly-, self- supervised learning.md)]   | 
+| [[**Survey**](src/Survey.md)] | [[**Auxiliary Tasks**](#)] (ing) | [[**Un-/semi-/weakly-/self- Supervised**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)]   | 
 | :---- | :---- | :---- | 
-| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight model.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer Learning and Domain Adaptation.md)]  | 
-| [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network Design, Search.md)] | Todo |
+| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight_Model.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)]  | 
+| [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] | Todo |
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
@@ -59,6 +59,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 <details>
 <summary>Earlier ArXiv Papers</summary>
+
 - <a name=""></a>Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
 - <a name=""></a>Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]

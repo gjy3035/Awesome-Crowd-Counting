@@ -27,18 +27,16 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Datasets
 
-Please refer to [this page]().
+Please refer to [this page](src/Datasets.md).
 
 ## Papers
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
 
-| [[Survey]()] | [[Un-/semi-/weakly-/self- Supervised]()]   |
-| ---- | ---------------- | 
-| [[Localization]()]  | [[Transfer Learning and Domain Adaptation]()]  | 
-| [[Light-weight Models]()] | [[Network Design, Search]()] | 
-| [[Video]()] | [[Auxiliary Tasks]()] (ing) | 
-| Todo | Todo | 
+| [[**Survey**](src/Survey.md)] | [[**Auxiliary Tasks**](#)] (ing) | [[**Un-/semi-/weakly-/self- Supervised**](src/Un-, semi-, weakly-, self- supervised learning.md)]   | 
+| :---- | :---- | :---- | 
+| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight model.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer Learning and Domain Adaptation.md)]  | 
+| [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network Design, Search.md)] | Todo |
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
@@ -58,11 +56,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name=""></a>From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - <a name=""></a>AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - <a name=""></a>Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
-- <a name=""></a>Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
-- <a name=""></a>Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
+
 <details>
 <summary>Earlier ArXiv Papers</summary>
-  
+- <a name=""></a>Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
+- <a name=""></a>Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]

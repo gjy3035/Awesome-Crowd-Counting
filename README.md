@@ -17,6 +17,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released.
 
 ### Technical blog
+- [Chinese Blog] 人群计数论文解读 [[Link](https://zhuanlan.zhihu.com/c_1111215695622352896)]
 - [2019.05] [Chinese Blog] C^3 Framework系列之一：一个基于PyTorch的开源人群计数框架 [[Link](https://zhuanlan.zhihu.com/p/65650998)]
 - [2019.04] Crowd counting from scratch [[Link](https://github.com/CommissarMa/Crowd_counting_from_scratch)]
 - [2017.11] Counting Crowds and Lines with AI [[Link1](https://blog.dimroc.com/2017/11/19/counting-crowds-and-lines/)] [[Link2](https://count.dimroc.com/)] [[Code](https://github.com/dimroc/count)]
@@ -24,56 +25,26 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ###  GT generation
 - Density Map Generation from Key Points [[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)] [[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb)] [[Fast Python Code](https://github.com/vlad3996/computing-density-maps)] [[Pytorch CUDA Code]](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py)
 
-
 ## Datasets
 
-### Free-view
-
-| Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
-| --- | --- |  --- | --- |--- | --- | --- | --- |
-| NWPU-Crowd | 2020 | Congested | 2311\*3383 | 5,109 | 2,133,238 | 418 | [[Homepage](https://www.crowdbenchmark.com/)]   [[Download](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/gjy3035_mail_nwpu_edu_cn/EsubMp48wwJDiH0YlT82NYYBmY9L0s-FprrBcoaAJkI1rw?e=e2JLgD)] [[Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/)]  |
-| JHU-CROWD | 2019 | Congested | 1450\*900 | 4,250 | 1,114,785 | 262 | [[Homepage](http://www.crowd-counting.com)] |
-| UCF-QNRF | 2018 | Congested | 2013\*2902 | 1,535 | 1,251,642 | 815 | [[Homepage](http://crcv.ucf.edu/data/ucf-qnrf/)] [[Download](https://drive.google.com/open?id=1fLZdOsOXlv2muNB_bXEW6t-IS9MRziL6)] |
-| ShanghaiTech Part A | 2016 |  Congested | 589\*868 | 482 | 241,677 | 501 | Download: [[Link1](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)] [[Link2](https://pan.baidu.com/s/1nuAYslz)] |
-| UCF_CC_50 | 2013 | Congested | 2101\*2888 | 50 | 63,974 | 1,279 | [[Homepage](http://crcv.ucf.edu/data/ucf-cc-50/)] |
-
-
-
-### Surveillance-view
-
-| Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
-| --- | --- |  --- | --- |--- | --- | --- | --- |
-| Crowd Surveillance | 2019 | Free scenes | 840\*1342 | 13,945 | 386,513 | 28 | [[Homepage](https://ai.baidu.com/broad/introduction)] |
-| ShanghaiTechRGBD | 2019 | Depth | - | - | - | - | [[Homepage](https://github.com/svip-lab/RGBD-Counting)] |
-| Fudan-ShanghaiTech  | 2019 | Video | 1080\*1920 | 15,000 | 394,081 | 27 | [[Homepage](https://github.com/sweetyy83/Lstn_fdst_dataset)] [[Download](https://pan.baidu.com/share/init?surl=NNaJ1vtsxCPJUjDNhZ1sHA) (pwd:**sgt1**)] |
-| GCC | 2019 | 400 Fixed Scenes, Synthetic | 1080\*1920 | 15,211 | 7,625,843 | 501 | Download: [[Link1](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/gjy3035_mail_nwpu_edu_cn/Eo4L82dALJFDvUdy8rBm6B0BuQk6n5akJaN1WUF1BAeKUA?e=ge2cRg)] [[Link2](https://v2.fangcloud.com/share/4625d2bfa9427708060b5a5981)] [[Link3](https://pan.baidu.com/s/1OtKqmw84TFbxAiN0H2xBtQ) (pwd:**utdo**)]|
-| Venice | 2019 | 4 Fixed Scenes  | 720\*1280 | 167 | - | - |  [[Download](https://drive.google.com/file/d/15PUf7C3majy-BbWJSSHaXUlot0SUh3mJ/view)] |
-| CityStreet | 2019 | Multi-view | 1520\*2704 | 500 | - | - |  [[Homepage](http://visal.cs.cityu.edu.hk/research/citystreet/)]  |
-| Beijing-BRT | 2019 | 1 Fixed Scene | 640\*360 | 1,280 | 16,795 | 13 | [[Homepage](https://github.com/XMU-smartdsp/Beijing-BRT-dataset)] |
-| SmartCity | 2018 | - | 1080\*1920 | 50 | 369 | 7 | Download: [[Link1](https://drive.google.com/file/d/1xqflSQv9dZ0A93_lP34pSIfcpheT2Fi8/view?usp=sharing)] [[Link2](https://pan.baidu.com/s/1pMuGyNp)] |
-| CityUHK-X | 2017 | 55 Fixed Scenes | 384\*512 | 3,191 | 106,783 | 33 | [[Homepage](http://visal.cs.cityu.edu.hk/downloads/#cityuhk-x)] |
-| ShanghaiTech Part B | 2016 |  Free Scenes | 768\*1024 | 716 | 88,488 | 123 | Download: [[Link1](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)] [[Link2](https://pan.baidu.com/s/1nuAYslz)] |
-| AHU-Crowd | 2016 |  - | 720\*576 | 107 | 45,000 | 421 | [[Homepage](http://cs-chan.com/downloads_crowd_dataset.html)] |
-| WorldExpo'10 | 2015 | 108 Fixed Scenes | 576\*720 | 3,980 | 199,923 | 50 | [[Homepage](http://www.ee.cuhk.edu.hk/~xgwang/expo.html)] |
-| Mall | 2012 | 1 Fixed Scene | 480\*640 | 2,000 | 62,325 | 31 | [[Homepage](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html)] |
-| UCSD | 2008 | 1 Fixed Scene  | 158\*238 | 2,000 | 49,885 | 25 | [[Homepage](http://www.svcl.ucsd.edu/projects/peoplecnt/)] |
-
-
-### Drone-view
-| Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
-| --- | --- |  --- | --- |--- | --- | --- | --- |
-| DroneVehicle | 2020 | Vehicle | 840\*712 |  31,064 |  441,642 | 14.2 | [[Homepage](https://github.com/VisDrone/DroneVehicle)] |
-| DroneCrowd | 2019 | Video | 1080\*1920 |  33,600 | 4,864,280 | 145 | [[Homepage](https://github.com/VisDrone/VisDrone-Dataset)] |
-| DLR-ACD | 2019 | - | - | 33 |  226,291 | 6,857 | [[Homepage](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-58354/)] |
-
-
+Please refer to [this page]().
 
 ## Papers
+
+Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
+
+| [[Survey]()] | [[Un-/semi-/weakly-/self- Supervised]()]   |
+| ---- | ---------------- | 
+| [[Localization]()]  | [[Transfer Learning and Domain Adaptation]()]  | 
+| [[Light-weight Models]()] | [[Network Design, Search]()] | 
+| [[Video]()] | [[Auxiliary Tasks]()] (ing) | 
+| Todo | Todo | 
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- <a name=""></a>JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](http://www.crowd-counting.com/assets/img/jhucrowdv2.pdf)]
+- <a name=""></a>JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](https://arxiv.org/abs/2004.03597)]
+- Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting [[paper](https://arxiv.org/abs/2004.02133)]
 - <a name=""></a>Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
 - <a name=""></a>CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - <a name=""></a>Efficient Crowd Counting via Structured Knowledge Transfer [[paper](https://arxiv.org/abs/2003.10120)]
@@ -112,23 +83,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Image Crowd Counting Using Convolutional Neural Network and Markov Random Field [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]
 </details>
 
-### Methods dealing with the lack of labelled data
-- <a name="FSC"></a> **[FSC]** Focus on Semantic Consistency for Cross-domain Crowd Understanding (**ICASSP**) [[paper](https://arxiv.org/abs/2002.08623)]
-- <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR2019**) [[paper](http://gjy3035.github.io/pdf/CC_Wild_0308_cvpr2019.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)]
-- <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
-- <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI2019**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
-- <a name="CAC"></a>**[CAC]** Class-Agnostic Counting (**ACCV2018**) [[paper](https://arxiv.org/abs/1811.00472)] [[code](https://github.com/erikalu/class-agnostic-counting)]
-- <a name="L2R"></a>  **[L2R]** Leveraging Unlabeled Data for Crowd Counting by Learning to Rank (**CVPR2018**) [[paper](https://arxiv.org/abs/1803.03095)] [[code](https://github.com/xialeiliu/CrowdCountingCVPR18)] 
-- <a name="SSR"></a> **[SSR]** From Semi-Supervised to Transfer Counting of Crowds (**ICCV2013**) [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Loy_From_Semi-supervised_to_2013_ICCV_paper.pdf)]
-
-### Survey
-- <a name=""></a> Beyond Counting：Comparisons of Density Maps for Crowd Analysis Tasks (**T-CSVT2018**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360001)][[arxiv](https://arxiv.org/abs/1705.10118)]
-- <a name=""></a> A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation (**PR Letters2018**) [[paper](https://arxiv.org/abs/1707.01202)]
-- <a name=""></a> Advances and Trends in Visual Crowd Analysis: A Systematic Survey and Evaluation of Crowd Modelling Techniques (**Neurocomputing2016**) [[paper](https://home.isr.uc.pt/~jorge/wp-content/uploads/85.pdf)]
-- <a name=""></a> An Evaluation of Crowd Counting Methods, Features and Regression Models (**CVIU2015**) [[paper](https://eprints.qut.edu.au/75845/4/75845.pdf)]
-- <a name=""></a> Crowded Scene Analysis：A Survey (**T-CSVT2015**) [[paper](https://arxiv.org/pdf/1502.01812.pdf)]
-- <a name=""></a> Recent survey on crowd density estimation and counting for visual surveillance (**Artificial Intelligence2015**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000081)]
-- <a name=""></a> A Survey of Human-Sensing: Methods for Detecting Presence, Count, Location, Track, and Identity (**CSUR2010**) [[paper](https://papers.ger.sh/Teixeira-SurveyHumanSensing-2010.pdf)]
 
 ### 2020
 - <a name="ASNet"></a> **[ASNet]** Attention Scaling for Crowd Counting (**CVPR**) [[paper]()] [[code](https://github.com/laridzhang/ASNet)]
@@ -157,8 +111,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))[[Project](https://mmcheng.net/dncl/)]
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
-- <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and
-Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
+- <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
 - <a name="ADMG"></a> **[ADMG]** Adaptive Density Map Generation for Crowd Counting (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Adaptive_Density_Map_Generation_for_Crowd_Counting_ICCV_2019_paper.pdf)]
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 
 - <a name="RANet"></a> **[RANet]** Relational Attention Network for Crowd Counting (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Relational_Attention_Network_for_Crowd_Counting_ICCV_2019_paper.pdf)]

@@ -51,7 +51,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name=""></a>Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - <a name=""></a>NAS-Count: Counting-by-Density with Neural Architecture Search [[paper](https://arxiv.org/abs/2003.00217)]
 - <a name=""></a>Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
-- <a name=""></a>ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images [[paper](https://arxiv.org/abs/2002.12256)]
 - <a name=""></a>NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360)][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
 - <a name=""></a>PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
 - <a name=""></a>From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
@@ -69,7 +68,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Deep Density-aware Count Regressor [[paper](https://arxiv.org/abs/1908.03314)][[code](https://github.com/GeorgeChenZJ/deepcount)]
 - Video Crowd Counting via Dynamic Temporal Modeling [[paper](https://arxiv.org/abs/1907.02198)]
 - Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]
-- Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
 - Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]
@@ -85,8 +83,14 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 
 ### 2020
+
+- <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]
 - <a name="ASNet"></a> **[ASNet]** Attention Scaling for Crowd Counting (**CVPR**) [[paper]()] [[code](https://github.com/laridzhang/ASNet)]
 - <a name="HSRNet"></a> **[HSRNet]** Crowd Counting via Hierarchical Scale Recalibration Network (**ECAI**) [[paper](https://arxiv.org/abs/2003.03545)]
+- <a name="CWAN"></a> **[CWAN]** Weakly Supervised Crowd-Wise Attention For Robust Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054258)]
+- <a name="AGRD"></a> **[AGRD]** Attention Guided Region Division for Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053761)]
+- <a name="BBA-NET"></a> **[BBA-NET]** BBA-NET: A Bi-Branch Attention Network For Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053955)]
+- <a name="SMANet"></a> **[SMANet]** Stochastic Multi-Scale Aggregation Network for Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054238)]
 - <a name="MSPNET"></a> **[MSPNET]** Stacked Pooling For Boosting Scale Invariance Of Crowd Counting (**ICASSP**) [[paper](https://siyuhuang.github.io/papers/ICASSP-2020-STACKED%20POOLING%20FOR%20BOOSTING%20SCALE%20INVARIANCE%20OF%20CROWD%20COUNTING.pdf)] [[arxiv](https://arxiv.org/abs/1808.07456)] [[code](http://github.com/siyuhuang/crowdcount-stackpool)]
 - <a name="MSPNET"></a> **[MSPNET]** Multi-supervised Parallel Network for Crowd Counting (**ICASSP**) [[paper](https://crabwq.github.io/pdf/2020%20MSPNET%20Multi-supervised%20Parallel%20Network%20for%20Crowd%20Counting.pdf)]
 - <a name="ASPDNet"></a> **[ASPDNet]** Counting dense objects in remote sensing images (**ICASSP**) [[paper](https://arxiv.org/abs/2002.05928)]
@@ -106,6 +110,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SRN+PS"></a> **[SRN+PS]** Scale-Recursive Network with point supervision for crowd scene analysis (**Neurocomputing**) [[paper](https://sciencedirect.xilesou.top/science/article/abs/pii/S0925231219317795)]
 - <a name="ASDF"></a> **[ASDF]** Counting crowds with varying densities via adaptive scenario discovery framework (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220302356)](extension of [ASD](#ASD))
 - <a name="CAT-CNN"></a> **[CAT-CNN]** Crowd counting with crowd attention convolutional neural network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219316662)]
+- <a name="ZoomCount"></a> **[ZoomCount]** ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images (**T-CSVT**) [[paper](https://arxiv.org/abs/2002.12256)]
+- <a name="DensityCNN"></a> **[DensityCNN]** Density-Aware Multi-Task Learning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037113)]
+- <a name="FMLF"></a> **[FMLF]** Crowd Density Estimation Using Fusion of Multi-Layer Features (**TITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063540)]
 
 ### 2019
 

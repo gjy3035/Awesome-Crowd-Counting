@@ -42,27 +42,28 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- <a name=""></a>Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting [[paper](https://arxiv.org/abs/2005.05776)][[code](https://github.com/xiyang1012/Local-Crowd-Counting)]
-- <a name=""></a>JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](https://arxiv.org/abs/2004.03597)]
+- Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]
+- Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting [[paper](https://arxiv.org/abs/2005.05776)][[code](https://github.com/xiyang1012/Local-Crowd-Counting)]
+- JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](https://arxiv.org/abs/2004.03597)]
 - Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting [[paper](https://arxiv.org/abs/2004.02133)]
-- <a name=""></a>Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
-- <a name=""></a>CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
-- <a name=""></a>Efficient Crowd Counting via Structured Knowledge Transfer [[paper](https://arxiv.org/abs/2003.10120)]
-- <a name=""></a>Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
-- <a name=""></a>Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
-- <a name=""></a>NAS-Count: Counting-by-Density with Neural Architecture Search [[paper](https://arxiv.org/abs/2003.00217)]
-- <a name=""></a>Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
-- <a name=""></a>NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360)][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
-- <a name=""></a>PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
-- <a name=""></a>From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
-- <a name=""></a>AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
-- <a name=""></a>Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
+- Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
+- CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
+- Efficient Crowd Counting via Structured Knowledge Transfer [[paper](https://arxiv.org/abs/2003.10120)]
+- Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
+- Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
+- NAS-Count: Counting-by-Density with Neural Architecture Search [[paper](https://arxiv.org/abs/2003.00217)]
+- Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
+- NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360)][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
 
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
-- <a name=""></a>Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
-- <a name=""></a>Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
+- PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
+- From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
+- AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
+- Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
+- Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
+- Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]

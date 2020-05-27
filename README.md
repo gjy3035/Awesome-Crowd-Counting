@@ -33,11 +33,12 @@ Please refer to [this page](src/Datasets.md).
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
 
-| [[**Survey**](src/Survey.md)] | [[**Auxiliary Tasks**](src/Auxiliary_Tasks.md)] | [[**Un-/semi-/weakly-/self- Supervised Learning**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)]   | 
+| [[**Top Conference/Journal**](src/Top_Conference-Journal.md)] | [[**Survey**](src/Survey.md)] |
+[[**Un-/semi-/weakly-/self- Supervised Learning**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)]   | 
 | :---- | :---- | :---- | 
-| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight_Model.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)]  | 
- | [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] | [[**Perspective Map**](src/Perspective_Map.md)] |
-| [[**Attention**](#)] (ing) | Todo |
+| [[**Auxiliary Tasks**](src/Auxiliary_Tasks.md)] | [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight_Model.md)] |
+| [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)]  [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] |
+| [[**Perspective Map**](src/Perspective_Map.md)] | [[**Attention**](#)] (ing) | Todo |
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).

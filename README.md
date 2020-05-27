@@ -37,8 +37,10 @@ Considering the increasing number of papers in this field, we roughly summarize 
 [[**Un-/semi-/weakly-/self- Supervised Learning**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)]   
 | 
 | :---- | :---- | :---- | 
-| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight_Model.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)]  | 
-| [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] | [[**Perspective Map**](src/Perspective_Map.md)] |
+| [[**Localization**](src/Localization.md)] | [[**Light-weight Models**](src\Light-weight_Model.md)] | 
+[[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)]  | 
+| [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] | 
+[[**Perspective Map**](src/Perspective_Map.md)] |
 | [[**Attention**](#)] (ing) | Todo | Todo |
 
 ### arXiv papers

@@ -109,13 +109,13 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
 - <a name="PaDNet"></a> **[PaDNet]** PaDNet: Pan-Density Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897143)]
 - <a name="MS-GAN"></a> **[MS-GAN]** Adversarial Learning for Multiscale Crowd Counting Under Complex Scenes (**TCYB**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949751)]
+- <a name="ZoomCount"></a> **[ZoomCount]** ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images (**T-CSVT**) [[paper](https://arxiv.org/abs/2002.12256)]
+- <a name="DensityCNN"></a> **[DensityCNN]** Density-Aware Multi-Task Learning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037113)]
+- <a name="FMLF"></a> **[FMLF]** Crowd Density Estimation Using Fusion of Multi-Layer Features (**TITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063540)]
 - <a name="MLSTN"></a> **[MLSTN]** Multi-level feature fusion based Locality-Constrained Spatial Transformer network for video crowd counting (**Neurocomputing**) [[paper](https://sciencedirect.xilesou.top/science/article/abs/pii/S0925231220301454)](extension of [LSTN](#LSTN))
 - <a name="SRN+PS"></a> **[SRN+PS]** Scale-Recursive Network with point supervision for crowd scene analysis (**Neurocomputing**) [[paper](https://sciencedirect.xilesou.top/science/article/abs/pii/S0925231219317795)]
 - <a name="ASDF"></a> **[ASDF]** Counting crowds with varying densities via adaptive scenario discovery framework (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220302356)](extension of [ASD](#ASD))
 - <a name="CAT-CNN"></a> **[CAT-CNN]** Crowd counting with crowd attention convolutional neural network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219316662)]
-- <a name="ZoomCount"></a> **[ZoomCount]** ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images (**T-CSVT**) [[paper](https://arxiv.org/abs/2002.12256)]
-- <a name="DensityCNN"></a> **[DensityCNN]** Density-Aware Multi-Task Learning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037113)]
-- <a name="FMLF"></a> **[FMLF]** Crowd Density Estimation Using Fusion of Multi-Layer Features (**TITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063540)]
 - <a name="RRP"></a> **[RRP]** Relevant Region Prediction for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.09816)]
 - <a name="SCAN"></a> **[SCAN]** Crowd Counting via Scale-Communicative Aggregation Networks (**Neurocomputing**) [[paper]()](extension of [MVSAN](#MVSAN))
 

@@ -117,6 +117,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DensityCNN"></a> **[DensityCNN]** Density-Aware Multi-Task Learning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037113)]
 - <a name="FMLF"></a> **[FMLF]** Crowd Density Estimation Using Fusion of Multi-Layer Features (**TITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9063540)]
 - <a name="RRP"></a> **[RRP]** Relevant Region Prediction for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.09816)]
+- <a name="SCAN"></a> **[SCAN]** Crowd Counting via Scale-Communicative Aggregation Networks (**Neurocomputing**) [[paper]()](extension of [MVSAN](#MVSAN))
 
 ### 2019
 

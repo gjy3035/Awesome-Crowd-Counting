@@ -54,7 +54,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - NAS-Count: Counting-by-Density with Neural Architecture Search [[paper](https://arxiv.org/abs/2003.00217)]
 - Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
-- NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2001.03360)][[code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code)]
+- NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]
 
 <details>
 <summary>Earlier ArXiv Papers</summary>

@@ -4,8 +4,8 @@
 
 | Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
 | --- | --- |  --- | --- |--- | --- | --- | --- |
-| NWPU-Crowd | 2020 | Congested | 2311\*3383 | 5,109 | 2,133,238 | 418 | [[Homepage](https://www.crowdbenchmark.com/)]   [[Download](https://mailnwpueducn-my.sharepoint.com/:f:/g/personal/gjy3035_mail_nwpu_edu_cn/EsubMp48wwJDiH0YlT82NYYBmY9L0s-FprrBcoaAJkI1rw?e=e2JLgD)] [[Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/)]  |
-| JHU-CROWD | 2019 | Congested | 1450\*900 | 4,250 | 1,114,785 | 262 | [[Homepage](http://www.crowd-counting.com)] |
+| NWPU-Crowd | 2020 | Congested, Localization | 2191\*3209 | 5,109 | 2,133,375 | 418 | [[Homepage](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)] (code/benchmark/download) |
+| JHU-CROWD++ | 2020 | Congested | 1430\*910 | 4,372 | 1,515,005 | 346 | [[Homepage](http://www.crowd-counting.com)] |
 | UCF-QNRF | 2018 | Congested | 2013\*2902 | 1,535 | 1,251,642 | 815 | [[Homepage](http://crcv.ucf.edu/data/ucf-qnrf/)] [[Download](https://drive.google.com/open?id=1fLZdOsOXlv2muNB_bXEW6t-IS9MRziL6)] |
 | ShanghaiTech Part A | 2016 |  Congested | 589\*868 | 482 | 241,677 | 501 | Download: [[Link1](https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)] [[Link2](https://pan.baidu.com/s/1nuAYslz)] |
 | UCF_CC_50 | 2013 | Congested | 2101\*2888 | 50 | 63,974 | 1,279 | [[Homepage](http://crcv.ucf.edu/data/ucf-cc-50/)] |
@@ -16,6 +16,7 @@
 
 | Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instenaces | Avg. Cnt | Link | 
 | --- | --- |  --- | --- |--- | --- | --- | --- |
+| DISCO | 2020 | Audiovisual, extreme conditions | 1080\*1920 | 1,935 | 170,270 | 88 | [[Download](https://doi.org/10.5281/zenodo.3828467)] |
 | Crowd Surveillance | 2019 | Free scenes | 840\*1342 | 13,945 | 386,513 | 28 | [[Homepage](https://ai.baidu.com/broad/introduction)] |
 | ShanghaiTechRGBD | 2019 | Depth | - | - | - | - | [[Homepage](https://github.com/svip-lab/RGBD-Counting)] |
 | Fudan-ShanghaiTech  | 2019 | Video | 1080\*1920 | 15,000 | 394,081 | 27 | [[Homepage](https://github.com/sweetyy83/Lstn_fdst_dataset)] [[Download](https://pan.baidu.com/share/init?surl=NNaJ1vtsxCPJUjDNhZ1sHA) (pwd:**sgt1**)] |

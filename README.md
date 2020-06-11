@@ -324,8 +324,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
-| 2019--ICCV |**[PGCNet](#PGCNet)**                         | **57.0** | **86.0** | -  | -  | -  | -         |
-
+| 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | **86.0** | -  | -  | -  | -         |
+| 2020--CVPR |**[ADSCNet](#ADSCNet)**                       | **55.4** | 97.7 | -  | -  | -  | -         |
 
 ### ShanghaiTech Part B
 
@@ -370,7 +370,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
 | 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
-| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | **6.5** | **9.9** |
+| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | 6.5  | **9.9** |
+| 2020--CVPR |**[ADSCNet](#ADSCNet)**                        | **6.4** | 11.3 | 
 
 ### UCF-QNRF
 
@@ -382,16 +383,17 @@ The section is being continually updated. Note that some values have superscript
 | 2017--CVPR | [Switching CNN](#SCNN)<sup>[CL](#CL)</sup>   | 228 | 0.44 | 445 | 0.005673 | 0.0263 | 0.5301 | - | - | - |
 | 2018--ECCV | [CL](#CL)     | 132 | 0.26 | 191 | 0.00044| 0.0017 | 0.9131 | 75.8% | 59.75%	| 0.714|
 | 2019--TIP  | [HA-CCN](#HA-CCN)   | 118.1 | - | 180.4 | - | - | - | - | - | - |
-| 2019--CVPR | [TEDnet](#TEDnet)   | 113 | - | 188 | - | - | - | - | - | - |
-| 2019--ICCV | [RANet](#RANet)     | 111 | - | 190 | - | - | - | - | - | - |
-| 2019--CVPR | [CAN](#CAN)         | 107 | - | 183 | - | - | - | - | - | - |
+| 2019--CVPR | [TEDnet](#TEDnet)   | 113   | - | 188   | - | - | - | - | - | - |
+| 2019--ICCV | [RANet](#RANet)     | 111   | - | 190   | - | - | - | - | - | - |
+| 2019--CVPR | [CAN](#CAN)         | 107   | - | 183   | - | - | - | - | - | - |
 | 2019--ICCV | [SPN+L2SM](#L2SM)   | 104.7 | - | 173.6 | - | - | - | - | - | - |
 | 2019--ICCV | [S-DCNet](#S-DCNet) | 104.4 | - | 176.1 | - | - | - | - | - | - |
-| 2019--CVPR | [SFCN](#CCWld)  | 102.0 | - | 171.4 | - | - | - | - | - | - |
-| 2019--ICCV | [DSSINet](#DSSINet)  | 99.1 | - | 159.2 | - | - | - | - | - | - |
+| 2019--CVPR | [SFCN](#CCWld)      | 102.0 | - | 171.4 | - | - | - | - | - | - |
+| 2019--ICCV | [DSSINet](#DSSINet) | 99.1  | - | 159.2 | - | - | - | - | - | - |
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)      | 97.5 | - | 165.2 | - | - | - | - | - | - |
 | 2019--TIP  | [PaDNet](#PaDNet)           | 96.5 | - | 170.2 | - | - | - | - | - | - |
-| 2019--ICCV | **[BL](#BL)**  | **88.7** | - | **154.8** | - | - | - | - | - | - |
+| 2019--ICCV | [BL](#BL)                   | 88.7 | - | 154.8 | - | - | - | - | - | - |
+| 2020--CVPR |**[ADSCNet](#ADSCNet)**      | **71.3** | - | **132.5** | - | - | - | - | - | - |
 
 
 ### UCF_CC_50

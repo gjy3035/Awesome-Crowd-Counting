@@ -309,6 +309,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
 | 2019--ICCV | [CFF](#CFF)                                  | 65.2  | 109.4 | 25.4  | 0.78 | -     | -   |
 | 2019--CVPR | [SFCN](#CCWld)                               | 64.8  | 107.5 | -  | -  | -  | -           |
+| 2020--AAAI | [DUBNet](#DUBNet)                            | 64.6  | 106.8 | -  | -  | -  | -           |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                            | 64.2  | 98.4  | -  | -  | -  | -           |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 64.2  | 109.1 | 25.88 | 0.83 | 1.63M | -   |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)     | 63.2  | 98.9  | 24.48 | 0.88 | -     | -   |
@@ -361,6 +362,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [RANet](#RANet)                               | 7.9   | 12.9  |
 | 2019--CVPR | [CAN](#CAN)                                   | 7.8   | 12.2  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)       | 7.7   | 12.9  |
+| 2020--AAAI | [DUBNet](#DUBNet)                             | 7.7   | 12.5  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 7.6   | 13.0  |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
@@ -386,6 +388,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [TEDnet](#TEDnet)   | 113   | - | 188   | - | - | - | - | - | - |
 | 2019--ICCV | [RANet](#RANet)     | 111   | - | 190   | - | - | - | - | - | - |
 | 2019--CVPR | [CAN](#CAN)         | 107   | - | 183   | - | - | - | - | - | - |
+| 2020--AAAI | [DUBNet](#DUBNet)   | 105.6 | - | 180.5 | - | - | - | - | - | - |
 | 2019--ICCV | [SPN+L2SM](#L2SM)   | 104.7 | - | 173.6 | - | - | - | - | - | - |
 | 2019--ICCV | [S-DCNet](#S-DCNet) | 104.4 | - | 176.1 | - | - | - | - | - | - |
 | 2019--CVPR | [SFCN](#CCWld)      | 102.0 | - | 171.4 | - | - | - | - | - | - |
@@ -430,6 +433,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--TIP  | [HA-CCN](#HA-CCN)                            | 256.2 | 348.4  |
 | 2019--CVPR | [TEDnet](#TEDnet)                            | 249.4 | 354.5  |
 | 2019--CVPR | [PACNN](#PACNN)                              | 267.9 | 357.8  |
+| 2020--AAAI | [DUBNet](#DUBNet)                            | 243.8 | 329.3  |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                       | 241.7 | 320.7  |
 | 2019--ICCV | [RANet](#RANet)                              | 239.8 | 319.4  |
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)                       | 233.1 | 300.9  |

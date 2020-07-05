@@ -49,7 +49,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Recurrent Distillation based Crowd Counting [[paper](https://arxiv.org/abs/2006.07755)]
 - Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting [[paper](https://arxiv.org/abs/2005.11943)]
 - Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]
-- Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting [[paper](https://arxiv.org/abs/2005.05776)][[code](https://github.com/xiyang1012/Local-Crowd-Counting)]
 - JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](https://arxiv.org/abs/2004.03597)]
 - Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting [[paper](https://arxiv.org/abs/2004.02133)]
 - Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]

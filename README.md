@@ -19,6 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Code
 - [[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released.
+- [[CCLabeler](https://github.com/Elin24/cclabeler)] A web tool for labeling pedestrians in an image, which is released.
 
 ### Technical blog
 - [Chinese Blog] 人群计数论文解读 [[Link](https://zhuanlan.zhihu.com/c_1111215695622352896)]

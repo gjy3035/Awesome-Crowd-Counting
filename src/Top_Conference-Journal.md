@@ -75,6 +75,7 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 
 ## T-PAMI
 
+- <a name="NWPU"></a> **[NWPU]** NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization (**T-PAMI**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]
 - <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]
 - <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))[[Project](https://mmcheng.net/dncl/)]
 - <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))

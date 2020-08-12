@@ -1,8 +1,8 @@
 # Light-weight Model
 
-- <a name=""></a>Efficient Crowd Counting via Structured Knowledge Transfer [[paper](https://arxiv.org/abs/2003.10120)]
+- <a name="SKT"></a> **[SKT]** Efficient Crowd Counting via Structured Knowledge Transfer (**ACM MM(oral)**) [[paper](https://arxiv.org/abs/2003.10120)][[code](https://github.com/HCPLab-SYSU/SKT)]
 - <a name="C-CNN"></a> **[C-CNN]** A Real-Time Deep Network for Crowd Counting (**ICASSP**) [[paper](https://arxiv.xilesou.top/abs/2002.06515)]
-- <a name=""></a>MobileCount: An Efficient Encoder-Decoder Framework for Real-Time Crowd Counting [[paper](https://link.springer.com/chapter/10.1007/978-3-030-31723-2_50)]
+- <a name="MobileCount"></a> **[MobileCount]** MobileCount: An Efficient Encoder-Decoder Framework for Real-Time Crowd Counting [[paper](https://link.springer.com/chapter/10.1007/978-3-030-31723-2_50)]
 - <a name="PCC-Net"></a> **[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) [[paper](https://arxiv.org/abs/1905.10085)] [[code](https://github.com/gjy3035/PCC-Net)]
 - <a name="SRN+PS"></a> **[SRN+PS]** Scale-Recursive Network with point supervision for crowd scene analysis (**Neurocomputing**) [[paper](https://sciencedirect.xilesou.top/science/article/abs/pii/S0925231219317795)]
 - <a name="SANet"></a> **[SANet]** Scale Aggregation Network for Accurate and Efficient Crowd Counting (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinkun_Cao_Scale_Aggregation_Network_ECCV_2018_paper.pdf)]

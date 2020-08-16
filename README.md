@@ -97,6 +97,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="NWPU"></a> **[NWPU]** NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization (**T-PAMI**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]
 - <a name="PWCU"></a> **[PWCU]** Pixel-wise Crowd Understanding via Synthetic Data (**IJCV**) [[paper](https://arxiv.org/abs/2007.16032)]
 - <a name="SKT"></a> **[SKT]** Efficient Crowd Counting via Structured Knowledge Transfer (**ACM MM(oral)**) [[paper](https://arxiv.org/abs/2003.10120)][[code](https://github.com/HCPLab-SYSU/SKT)]
+- <a name="RDBT"></a> **[RDBT]** Towards Unsupervised Crowd Counting via Regression-Detection Bi-knowledge Transfer (**ACM MM**) [[paper](https://arxiv.org/abs/2008.05383)]
 - <a name="AMSNet"></a> **[AMSNet]** NAS-Count: Counting-by-Density with Neural Architecture Search (**ECCV**) [[paper](https://arxiv.org/abs/2003.00217)]
 - <a name="AMRNet"></a> **[AMRNet]** Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting (**ECCV**) [[paper](https://arxiv.org/abs/2005.05776)][[code](https://github.com/xiyang1012/Local-Crowd-Counting)]
 - <a name="LibraNet"></a> **[LibraNet]** Weighting Counts: Sequential Crowd Counting by Reinforcement Learning (**ECCV**) [[paper](https://arxiv.org/abs/2007.08260)][[code](https://github.com/poppinace/libranet)]

@@ -141,6 +141,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CAT-CNN"></a> **[CAT-CNN]** Crowd counting with crowd attention convolutional neural network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219316662)]
 - <a name="RRP"></a> **[RRP]** Relevant Region Prediction for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.09816)]
 - <a name="SCAN"></a> **[SCAN]** Crowd Counting via Scale-Communicative Aggregation Networks (**Neurocomputing**) [[paper]()](extension of [MVSAN](#MVSAN))
+- <a name="MobileCount"></a> **[MobileCount]** MobileCount: An Efficient Encoder-Decoder Framework for Real-Time Crowd Counting (**Neurocomputing**) [[conference paper](https://link.springer.com/chapter/10.1007/978-3-030-31723-2_50)] [[journal paper](https://www.sciencedirect.com/science/article/pii/S0925231220308912)] [[code](https://github.com/SelinaFelton/MobileCount)]
 
 ### 2019
 

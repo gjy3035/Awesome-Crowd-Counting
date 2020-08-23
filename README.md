@@ -14,7 +14,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [2020.04] The JHU-CROWD++ Dataset is released.
 
 ### Challenge
-- [[VisDrone 2020](http://aiskyeye.com/challenge/crowd-counting/)] Crowd counting. ECCV Workshop. Deadline: **2020.07.15**.
+- [[VisDrone 2020](http://aiskyeye.com/challenge/crowd-counting/)] ~~Crowd counting. ECCV Workshop. Deadline: **2020.07.15**.~~
 - [[NWPU-Crowd Counting](https://www.crowdbenchmark.com/nwpucrowd.html)] Crowd counting. Deadline: none.
 
 ### Code

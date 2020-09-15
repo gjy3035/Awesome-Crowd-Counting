@@ -47,6 +47,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]
+- A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
 - Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)][[code](https://github.com/abhinavsagar/bmsnn)]
 - A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds [[paper](https://arxiv.org/abs/2007.12831)]
 - DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation  [[paper](https://arxiv.org/abs/2007.10521)]

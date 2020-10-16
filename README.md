@@ -13,6 +13,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### News
 - [2020.04] The JHU-CROWD++ Dataset is released.
 
+### Call for Papers
+- [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
+
 ### Challenge
 - [[VisDrone 2020](http://aiskyeye.com/challenge/crowd-counting/)] ~~Crowd counting. ECCV Workshop. Deadline: **2020.07.15**.~~
 - [[NWPU-Crowd Counting](https://www.crowdbenchmark.com/nwpucrowd.html)] Crowd counting. Deadline: none.

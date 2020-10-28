@@ -50,6 +50,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting [[paper](https://arxiv.org/abs/2010.12141)]
 - Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting [[paper](https://arxiv.org/abs/2010.01664)]
 - Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]

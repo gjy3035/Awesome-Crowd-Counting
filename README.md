@@ -78,7 +78,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
-- Feature-aware Adaptation and Structured Density Alignment for Crowd Counting in Video Surveillance [[paper](https://arxiv.org/abs/1912.03672)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
@@ -144,6 +143,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
 - <a name="PaDNet"></a> **[PaDNet]** PaDNet: Pan-Density Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897143)]
 - <a name="CRNet"></a> **[CRNet]** Crowd Counting via Cross-stage Refinement Networks (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096602)][[code](https://github.com/lytgftyf/Crowd-Counting-via-Cross-stage-Refinement-Networks)] 
+- Feature-aware Adaptation and Density Alignment for Crowd Counting in Video Surveillance (**TCYB**) [[paper](https://arxiv.org/abs/1912.03672)]
 - <a name="MS-GAN"></a> **[MS-GAN]** Adversarial Learning for Multiscale Crowd Counting Under Complex Scenes (**TCYB**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949751)]
 - <a name="ZoomCount"></a> **[ZoomCount]** ZoomCount: A Zooming Mechanism for Crowd Counting in Static Images (**T-CSVT**) [[paper](https://arxiv.org/abs/2002.12256)]
 - <a name="DensityCNN"></a> **[DensityCNN]** Density-Aware Multi-Task Learning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9037113)]

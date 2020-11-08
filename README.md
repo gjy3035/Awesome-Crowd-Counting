@@ -63,7 +63,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Recurrent Distillation based Crowd Counting [[paper](https://arxiv.org/abs/2006.07755)]
 - Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting [[paper](https://arxiv.org/abs/2005.11943)]
 - Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]
-- JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method [[paper](https://arxiv.org/abs/2004.03597)]
 - Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting [[paper](https://arxiv.org/abs/2004.02133)]
 
 <details>
@@ -101,6 +100,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2020
 
+- <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="DM-Count"></a> **[DM-Count]** Distribution Matching for Crowd Counting (**NeurIPS**) [[paper](https://arxiv.org/abs/2009.13077)][[code](https://github.com/cvlab-stonybrook/DM-Count)]
 - <a name=""></a> Modeling Noisy Annotations for Crowd Counting (**NeurIPS**)
 - <a name="KDMG"></a> **[KDMG]** Kernel-based Density Map Generation for Dense Object Counting (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/document/9189836)][[code](https://github.com/jia-wan/KDMG_Counting)]

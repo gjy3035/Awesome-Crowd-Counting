@@ -70,7 +70,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 - Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
-- Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
 - PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
@@ -100,6 +99,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2020
 
+- <a name="M-SFANet"></a> **[M-SFANet]** Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="DM-Count"></a> **[DM-Count]** Distribution Matching for Crowd Counting (**NeurIPS**) [[paper](https://arxiv.org/abs/2009.13077)][[code](https://github.com/cvlab-stonybrook/DM-Count)]
 - <a name=""></a> Modeling Noisy Annotations for Crowd Counting (**NeurIPS**)
@@ -372,6 +372,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
+| 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)               | 57.55 | 94.48 | -  | -  | -  | -           |
 | 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | **86.0** | -  | -  | -  | -         |
 | 2020--CVPR |**[ADSCNet](#ADSCNet)**                       | **55.4** | 97.7 | -  | -  | -  | -         |
 
@@ -419,8 +420,9 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
 | 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
-| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | 6.5  | **9.9** |
-| 2020--CVPR |**[ADSCNet](#ADSCNet)**                        | **6.4** | 11.3 | 
+| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | 6.5   | **9.9** |
+| 2020--CVPR | [ADSCNet](#ADSCNet)                           | 6.4   | 11.3 |
+| 2020--ICPR | **[M-SFANet+M-SegNet](#M-SFANet)**            | **6.32** | 10.06 |
 
 ### UCF-QNRF
 
@@ -443,6 +445,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)      | 97.5 | - | 165.2 | - | - | - | - | - | - |
 | 2019--TIP  | [PaDNet](#PaDNet)           | 96.5 | - | 170.2 | - | - | - | - | - | - |
 | 2019--ICCV | [BL](#BL)                   | 88.7 | - | 154.8 | - | - | - | - | - | - |
+| 2020--ICPR | [M-SFANet](#M-SFANet)       | 85.6 | - | 151.23 | - | - | - | - | - | - |
 | 2020--CVPR |**[ADSCNet](#ADSCNet)**      | **71.3** | - | **132.5** | - | - | - | - | - | - |
 
 
@@ -491,7 +494,8 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 204.2 | 301.3  |
 | 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                            | 188.4 | 315.3 |
-| 2019--TIP  | **[PaDNet](#PaDNet)**                        | **185.8** | 278.3 |
+| 2019--TIP  | [PaDNet](#PaDNet)                            | 185.8 | 278.3 |
+| 2020--ICPR | **[M-SFANet](#M-SFANet)**                    | **162.33** | 276.76 |
 
 ### WorldExpo'10
 | Year-Conference/Journal | Method | S1 | S2 | S3 | S4 | S5 | Avg. |
@@ -518,11 +522,12 @@ The section is being continually updated. Note that some values have superscript
 | 2019--ICCV | [PGCNet](#PGCNet)                     | 2.5  | 12.7  | **8.4** | 13.7 | 3.2 | 8.1 |
 | 2019--CVPR | [TEDnet](#TEDnet)                     | 2.3  | 10.1  | 11.3  | 13.8 | 2.6  | 8.0  |
 | 2019--CVPR | [PACNN](#PACNN)                       | 2.3  | 12.5  | 9.1   | 11.2 | 3.8  | 7.8  |
-| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)** | 1.7   | 14.4  | 11.5 | **7.9** | 3.0 | 7.7 |
+| 2019--CVPR | **[ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)** | 1.7   | 14.4  | 11.5 | 7.9  | 3.0  | 7.7 |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-attn-DME)      | 1.6   | 13.2  | 8.7  | 10.6    | 2.6 | 7.3 |
-| 2019--CVPR | **[CAN](#CAN)**                       | 2.9  | 12.0  | 10.0  | **7.9** | 4.3 | 7.4  |
+| 2019--CVPR | [CAN](#CAN)                           | 2.9  | 12.0  | 10.0  | 7.9  | 4.3  | 7.4  |
 | 2019--CVPR | **[CAN](#CAN)(ECAN)**                 | 2.4  | **9.4** | 8.8 | 11.2 | 4.0 | 7.2 |
 | 2019--ICCV | **[DSSINet](#DSSINet)**               | **1.57**  | 9.51 | 9.46 | 10.35 | **2.49** | **6.67** |
+| 2020--ICPR | **[M-SFANet](#M-SFANet)**             | 1.88 | 13.24 | 10.07 | **7.5** | 3.87 | 7.32 |
 
 
 

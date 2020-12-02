@@ -50,6 +50,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Counting People by Estimating People Flows [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting [[paper](https://arxiv.org/abs/2010.12141)]
 - Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting [[paper](https://arxiv.org/abs/2010.01664)]
@@ -100,7 +101,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2020
 
-- <a name=""></a> Counting People by Estimating People Flows (**ECCV**) [[paper](https://arxiv.org/abs/2012.00452)]
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]
 - <a name="M-SFANet"></a> **[M-SFANet]** Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
@@ -111,6 +111,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="PWCU"></a> **[PWCU]** Pixel-wise Crowd Understanding via Synthetic Data (**IJCV**) [[paper](https://arxiv.org/abs/2007.16032)]
 - <a name="SKT"></a> **[SKT]** Efficient Crowd Counting via Structured Knowledge Transfer (**ACM MM(oral)**) [[paper](https://arxiv.org/abs/2003.10120)][[code](https://github.com/HCPLab-SYSU/SKT)]
 - <a name="RDBT"></a> **[RDBT]** Towards Unsupervised Crowd Counting via Regression-Detection Bi-knowledge Transfer (**ACM MM**) [[paper](https://arxiv.org/abs/2008.05383)]
+- <a name="PeopleFlow"></a> **[PeopleFlow]** Estimating People Flows to Better Count Them in Crowded Scenes (**ECCV**) [[paper](https://arxiv.org/abs/1911.10782)][[code](https://github.com/weizheliu/People-Flows)]
 - <a name="AMSNet"></a> **[AMSNet]** NAS-Count: Counting-by-Density with Neural Architecture Search (**ECCV**) [[paper](https://arxiv.org/abs/2003.00217)]
 - <a name="AMRNet"></a> **[AMRNet]** Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting (**ECCV**) [[paper](https://arxiv.org/abs/2005.05776)][[code](https://github.com/xiyang1012/Local-Crowd-Counting)]
 - <a name="LibraNet"></a> **[LibraNet]** Weighting Counts: Sequential Crowd Counting by Reinforcement Learning (**ECCV**) [[paper](https://arxiv.org/abs/2007.08260)][[code](https://github.com/poppinace/libranet)]

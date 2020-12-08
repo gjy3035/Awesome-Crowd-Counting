@@ -50,6 +50,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
 - Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - Counting People by Estimating People Flows [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]

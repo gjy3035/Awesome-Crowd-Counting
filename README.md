@@ -53,6 +53,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]
 - Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2012.04529)]

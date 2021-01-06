@@ -81,7 +81,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
-- Understanding the impact of mistakes on background regions in crowd counting [[paper](https://arxiv.org/abs/2003.13759)]
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
@@ -111,10 +110,12 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2021
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]
+- <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]
+- <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]
+- <a name="CFOCNet"></a> **[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) [[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]
 
 ### 2020
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]
-- <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]
 - <a name="M-SFANet"></a> **[M-SFANet]** Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="DM-Count"></a> **[DM-Count]** Distribution Matching for Crowd Counting (**NeurIPS**) [[paper](https://arxiv.org/abs/2009.13077)][[code](https://github.com/cvlab-stonybrook/DM-Count)]

@@ -33,7 +33,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ###  GT generation
 - Density Map Generation from Key Points [[Matlab Code](https://github.com/aachenhang/crowdcount-mcnn/tree/master/data_preparation)] [[Python Code](https://github.com/leeyeehoo/CSRNet-pytorch/blob/master/make_dataset.ipynb)] [[Fast Python Code](https://github.com/vlad3996/computing-density-maps)] [[Pytorch CUDA Code](https://github.com/gjy3035/NWPU-Crowd-Sample-Code/blob/master/misc/dot_ops.py)]
 
-### Relaetd Tasks
+### Related Tasks
 Crowd Analysis, [Crowd Localization](https://github.com/taohan10200/Awesome-Crowd-Localization), [Video Surveillance](https://github.com/CommissarMa/Awesome-Public-Safety-in-Vision), Dense/Small/Tiny Object Detection
 
 ## Datasets

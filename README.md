@@ -64,8 +64,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Counting People by Estimating People Flows [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/People-Flows.svg?logo=github&label=Stars)
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 
-
-
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
@@ -77,14 +75,12 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds [[paper](https://arxiv.org/abs/2007.12831)]
 - DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation  [[paper](https://arxiv.org/abs/2007.10521)]
 - Dense Crowds Detection and Counting with a Lightweight Architecture [[paper](https://arxiv.org/abs/2007.06630)]
-- Fine-Grained Crowd Counting [[paper](https://arxiv.org/abs/2007.06146)]
 - Exploit the potential of Multi-column architecture for Crowd Counting [[paper](https://arxiv.org/abs/2007.05779)][[code](https://github.com/JunhaoCheng/Pyramid_Scale_Network)]![GitHub stars](https://img.shields.io/github/stars/JunhaoCheng/Pyramid_Scale_Network.svg?logo=github&label=Stars)
 - Recurrent Distillation based Crowd Counting [[paper](https://arxiv.org/abs/2006.07755)]
 - Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting [[paper](https://arxiv.org/abs/2005.11943)]
 - Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]![GitHub stars](https://img.shields.io/github/stars/qingzwang/AudioVisualCrowdCounting.svg?logo=github&label=Stars)
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
-- Towards Using Count-level Weak Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2003.00164)]
 - PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
@@ -93,16 +89,12 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
-- Deep Density-aware Count Regressor [[paper](https://arxiv.org/abs/1908.03314)][[code](https://github.com/GeorgeChenZJ/deepcount)]![GitHub stars](https://img.shields.io/github/stars/GeorgeChenZJ/deepcount.svg?logo=github&label=Stars)
-- Fast Video Crowd Counting with a Temporal Aware Network [[paper](https://arxiv.org/abs/1907.02198)]
 - Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/Dense-Scale-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
 - Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]![GitHub stars](https://img.shields.io/github/stars/ZhengPeng7/W-Net-Keras.svg?logo=github&label=Stars)
-- Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling [[paper](https://arxiv.org/abs/1902.05379)]
 - Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
 - Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
-- Attention to Head Locations for Crowd Counting [[paper](https://arxiv.org/abs/1806.10287)]
 - Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)]
 - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)]![GitHub stars](https://img.shields.io/github/stars/littleaich/heatmap-regulation.svg?logo=github&label=Stars)
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
@@ -115,6 +107,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]
 - <a name="CFOCNet"></a> **[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) [[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]
 - <a name="NLT"></a> **[NLT]** Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2004.02133)] [[code]](https://github.com/taohan10200/NLT)] ![GitHub stars](https://img.shields.io/github/stars/taohan10200/NLT.svg?logo=github&label=Stars)
+- <a name="MATT"></a> **[MATT]** Towards Using Count-level Weak Supervision for Crowd Counting (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2003.00164)]
+- <a name="FGCC"></a> **[FGCC]** Fine-Grained Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2007.06146)]
+- <a name="EPA"></a> **[EPA]** Embedding Perspective Analysis Into Multi-Column Convolutional Neural Network for Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9293174)]
 
 ### 2020
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]
@@ -142,6 +137,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/lsc-cnn.svg?logo=github&label=Stars)
 - <a name="SRF-Net"></a> **[SRF-Net]** Scale-Aware Rolling Fusion Network for Crowd Counting (**ICME**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102854)]
 - <a name="HSRNet"></a> **[HSRNet]** Crowd Counting via Hierarchical Scale Recalibration Network (**ECAI**) [[paper](https://arxiv.org/abs/2003.03545)]
+- <a name="DeepCount"></a> **[DeepCount]** Deep Density-aware Count Regressor (**ECAI**) [[paper](https://arxiv.org/abs/1908.03314)][[code](https://github.com/GeorgeChenZJ/deepcount)]![GitHub stars](https://img.shields.io/github/stars/GeorgeChenZJ/deepcount.svg?logo=github&label=Stars)
 - <a name="SOFA-Net"></a> **[SOFA-Net]** SOFA-Net: Second-Order and First-order Attention Network for Crowd Counting (**BMVC**) [[paper](https://arxiv.org/abs/2008.03723)]
 - <a name="CWAN"></a> **[CWAN]** Weakly Supervised Crowd-Wise Attention For Robust Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054258)]
 - <a name="AGRD"></a> **[AGRD]** Attention Guided Region Division for Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053761)]
@@ -177,6 +173,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="RRP"></a> **[RRP]** Relevant Region Prediction for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.09816)]
 - <a name="SCAN"></a> **[SCAN]** Crowd Counting via Scale-Communicative Aggregation Networks (**Neurocomputing**) [[paper]()](extension of [MVSAN](#MVSAN))
 - <a name="MobileCount"></a> **[MobileCount]** MobileCount: An Efficient Encoder-Decoder Framework for Real-Time Crowd Counting (**Neurocomputing**) [[conference paper](https://link.springer.com/chapter/10.1007/978-3-030-31723-2_50)] [[journal paper](https://www.sciencedirect.com/science/article/pii/S0925231220308912)] [[code](https://github.com/SelinaFelton/MobileCount)]![GitHub stars](https://img.shields.io/github/stars/SelinaFelton/MobileCount.svg?logo=github&label=Stars)
+- <a name="TAN"></a> **[TAN]** Fast Video Crowd Counting with a Temporal Aware Network (**Neurocomputing**) [[paper](https://arxiv.org/abs/1907.02198)]
+- <a name="ikNN"></a> **[ikNN]** Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling (**VISAPP**) [[paper](https://arxiv.org/abs/1902.05379)]
 
 ### 2019
 
@@ -238,6 +236,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SCAR"></a> **[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/1908.03716)][[code](https://github.com/gjy3035/SCAR)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/SCAR.svg?logo=github&label=Stars)
 - <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**TNNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
 - <a name="LDL"></a> **[LDL]** Indoor Crowd Counting by Mixture of Gaussians Label Distribution Learning (**TIP**) [[paper](http://palm.seu.edu.cn/xgeng/files/tip19.pdf)]
+- <a name="AM-CNN"></a> **[AM-CNN]** Attention to Head Locations for Crowd Counting (**ICIG**) [[paper](https://arxiv.org/abs/1806.10287)]
 
 ### 2018
 

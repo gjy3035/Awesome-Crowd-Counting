@@ -88,7 +88,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
-- Estimating People Flows to Better Count them in Crowded Scenes [[paper](https://arxiv.org/abs/1911.10782)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
 - Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/Dense-Scale-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
@@ -99,7 +98,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)]
 - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)]![GitHub stars](https://img.shields.io/github/stars/littleaich/heatmap-regulation.svg?logo=github&label=Stars)
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
-- Image Crowd Counting Using Convolutional Neural Network and Markov Random Field [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]![GitHub stars](https://img.shields.io/github/stars/hankong/crowd-counting.svg?logo=github&label=Stars)
+
 </details>
 
 ### 2021
@@ -131,6 +130,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="IRAST"></a> **[IRAST]** Semi-supervised Crowd Counting via Self-training on Surrogate Tasks (**ECCV**) [[paper](https://arxiv.org/abs/2007.03207)]
 - <a name="PSSW"></a> **[PSSW]** Active Crowd Counting with Limited Supervision (**ECCV**) [[paper](https://arxiv.org/abs/2007.06334)]
 - <a name="CCLS"></a> **[CCLS]** Weakly-Supervised Crowd Counting Learns from Sorting rather than Locations (**ECCV**) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530001.pdf)]
+- <a name="EPF"></a> **[EPF]** Estimating People Flows to Better Count them in Crowded Scenes (**ECCV**) [[paper](https://arxiv.org/abs/1911.10782)]
 - A Flow Base Bi-path Network for Cross-scene Video Crowd Understanding in Aerial View (**ECCVW**) [[paper](https://arxiv.org/abs/2009.13723)]
 - <a name="ADSCNet"></a> **[ADSCNet]** Adaptive Dilated Network with Self-Correction Supervision for Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Adaptive_Dilated_Network_With_Self-Correction_Supervision_for_Counting_CVPR_2020_paper.pdf)] 
 - <a name="RPNet"></a> **[RPNet]** Reverse Perspective Network for Perspective-Aware Object Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Reverse_Perspective_Network_for_Perspective-Aware_Object_Counting_CVPR_2020_paper.pdf)] [[code](https://github.com/CrowdCounting)]
@@ -281,6 +281,7 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 - <a name="DAL-SVR"></a> **[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
 - <a name="MSCNN"></a> **[MSCNN]** Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP**) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]![GitHub stars](https://img.shields.io/github/stars/Ling-Bao/mscnn.svg?logo=github&label=Stars)
 - <a name="FCNCC"></a> **[FCNCC]** Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP**) [[paper](https://arxiv.org/abs/1612.00220)] 
+- <a name="CNN-MRF"></a> **[CNN-MRF]** Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (**JACII**) [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]![GitHub stars](https://img.shields.io/github/stars/hankong/crowd-counting.svg?logo=github&label=Stars)
 
 ### 2016 
 

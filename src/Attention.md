@@ -1,5 +1,6 @@
 # Attention
 
+- <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]
 - <a name="ASNet"></a> **[ASNet]** Attention Scaling for Crowd Counting (**CVPR**) [[paper]()] [[code](https://github.com/laridzhang/ASNet)]
 - <a name="CWAN"></a> **[CWAN]** Weakly Supervised Crowd-Wise Attention For Robust Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054258)]
 - <a name="AGRD"></a> **[AGRD]** Attention Guided Region Division for Crowd Counting (**ICASSP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053761)]

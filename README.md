@@ -68,7 +68,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <summary>Earlier ArXiv Papers</summary>
 
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
-- AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting [[paper](https://arxiv.org/abs/2010.12141)]
+- AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting [[paper](https://arxiv.org/abs/2010.12141)][[code](https://github.com/maheshkkumar/adacrowd)]![GitHub stars](https://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github&label=Stars)
 - Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting [[paper](https://arxiv.org/abs/2010.01664)]
 - Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]

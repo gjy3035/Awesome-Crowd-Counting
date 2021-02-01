@@ -110,6 +110,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="MATT"></a> **[MATT]** Towards Using Count-level Weak Supervision for Crowd Counting (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2003.00164)]
 - <a name="FGCC"></a> **[FGCC]** Fine-Grained Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2007.06146)]
 - <a name="EPA"></a> **[EPA]** Embedding Perspective Analysis Into Multi-Column Convolutional Neural Network for Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9293174)]
+- <a name="STDNet"></a> **[STDNet]** Spatiotemporal Dilated Convolution with Uncertain Matching for Video-based Crowd Estimation (**TMM**) [[paper](https://arxiv.org/abs/2101.12439)]
 
 ### 2020
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]

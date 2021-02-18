@@ -53,6 +53,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Reciprocal Distance Transform Maps for Crowd Counting and People Localization in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/RDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/RDTM.svg?logo=github&label=Stars)
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
@@ -102,6 +103,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI2021**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)]
+- Learning to Count via Unbalanced Optimal Transport (**AAAI2021**)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]![GitHub stars](https://img.shields.io/github/stars/ShahiraAbousamra/TopoCount.svg?logo=github&label=Stars)
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/MARUNet.svg?logo=github&label=Stars)
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]

@@ -69,7 +69,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <summary>Earlier ArXiv Papers</summary>
 
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
-- AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting [[paper](https://arxiv.org/abs/2010.12141)][[code](https://github.com/maheshkkumar/adacrowd)]![GitHub stars](https://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github&label=Stars)
 - Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting [[paper](https://arxiv.org/abs/2010.01664)]
 - Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
@@ -115,6 +114,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="FGCC"></a> **[FGCC]** Fine-Grained Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2007.06146)]
 - <a name="EPA"></a> **[EPA]** Embedding Perspective Analysis Into Multi-Column Convolutional Neural Network for Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9293174)]
 - <a name="STDNet"></a> **[STDNet]** Spatiotemporal Dilated Convolution with Uncertain Matching for Video-based Crowd Estimation (**TMM**) [[paper](https://arxiv.org/abs/2101.12439)]
+- <a name="AdaCrowd"></a> **[AdaCrowd]** AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) [[paper](https://arxiv.org/abs/2010.12141)][[code](https://github.com/maheshkkumar/adacrowd)]![GitHub stars](https://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github&label=Stars)
 
 ### 2020
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]

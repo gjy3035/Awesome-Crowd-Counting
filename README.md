@@ -103,6 +103,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2021
 - Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI2021**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)]
+- To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI2021**) 
 - Learning to Count via Unbalanced Optimal Transport (**AAAI2021**)
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI2021**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]![GitHub stars](https://img.shields.io/github/stars/ShahiraAbousamra/TopoCount.svg?logo=github&label=Stars)
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/MARUNet.svg?logo=github&label=Stars)

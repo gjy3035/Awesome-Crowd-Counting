@@ -12,6 +12,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### News
 - [2020.04] The JHU-CROWD++ Dataset is released.
+- [2021.03] The RGBT-CC Benchmark is coming soon.
 
 ### Call for Papers
 - [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
@@ -60,7 +61,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting [[paper](https://arxiv.org/abs/2012.08149)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
-- Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting [[paper](https://arxiv.org/abs/2012.04529)]
 - PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
 - Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - Counting People by Estimating People Flows [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/People-Flows.svg?logo=github&label=Stars)
@@ -102,6 +102,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/Publication.html#)]
 - Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI2021**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)]
 - To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI2021**) 
 - Learning to Count via Unbalanced Optimal Transport (**AAAI2021**)

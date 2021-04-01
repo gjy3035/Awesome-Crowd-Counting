@@ -54,6 +54,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
 - Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars)
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]

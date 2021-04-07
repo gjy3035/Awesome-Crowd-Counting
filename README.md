@@ -12,7 +12,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### News
 - [2020.04] The JHU-CROWD++ Dataset is released.
-- [2021.03] The RGBT-CC Benchmark is coming soon.
+- [2021.04] The RGBT-CC Benchmark is released.
 
 ### Call for Papers
 - [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
@@ -103,7 +103,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
-- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/Publication.html#)]
+- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
 - <a name="EDIREC-Net"></a> **[EDIREC-Net]** Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI2021**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)][[code](https://github.com/GehenHe/EDIREC-Net)]![GitHub stars](https://img.shields.io/github/stars/GehenHe/EDIREC-Net.svg?logo=github&label=Stars)
 - <a name="SASNet"></a> **[SASNet]** To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI2021**) [[paper](https://drive.google.com/file/d/1YTcir2vUZ2zza39RSqq0wDNtt3oC90Pt/view)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet)]
 - Learning to Count via Unbalanced Optimal Transport (**AAAI2021**)

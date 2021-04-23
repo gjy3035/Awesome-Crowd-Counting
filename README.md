@@ -54,6 +54,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting [[paper](https://arxiv.org/abs/2104.10868)]
 - TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)]
 - Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]

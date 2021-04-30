@@ -54,6 +54,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting [[paper](https://arxiv.org/abs/2104.13946)]
 - Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting [[paper](https://arxiv.org/abs/2104.10868)]
 - TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)]
 - Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
@@ -105,6 +106,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name="SCALNet"></a> **[SCALNet]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization (**ICMEW**) [[paper](https://arxiv.org/abs/2104.12505)]
 - <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
 - <a name="EDIREC-Net"></a> **[EDIREC-Net]** Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI2021**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)][[code](https://github.com/GehenHe/EDIREC-Net)]![GitHub stars](https://img.shields.io/github/stars/GehenHe/EDIREC-Net.svg?logo=github&label=Stars)
 - <a name="SASNet"></a> **[SASNet]** To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI2021**) [[paper](https://drive.google.com/file/d/1YTcir2vUZ2zza39RSqq0wDNtt3oC90Pt/view)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet)]

@@ -54,6 +54,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Crowd Counting by Self-supervised Transfer Colorization Learning and Global Prior Classification [[paper](https://arxiv.org/abs/2105.09684)]
+- Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead [[paper](https://arxiv.org/abs/2105.09121)]
 - WheatNet: A Lightweight Convolutional Neural Network for High-throughput Image-based Wheat Head Detection and Counting [[paper](https://arxiv.org/abs/2103.09408)]
 - Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting [[paper](https://arxiv.org/abs/2104.13946)]
 - Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting [[paper](https://arxiv.org/abs/2104.10868)]

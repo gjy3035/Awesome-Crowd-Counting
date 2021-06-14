@@ -55,6 +55,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+
+- Hybrid attention network based on progressive embedding scale-context for crowd counting [[paper](https://arxiv.org/abs/2106.02324)]
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)]
 - Crowd Counting by Self-supervised Transfer Colorization Learning and Global Prior Classification [[paper](https://arxiv.org/abs/2105.09684)]

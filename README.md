@@ -115,7 +115,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
-- <a name=""></a> Locality-Aware Crowd Counting (**TPAMI2021**)  [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
+- <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI2021**)  [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name=""></a> A Generalized Loss Function for Crowd Counting and Localization (**CVPR2021**)  [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr21-generalizedloss-www.pdf)]
 - <a name=""></a> Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR2021**)
 - <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR2021**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]![GitHub stars](https://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github&label=Stars)
@@ -455,6 +455,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                 | 10.4  | 16.7  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
 | 2019--CVPRW| [GSP](#GSP) (one stage, efficient)            | 9.1   | 15.9  |
+| 2021--TPAMI| [LA-Batch](#LA-Batch) (backbone CSRNet)       | 8.6   | 13.6  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
 | 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
 | 2019--ICCV | [PGCNet](#PGCNet)                             | 8.8   | 13.7  |

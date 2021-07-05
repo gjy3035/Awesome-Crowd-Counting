@@ -83,19 +83,15 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - Counting People by Estimating People Flows [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/People-Flows.svg?logo=github&label=Stars)
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
-- Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting [[paper](https://arxiv.org/abs/2010.01664)]
 - Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
 - Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)][[code](https://github.com/abhinavsagar/bmsnn)]![GitHub stars](https://img.shields.io/github/stars/abhinavsagar/bmsnn.svg?logo=github&label=Stars)
-- DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation  [[paper](https://arxiv.org/abs/2007.10521)]
 - Dense Crowds Detection and Counting with a Lightweight Architecture [[paper](https://arxiv.org/abs/2007.06630)]
 - Exploit the potential of Multi-column architecture for Crowd Counting [[paper](https://arxiv.org/abs/2007.05779)][[code](https://github.com/JunhaoCheng/Pyramid_Scale_Network)]![GitHub stars](https://img.shields.io/github/stars/JunhaoCheng/Pyramid_Scale_Network.svg?logo=github&label=Stars)
 - Recurrent Distillation based Crowd Counting [[paper](https://arxiv.org/abs/2006.07755)]
-- Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting [[paper](https://arxiv.org/abs/2005.11943)]
 - Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]![GitHub stars](https://img.shields.io/github/stars/qingzwang/AudioVisualCrowdCounting.svg?logo=github&label=Stars)
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
-- PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting [[paper](https://arxiv.org/abs/2001.05643)]
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
@@ -137,8 +133,12 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="EPA"></a> **[EPA]** Embedding Perspective Analysis Into Multi-Column Convolutional Neural Network for Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9293174)]
 - <a name="STDNet"></a> **[STDNet]** Spatiotemporal Dilated Convolution with Uncertain Matching for Video-based Crowd Estimation (**TMM**) [[paper](https://arxiv.org/abs/2101.12439)]
 - <a name="AdaCrowd"></a> **[AdaCrowd]** AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) [[paper](https://arxiv.org/abs/2010.12141)][[code](https://github.com/maheshkkumar/adacrowd)]![GitHub stars](https://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github&label=Stars)
+- <a name="PDANet"></a> **[PDANet]** PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2001.05643)]
+- <a name="ScSiNet"></a> **[ScSiNet]** Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.11943)]
+- <a name="DeepCorn"></a> **[DeepCorn]** DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation (**Knowledge-Based Systems**) [[paper](https://arxiv.org/abs/2007.10521)]
 
 ### 2020
+- <a name="PRM"></a> **[PRM]** Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2010.01664)]
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]
 - <a name="M-SFANet"></a> **[M-SFANet]** Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))

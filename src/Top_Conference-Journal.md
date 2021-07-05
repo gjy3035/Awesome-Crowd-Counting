@@ -3,6 +3,10 @@ This repository is for listing papers of crowd counting published on CVPR, ICCV,
 
 ## CVPR 
 
+- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
+- <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR2021**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]![GitHub stars](https://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github&label=Stars)
+- <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
+- <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
 - <a name="ADSCNet"></a> **[ADSCNet]** Adaptive Dilated Network with Self-Correction Supervision for Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Adaptive_Dilated_Network_With_Self-Correction_Supervision_for_Counting_CVPR_2020_paper.pdf)] 
 - <a name="RPNet"></a> **[RPNet]** Reverse Perspective Network for Perspective-Aware Object Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Reverse_Perspective_Network_for_Perspective-Aware_Object_Counting_CVPR_2020_paper.pdf)] [[code](https://github.com/CrowdCounting)]
 - <a name="ASNet"></a> **[ASNet]** Attention Scaling for Crowd Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Attention_Scaling_for_Crowd_Counting_CVPR_2020_paper.pdf)] [[code](https://github.com/laridzhang/ASNet)]
@@ -75,6 +79,7 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 
 ## T-PAMI
 
+- <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI2021**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="KDMG"></a> **[KDMG]** Kernel-based Density Map Generation for Dense Object Counting (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/document/9189836)][[code](https://github.com/jia-wan/KDMG_Counting)]
 - <a name="NWPU"></a> **[NWPU]** NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization (**T-PAMI**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]

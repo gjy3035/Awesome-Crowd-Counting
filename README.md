@@ -404,6 +404,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [CSRNet](#CSR)   | 68.2  | 115.0 | 23.79 | 0.76 | 16.26M<sup>[SANet](#SANet)</sup> |VGG-16|
 | 2018--ECCV | [SANet](#SANet)                              | 67.0  | 104.5 | -  | -  | 0.91M | None     |
 | 2019--AAAI | [GWTA-CCNN](#GWTA-CCNN)                      | 154.7 | 229.4 | -  | -  | -  | -           |
+| 2021--TPAMI| [LA-Batch](#LA-Batch) (backbone CSRNet)      | 65.8  | 103.6 | -  | -  | -  | -           |
 | 2019--ICASSP | [ASD](#ASD)                                | 65.6  | 98.0  | -  | -  | -  | -           |
 | 2019--ICCV | [CFF](#CFF)                                  | 65.2  | 109.4 | 25.4  | 0.78 | -     | -   |
 | 2019--CVPR | [SFCN](#CCWld)                               | 64.8  | 107.5 | -  | -  | -  | -           |
@@ -455,6 +456,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [ic-CNN](#ic-CNN) (one stage)                 | 10.4  | 16.7  |
 | 2018--ECCV | [ic-CNN](#ic-CNN) (two stages)                | 10.7  | 16.0  |
 | 2019--CVPRW| [GSP](#GSP) (one stage, efficient)            | 9.1   | 15.9  |
+| 2021--TPAMI| [LA-Batch](#LA-Batch) (backbone CSRNet)       | 8.6   | 13.6  |
 | 2018--ECCV | [SANet](#SANet)                               | 8.4   | 13.6  |
 | 2019--WACV | [SPN](#SPN)                                   | 9.4   | 14.4  |
 | 2019--ICCV | [PGCNet](#PGCNet)                             | 8.8   | 13.7  |
@@ -491,6 +493,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV | [CL](#CL)     | 132 | 0.26 | 191 | 0.00044| 0.0017 | 0.9131 | 75.8% | 59.75%	| 0.714|
 | 2019--TIP  | [HA-CCN](#HA-CCN)   | 118.1 | - | 180.4 | - | - | - | - | - | - |
 | 2019--CVPR | [TEDnet](#TEDnet)   | 113   | - | 188   | - | - | - | - | - | - |
+| 2021--TPAMI| [LA-Batch](#LA-Batch)| 113  | - | 210   | - | - | - | - | - | - |
 | 2019--ICCV | [RANet](#RANet)     | 111   | - | 190   | - | - | - | - | - | - |
 | 2019--CVPR | [CAN](#CAN)         | 107   | - | 183   | - | - | - | - | - | - |
 | 2020--AAAI | [DUBNet](#DUBNet)   | 105.6 | - | 180.5 | - | - | - | - | - | - |
@@ -549,6 +552,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR | [SFCN](#CCWld)                               | 214.2 | 318.2  |
 | 2019--CVPR | [CAN](#CAN)                                  | 212.2 | 243.7  |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 204.2 | 301.3  |
+| 2021--TPAMI| [LA-Batch](#LA-Batch) (backbone CSRNet)      | 203.0 | 230.6  |
 | 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                            | 188.4 | 315.3  |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 185.8 | 278.3  |
@@ -578,6 +582,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--IJCAI| [DRSAN](#DRSAN)                       | 2.6  | 11.8  | 10.3  | 10.4 | 3.7  | 7.76 |
 | 2018--CVPR | [ACSCP](#ACSCP)                       | 2.8  | 14.05 | 9.6   | 8.1  | 2.9  | 7.5  |
 | 2019--ICCV | [PGCNet](#PGCNet)                     | 2.5  | 12.7  | 8.4   | 13.7 | 3.2  | 8.1 |
+| 2021--TPAMI| [LA-Batch](#LA-Batch)(backbone CSRNet)| 2.4  | 11.0  | 8.1   | 13.5 | 2.7  | 7.5  |
 | 2019--CVPR | [TEDnet](#TEDnet)                     | 2.3  | 10.1  | 11.3  | 13.8 | 2.6  | 8.0  |
 | 2019--CVPR | [PACNN](#PACNN)                       | 2.3  | 12.5  | 9.1   | 11.2 | 3.8  | 7.8  |
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-bAttn-DME)     | 1.7   | 14.4  | 11.5 | 7.9  | 3.0  | 7.7 |
@@ -625,4 +630,5 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR | [DecideNet](#DecideNet)                 | 1.52 | 1.90 |
 | 2018--IJCAI| [DRSAN](#DRSAN)                         | 1.72 | 2.1  |
 | 2019--BMVC | [E3D](#E3D)                             | 1.64 | 2.13 |
+| 2021--TPAMI| [LA-Batch](#LA-Batch) (backbone CSRNet) | 1.34 | 1.60 |
 | 2019--WACV | **[SAAN](#SAAN)**                       | **1.28** | **1.68** |

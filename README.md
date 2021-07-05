@@ -46,8 +46,8 @@ Please refer to [this page](src/Datasets.md).
 
 Considering the increasing number of papers in this field, we roughly summarize some articles and put them into the following categories (they are still listed in this document):
 
-| [[**Top Conference/Journal**](src/Top_Conference-Journal.md)] | [[**Survey**](src/Survey.md)] | [[**Un-/semi-/weakly-/self- Supervised Learning**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)] | 
-| :---- | :---- | :---- | 
+| [[**Top Conference/Journal**](src/Top_Conference-Journal.md)] | [[**Survey**](src/Survey.md)] | [[**Un-/semi-/weakly-/self- Supervised Learning**](src/Un-_Semi-_Weakly-_Self-_supervised_Learning.md)] |
+| :---- | :---- | :---- |
 | [[**Auxiliary Tasks**](src/Auxiliary_Tasks.md)] | [[**Localization**](src/Localization.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)] |
 | [[**Light-weight Models**](src/Light-weight_Model.md)] | [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] |
 | [[**Perspective Map**](src/Perspective_Map.md)] | [[**Attention**](src/Attention.md)] | Todo |
@@ -64,7 +64,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - WheatNet: A Lightweight Convolutional Neural Network for High-throughput Image-based Wheat Head Detection and Counting [[paper](https://arxiv.org/abs/2103.09408)]
 - Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting [[paper](https://arxiv.org/abs/2104.13946)]
 - Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting [[paper](https://arxiv.org/abs/2104.10868)]
-- TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)]
+- TransCrowd: Weakly-Supervised Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2104.09116)] [[code](https://github.com/dk-liang/TransCrowd)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/TransCrowd.svg?logo=github&label=Stars)
 - Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
 - Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars)

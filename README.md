@@ -111,6 +111,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name="3S"></a>**[3S]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://arxiv.org/abs/2107.01558)]
+- <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper]()]
 - <a name="PFDNet"></a>**[PFDNet]** Crowd Counting via Perspective-Guided Fractional-Dilation Convolution (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9468694)](extension of [PGCNet](#PGCNet))
 - <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
@@ -120,7 +122,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
 - <a name="EDIREC-Net"></a> **[EDIREC-Net]** Error-Aware Density Isomorphism Reconstruction for Unsupervised Cross-Domain Crowd Counting (**AAAI**) [[paper](https://www.researchgate.net/publication/348404383_Error-Aware_Density_Isomorphism_Reconstruction_for_Unsupervised_Cross-Domain_Crowd_Counting)][[code](https://github.com/GehenHe/EDIREC-Net)]![GitHub stars](https://img.shields.io/github/stars/GehenHe/EDIREC-Net.svg?logo=github&label=Stars)
 - <a name="SASNet"></a> **[SASNet]** To Choose or to Fuse? Scale Selection for Crowd Counting (**AAAI**) [[paper](https://drive.google.com/file/d/1YTcir2vUZ2zza39RSqq0wDNtt3oC90Pt/view)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet)]
-- Learning to Count via Unbalanced Optimal Transport (**AAAI2021**)
+- <a name="UOT"></a> **[UOT]** Learning to Count via Unbalanced Optimal Transport (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16332)]
 - <a name="TopoCount"></a> **[TopoCount]**  Localization in the Crowd with Topological Constraints (**AAAI**) [[paper](https://arxiv.org/abs/2012.12482)][[code](https://github.com/ShahiraAbousamra/TopoCount)]![GitHub stars](https://img.shields.io/github/stars/ShahiraAbousamra/TopoCount.svg?logo=github&label=Stars)
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/MARUNet.svg?logo=github&label=Stars)
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]

@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]
 - Region-Aware Network: Model Human’s Top-Down Visual Perception Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2106.12163)]
 - Hybrid attention network based on progressive embedding scale-context for crowd counting [[paper](https://arxiv.org/abs/2106.02324)]
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
@@ -111,6 +112,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name=""></a> Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper]()]
 - <a name="3S"></a>**[3S]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://arxiv.org/abs/2107.01558)]
 - <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper]()]
 - <a name="PFDNet"></a>**[PFDNet]** Crowd Counting via Perspective-Guided Fractional-Dilation Convolution (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9468694)](extension of [PGCNet](#PGCNet))
@@ -139,8 +141,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="PDANet"></a> **[PDANet]** PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2001.05643)]
 - <a name="ScSiNet"></a> **[ScSiNet]** Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.11943)]
 - <a name="DeepCorn"></a> **[DeepCorn]** DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation (**Knowledge-Based Systems**) [[paper](https://arxiv.org/abs/2007.10521)]
+- <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**) [[paper]()]
 
 ### 2020
+- <a name="VisDrone-CC2020"></a> **[VisDrone-CC2020]** VisDrone-CC2020: The Vision Meets Drone Crowd Counting Challenge Results (**ECCV**) [[paper](https://arxiv.org/abs/2107.08766)]
 - <a name="PRM"></a> **[PRM]** Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2010.01664)]
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]
 - <a name="M-SFANet"></a> **[M-SFANet]** Encoder-Decoder Based Convolutional Neural Networks with Multi-Scale-Aware Modules for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2003.05586)][[code](https://github.com/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/Pongpisit-Thanasutives/Variations-of-SFANet-for-Crowd-Counting.svg?logo=github&label=Stars)

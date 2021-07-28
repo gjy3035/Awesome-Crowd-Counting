@@ -112,6 +112,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
+- <a name="ASNet"></a>**[ASNet]** Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network (**ACM MM**) [[paper](https://arxiv.org/abs/2107.12858)]
+- <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]
+- <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]
 - <a name=""></a> Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper]()]
 - <a name="3S"></a>**[3S]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://arxiv.org/abs/2107.01558)]
 - <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper]()]

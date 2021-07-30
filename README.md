@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Cascaded Residual Density Network for Crowd Counting [[paper](https://arxiv.org/abs/2107.13718)]
 - Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]
 - Region-Aware Network: Model Human’s Top-Down Visual Perception Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2106.12163)]
 - Hybrid attention network based on progressive embedding scale-context for crowd counting [[paper](https://arxiv.org/abs/2106.02324)]

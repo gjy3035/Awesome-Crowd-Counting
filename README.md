@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper](https://arxiv.org/abs/2108.00584)]
 - Cascaded Residual Density Network for Crowd Counting [[paper](https://arxiv.org/abs/2107.13718)]
 - Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]
 - Region-Aware Network: Model Human’s Top-Down Visual Perception Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2106.12163)]
@@ -117,9 +118,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="APAM"></a>**[APAM]** Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2104.10868)][[code](https://github.com/harrywuhust2022/Adv-Crowd-analysis)]
 - <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]
 - <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]
-- <a name=""></a> Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper]()]
+- <a name=""></a> Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) 
 - <a name="3S"></a>**[3S]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://arxiv.org/abs/2107.01558)]
-- <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper]()]
+- <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) 
 - <a name="PFDNet"></a>**[PFDNet]** Crowd Counting via Perspective-Guided Fractional-Dilation Convolution (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9468694)](extension of [PGCNet](#PGCNet))
 - <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
@@ -146,7 +147,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="PDANet"></a> **[PDANet]** PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2001.05643)]
 - <a name="ScSiNet"></a> **[ScSiNet]** Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.11943)]
 - <a name="DeepCorn"></a> **[DeepCorn]** DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation (**Knowledge-Based Systems**) [[paper](https://arxiv.org/abs/2007.10521)]
-- <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**) [[paper]()]
+- <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**)
 
 ### 2020
 - <a name="VisDrone-CC2020"></a> **[VisDrone-CC2020]** VisDrone-CC2020: The Vision Meets Drone Crowd Counting Challenge Results (**ECCV**) [[paper](https://arxiv.org/abs/2107.08766)]

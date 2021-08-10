@@ -55,6 +55,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Fine-grained Domain Adaptive Crowd Counting via Point-derived Segmentation [[paper](https://arxiv.org/abs/2108.02980)]
+- Reducing Spatial Labeling Redundancy for Semi-supervised Crowd Counting [[paper](https://arxiv.org/abs/2108.02970)]
 - Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper](https://arxiv.org/abs/2108.00584)]
 - Cascaded Residual Density Network for Crowd Counting [[paper](https://arxiv.org/abs/2107.13718)]
 - Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]

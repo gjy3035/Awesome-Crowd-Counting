@@ -116,7 +116,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### 2021
 
 - <a name="DKPNet"></a>**[DKPNet]** Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2108.08023)][[code](https://github.com/Zhaoyi-Yan/DKPNet)]![GitHub stars](https://img.shields.io/github/stars/Zhaoyi-Yan/DKPNet.svg?logo=github&label=Stars)
-- <a name="BinLoss"></a>**[BinLoss]** Wisdom of (Binned) Crowds: A Bayesian Stratification Paradigm for Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2108.08784)][[code](https://github.com/atmacvit/bincrowd)]
+- <a name="BinLoss"></a>**[BinLoss]** Wisdom of (Binned) Crowds: A Bayesian Stratification Paradigm for Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2108.08784)][[code](https://github.com/atmacvit/bincrowd)]![GitHub stars](https://img.shields.io/github/stars/atmacvit/bincrowd)](https://github.com/atmacvit/bincrowd/stargazers)
 - <a name=""></a> Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting (**ACM MM**) 
 - <a name="ASNet"></a>**[ASNet]** Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network (**ACM MM**) [[paper](https://arxiv.org/abs/2107.12858)]
 - <a name="APAM"></a>**[APAM]** Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2104.10868)][[code](https://github.com/harrywuhust2022/Adv-Crowd-analysis)]![GitHub stars](https://img.shields.io/github/stars/harrywuhust2022/Adv-Crowd-analysis.svg?logo=github&label=Stars)

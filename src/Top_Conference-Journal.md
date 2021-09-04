@@ -3,10 +3,13 @@ This repository is for listing papers of crowd counting published on CVPR, ICCV,
 
 ## CVPR 
 
-- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR2021**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
-- <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR2021**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]![GitHub stars](https://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github&label=Stars)
-- <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
-- <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
+- <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
+- <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
+- <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]
+- <a name="RGBT-CC"></a> **[RGBT-CC]** Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2012.04529)][[code](http://lingboliu.com/RGBT_Crowd_Counting.html#)]
+- <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]![GitHub stars](https://img.shields.io/github/stars/VisDrone/DroneCrowd.svg?logo=github&label=Stars)
+- <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
+- <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
 - <a name="ADSCNet"></a> **[ADSCNet]** Adaptive Dilated Network with Self-Correction Supervision for Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Adaptive_Dilated_Network_With_Self-Correction_Supervision_for_Counting_CVPR_2020_paper.pdf)] 
 - <a name="RPNet"></a> **[RPNet]** Reverse Perspective Network for Perspective-Aware Object Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Reverse_Perspective_Network_for_Perspective-Aware_Object_Counting_CVPR_2020_paper.pdf)] [[code](https://github.com/CrowdCounting)]
 - <a name="ASNet"></a> **[ASNet]** Attention Scaling for Crowd Counting (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Attention_Scaling_for_Crowd_Counting_CVPR_2020_paper.pdf)] [[code](https://github.com/laridzhang/ASNet)]
@@ -38,6 +41,10 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 
 ## ICCV
 
+- <a name="DKPNet"></a>**[DKPNet]** Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2108.08023)][[code](https://github.com/Zhaoyi-Yan/DKPNet)]
+- <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]
+- <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]
+- <a name="SUA"></a>**[SUA]** Spatial Uncertainty-Aware Semi-Supervised Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.13271)][[code](https://github.com/smallmax00/SUA_crowd_counting)]
 - <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
 - <a name="ADMG"></a> **[ADMG]** Adaptive Density Map Generation for Crowd Counting (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Adaptive_Density_Map_Generation_for_Crowd_Counting_ICCV_2019_paper.pdf)]
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] 

@@ -130,8 +130,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name=""></a> Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting (**ACM MM**) 
 - <a name="ASNet"></a>**[ASNet]** Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network (**ACM MM**) [[paper](https://arxiv.org/abs/2107.12858)]
 - <a name="APAM"></a>**[APAM]** Towards Adversarial Patch Analysis and Certified Defense against Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2104.10868)][[code](https://github.com/harrywuhust2022/Adv-Crowd-analysis)]![GitHub stars](https://img.shields.io/github/stars/harrywuhust2022/Adv-Crowd-analysis.svg?logo=github&label=Stars)
-- <a name="3S"></a>**[3S]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://arxiv.org/abs/2107.01558)]
-- <a name=""></a> Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) 
+- <a name="S3"></a>**[S3]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2021/0116.pdf)]
+- <a name="BM-Count"></a>**[BM-Count]** Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2021/0119.pdf)]
 - <a name="PFDNet"></a>**[PFDNet]** Crowd Counting via Perspective-Guided Fractional-Dilation Convolution (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9468694)](extension of [PGCNet](#PGCNet))
 - <a name="EPF"></a>**[EPF]** Counting People by Estimating People Flows (**TPAMI**) [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/People-Flows.svg?logo=github&label=Stars)
 - <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]

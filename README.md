@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
 - CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
 - Harnessing Perceptual Adversarial Patches for Crowd Counting [[paper](https://arxiv.org/abs/2109.07986)]
 - Audio-Visual Transformer Based Crowd Counting [[paper](https://arxiv.org/abs/2109.01926)]

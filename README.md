@@ -101,7 +101,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
-- AutoScale: Learning to Scale for Crowd Counting [[paper](https://arxiv.org/abs/1912.09632)](extension of [L2SM](#L2SM))
 - Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
@@ -119,7 +118,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 </details>
 
 ### 2021
-
+- <a name="AutoScale"></a>**[AutoScale]** AutoScale: Learning to Scale for Crowd Counting (**IJCV**) [[paper](https://arxiv.org/abs/1912.09632)] (extension of [L2SM](#L2SM))[[code](https://github.com/dk-liang/AutoScale)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/AutoScale.svg?logo=github&label=Stars)
 - <a name="URC"></a>**[URC]** Crowd Counting With Partial Annotations in an Image (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Crowd_Counting_With_Partial_Annotations_in_an_Image_ICCV_2021_paper.pdf)]
 - <a name="MFDC"></a>**[MFDC]** Exploiting Sample Correlation for Crowd Counting With Multi-Expert Network (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Exploiting_Sample_Correlation_for_Crowd_Counting_With_Multi-Expert_Network_ICCV_2021_paper.pdf)]
 - <a name="SDNet"></a>**[SDNet]** Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Towards_a_Universal_Model_for_Cross-Dataset_Crowd_Counting_ICCV_2021_paper.pdf)]

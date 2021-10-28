@@ -101,7 +101,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
-- Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction [[paper](https://arxiv.org/abs/1912.03677)]
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
@@ -148,6 +147,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]
 - <a name="CFOCNet"></a> **[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) [[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]
 - <a name="NLT"></a> **[NLT]** Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2004.02133)] [[code]](https://github.com/taohan10200/NLT)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/NLT.svg?logo=github&label=Stars)
+- <a name="DACC"></a> **[DACC]** Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction (**T-NNLS**) [[paper](https://arxiv.org/abs/1912.03677)]
 - <a name="MATT"></a> **[MATT]** Towards Using Count-level Weak Supervision for Crowd Counting (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2003.00164)]
 - <a name="D2C"></a> **[D2C]** Decoupled Two-Stage Crowd Counting and Beyond (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9347700)][[code](https://github.com/hustaia/Decoupled_Two-Stage_Counting)]![GitHub stars](https://img.shields.io/github/stars/hustaia/Decoupled_Two-stage_Counting.svg?logo=github&label=Stars)
 - <a name="TBC"></a> **[TBC]** Tracking-by-Counting: Using Network Flows on Crowd Density Maps for Tracking Multiple Targets (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9298464)]

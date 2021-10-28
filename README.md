@@ -162,6 +162,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**)
 
 ### 2020
+- <a name="EDC"></a> **[EDC]** Learning Error-Driven Curriculum for Crowd Counting (**ICPR**) [[paper](https://arxiv.org/pdf/2007.09676.pdf)][[code](https://github.com/FDU-VTS/TutorNet_Crowd_Counting)]![GitHub stars](https://img.shields.io/github/stars/FDU-VTS/TutorNet_Crowd_Counting.svg?logo=github&label=Stars)
 - <a name="VisDrone-CC2020"></a> **[VisDrone-CC2020]** VisDrone-CC2020: The Vision Meets Drone Crowd Counting Challenge Results (**ECCV**) [[paper](https://arxiv.org/abs/2107.08766)]
 - <a name="PRM"></a> **[PRM]** Multi-Resolution Fusion and Multi-scale Input Priors Based Crowd Counting (**ICPR**) [[paper](https://arxiv.org/abs/2010.01664)]
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]

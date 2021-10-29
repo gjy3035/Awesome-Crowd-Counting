@@ -1,5 +1,6 @@
 # Transfer Learning and Domain Adaptation
 
+- AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) [[paper](https://arxiv.org/pdf/2010.12141.pdf)]
 - <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
 - <a name=""></a> Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting (**ACM MM**) 
 - <a name="ASNet"></a>**[ASNet]** Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network (**ACM MM**) [[paper](https://arxiv.org/abs/2107.12858)]

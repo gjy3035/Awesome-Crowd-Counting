@@ -18,7 +18,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
 
 ### Challenge
-- [[VisDrone 2021](http://aiskyeye.com/challenge_2021/crowd-counting-2/)] Crowd counting. ICCV Workshop. Deadline: **2021.07.15**.
+- [[VisDrone 2021](http://aiskyeye.com/challenge_2021/crowd-counting-2/)] ~~Crowd counting. ICCV Workshop. Deadline: **2021.07.15**.~~
 - [[VisDrone 2020](http://aiskyeye.com/challenge/crowd-counting/)] ~~Crowd counting. ECCV Workshop. Deadline: **2020.07.15**.~~
 - [[NWPU-Crowd Counting](https://www.crowdbenchmark.com/nwpucrowd.html)] Crowd counting. Deadline: none.
 
@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
 - LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
 - CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
 - Harnessing Perceptual Adversarial Patches for Crowd Counting [[paper](https://arxiv.org/abs/2109.07986)]
@@ -77,17 +78,17 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
 - Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars)
+
+
+<details>
+<summary>Earlier ArXiv Papers</summary>
+
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
 - Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting [[paper](https://arxiv.org/abs/2012.08149)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
-
-
-<details>
-<summary>Earlier ArXiv Papers</summary>
-
 - PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
 - Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]

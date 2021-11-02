@@ -397,16 +397,7 @@ The section is being continually updated. Note that some values have superscript
 
 ### NWPU
 
-| Year-Conference/Journal | Methods                 | Val-MAE | Val-MSE | Test-MAE | Test-MSE | Test-NAE | Backbone |
-| ---- | ------------------------------------------ | ------- | ------- | -------- | -------- | -------- | -------- |
-| 2016--CVPR | [MCNN](#MCNN)                        | 218.5  | 700.6 | 232.5 | 714.6 | 1.063 | FS |
-| 2018--CVPR | [CSRNet](#CSR)                       | 104.8  | 433.4 | 121.3 | 387.8 | 0.604 | VGG-16 |
-| 2019--CSVT | [PCC-Net](#PCC-Net)                  | 100.7  | 573.1 | 112.3 | 457.0 | 0.251 | VGG-16 |
-| 2019--CVPR | **[CAN](#CAN)**                      | 93.5   | 489.9 | 106.3 | **386.5** | 0.295 | VGG-16 |
-| 2019--NC   | [SCAR](#SCAR)                        | 81.5   | 397.9 | 110.0 | 495.3 | 0.288 | VGG-16 |
-| 2019--ICCV | [BL](#BL)                            | 93.6   | 470.3 | 105.4 | 454.2 | 0.203 | VGG-19 |
-| 2019--CVPR | [SFCN](#CCWld)                       | 95.4   | 608.3 | 105.4 | 424.1 | 0.254 | ResNet-101 |
-| 2020--NeurIPS |**[DM-Count](#DM-Count)**          | **70.5** | **357.6** | **88.4** | 388.6 | 0.169 | VGG-19 |
+Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 
 ### ShanghaiTech Part A
 

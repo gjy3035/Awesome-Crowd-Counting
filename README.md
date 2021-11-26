@@ -94,7 +94,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
-- Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)][[code](https://github.com/abhinavsagar/bmsnn)]![GitHub stars](https://img.shields.io/github/stars/abhinavsagar/bmsnn.svg?logo=github&label=Stars)
+- Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)]
 - Dense Crowds Detection and Counting with a Lightweight Architecture [[paper](https://arxiv.org/abs/2007.06630)]
 - Exploit the potential of Multi-column architecture for Crowd Counting [[paper](https://arxiv.org/abs/2007.05779)][[code](https://github.com/JunhaoCheng/Pyramid_Scale_Network)]![GitHub stars](https://img.shields.io/github/stars/JunhaoCheng/Pyramid_Scale_Network.svg?logo=github&label=Stars)
 - Recurrent Distillation based Crowd Counting [[paper](https://arxiv.org/abs/2006.07755)]

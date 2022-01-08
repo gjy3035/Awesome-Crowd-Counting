@@ -55,6 +55,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
 - Towards More Effective PRM-based Crowd Counting via A Multi-resolution Fusion and Attention Network [[paper](https://arxiv.org/abs/2112.09664)]
 - Object Counting: You Only Need to Look at One [[paper](https://arxiv.org/abs/2112.05993)]
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]

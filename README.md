@@ -88,7 +88,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
-- Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting [[paper](https://arxiv.org/abs/2012.08149)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
 - PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
@@ -121,7 +120,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2021
 - <a name="DCANet"></a>**[DCANet]** Towards Learning Multi-domain Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658506)] [[code](https://github.com/Zhaoyi-Yan/DCANet)]![GitHub stars](https://img.shields.io/github/stars/Zhaoyi-Yan/DCANet.svg?logo=github&label=Stars)
-- <a name="AutoScale"></a>**[AutoScale]** AutoScale: Learning to Scale for Crowd Counting (**IJCV**) [[paper](https://arxiv.org/abs/1912.09632)] (extension of [L2SM](#L2SM))[[code](https://github.com/dk-liang/AutoScale)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/AutoScale.svg?logo=github&label=Stars)
+- <a name="AutoScale"></a>**[AutoScale]** AutoScale: Learning to Scale for Crowd Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-021-01542-z)] (extension of [L2SM](#L2SM))[[code](https://github.com/dk-liang/AutoScale)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/AutoScale.svg?logo=github&label=Stars)
 - <a name="URC"></a>**[URC]** Crowd Counting With Partial Annotations in an Image (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Crowd_Counting_With_Partial_Annotations_in_an_Image_ICCV_2021_paper.pdf)]
 - <a name="MFDC"></a>**[MFDC]** Exploiting Sample Correlation for Crowd Counting With Multi-Expert Network (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Exploiting_Sample_Correlation_for_Crowd_Counting_With_Multi-Expert_Network_ICCV_2021_paper.pdf)]
 - <a name="SDNet"></a>**[SDNet]** Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Towards_a_Universal_Model_for_Cross-Dataset_Crowd_Counting_ICCV_2021_paper.pdf)]
@@ -136,6 +135,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="S3"></a>**[S3]** Direct Measure Matching for Crowd Counting (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2021/0116.pdf)]
 - <a name="BM-Count"></a>**[BM-Count]** Bipartite Matching for Crowd Counting with Point Supervision (**IJCAI**) [[paper](https://www.ijcai.org/proceedings/2021/0119.pdf)]
 - <a name="PFDNet"></a>**[PFDNet]** Crowd Counting via Perspective-Guided Fractional-Dilation Convolution (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9468694)](extension of [PGCNet](#PGCNet))
+- <a name="DSACA"></a>**[DSACA]** Dilated-Scale-Aware Attention ConvNet For Multi-Class Object Counting  (**SPL**) [[paper](https://ieeexplore.ieee.org/abstract/document/9479708)] [[code](https://github.com/PRIS-CV/DSACA)]![GitHub stars](https://img.shields.io/github/stars/PRIS-CV/DSACA.svg?logo=github&label=Stars)
 - <a name="EPF"></a>**[EPF]** Counting People by Estimating People Flows (**TPAMI**) [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/People-Flows.svg?logo=github&label=Stars)
 - <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**TPAMI**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]

@@ -56,7 +56,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
 - Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
-- Towards More Effective PRM-based Crowd Counting via A Multi-resolution Fusion and Attention Network [[paper](https://arxiv.org/abs/2112.09664)]
 - Object Counting: You Only Need to Look at One [[paper](https://arxiv.org/abs/2112.05993)]
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
 - LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
@@ -107,7 +106,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
-- Dense Scale Network for Crowd Counting [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/Dense-Scale-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
 - Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]![GitHub stars](https://img.shields.io/github/stars/ZhengPeng7/W-Net-Keras.svg?logo=github&label=Stars)
@@ -151,6 +149,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CFANet"></a> **[CFANet]** Coarse- and Fine-grained Attention Network with Background-aware Loss for Crowd Density Map Estimation (**WACV**) [[paper](https://arxiv.org/abs/2011.03721)][[code](https://github.com/rongliangzi/MARUNet)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/MARUNet.svg?logo=github&label=Stars)
 - <a name="BSCC"></a> **[BSCC]** Understanding the impact of mistakes on background regions in crowd counting (**WACV**) [[paper](https://arxiv.org/abs/2003.13759)]
 - <a name="CFOCNet"></a> **[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) [[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]
+- <a name="DSNet"></a> **[DSNet]** Dense Scale Network for Crowd Counting (**ICMR**) [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/Dense-Scale-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="NLT"></a> **[NLT]** Neuron Linear Transformation: Modeling the Domain Shift for Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2004.02133)] [[code]](https://github.com/taohan10200/NLT)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/NLT.svg?logo=github&label=Stars)
 - <a name="DACC"></a> **[DACC]** Domain-adaptive Crowd Counting via Inter-domain Features Segregation and Gaussian-prior Reconstruction (**T-NNLS**) [[paper](https://arxiv.org/abs/1912.03677)]
 - <a name="MATT"></a> **[MATT]** Towards Using Count-level Weak Supervision for Crowd Counting (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2003.00164)]
@@ -163,6 +162,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="AdaCrowd"></a> **[AdaCrowd]** AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) [[paper](https://arxiv.org/abs/2010.12141)][[code](https://github.com/maheshkkumar/adacrowd)]![GitHub stars](https://img.shields.io/github/stars/maheshkkumar/adacrowd.svg?logo=github&label=Stars)
 - <a name="PDANet"></a> **[PDANet]** PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2001.05643)]
 - <a name="ScSiNet"></a> **[ScSiNet]** Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.11943)]
+- <a name="PRM"></a> **[PRM]** Towards More Effective PRM-based Crowd Counting via A Multi-resolution Fusion and Attention Network (**Neurocomputing**) [[paper](https://arxiv.org/abs/2112.09664)]
 - <a name="DeepCorn"></a> **[DeepCorn]** DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation (**Knowledge-Based Systems**) [[paper](https://arxiv.org/abs/2007.10521)]
 - <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**)
 

@@ -56,7 +56,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)]
+- S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
 - Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
 - Object Counting: You Only Need to Look at One [[paper](https://arxiv.org/abs/2112.05993)]
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
@@ -87,7 +87,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
-- Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
+- Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]

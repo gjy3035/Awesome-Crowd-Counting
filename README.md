@@ -13,6 +13,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### News
 - [2020.04] The JHU-CROWD++ Dataset is released.
 - [2021.04] The RGBT-CC Benchmark is released.
+- [2022.01] The FUDAN-UCC Dataset will be released.
 
 ### Call for Papers
 - [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
@@ -55,6 +56,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)]
 - Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
 - Object Counting: You Only Need to Look at One [[paper](https://arxiv.org/abs/2112.05993)]
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
@@ -85,7 +87,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
-- Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
+- Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
 - STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]

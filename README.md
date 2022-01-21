@@ -91,7 +91,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
-- STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting [[paper](https://arxiv.org/abs/2012.10189)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
 - PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
 - Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
@@ -108,7 +107,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
-- Segmentation Guided Attention Network for Crowd Counting via Curriculum Learning [[paper](https://arxiv.org/abs/1911.07990)]
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
 - Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]![GitHub stars](https://img.shields.io/github/stars/ZhengPeng7/W-Net-Keras.svg?logo=github&label=Stars)
@@ -123,6 +121,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### 2022
 - <a name="WSCNN"></a>**[WSCNN]** Single Image Object Counting and Localizing using Active-Learning (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Huberman-Spiegelglas_Single_Image_Object_Counting_and_Localizing_Using_Active-Learning_WACV_2022_paper.pdf)]
 - <a name="IS-Count"></a>**[IS-Count]** IS-Count: Large-Scale Object Counting from Satellite Images with Covariate-Based Importance Sampling (**AAAI**) [[paper](https://arxiv.org/pdf/2112.09126v1.pdf)][[code](https://github.com/sustainlab-group/IS-Count)]![GitHub stars](https://img.shields.io/github/stars/sustainlab-group/IS-Count.svg?logo=github&label=Stars)
+- <a name="STNet"></a>**[STNet]**  STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9681311)]
+- <a name="SGANet"></a>**[SGANet]**  Crowd Counting via Segmentation Guided Attention Networks and Curriculum Loss (**TITS**) [[paper](https://ieeexplore.ieee.org/document/9678116)]
 
 ### 2021
 - <a name="GNet"></a>**[GNet]** Gaussian map predictions for 3D surface feature localisation and counting (**BMVC**) [[paper](https://www.bmvc2021-virtualconference.com/assets/papers/1417.pdf)]

@@ -75,6 +75,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Hybrid attention network based on progressive embedding scale-context for crowd counting [[paper](https://arxiv.org/abs/2106.02324)]
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)]
+
+<details>
+<summary>Earlier ArXiv Papers</summary>
+
 - Crowd Counting by Self-supervised Transfer Colorization Learning and Global Prior Classification [[paper](https://arxiv.org/abs/2105.09684)]
 - Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead [[paper](https://arxiv.org/abs/2105.09121)]
 - WheatNet: A Lightweight Convolutional Neural Network for High-throughput Image-based Wheat Head Detection and Counting [[paper](https://arxiv.org/abs/2103.09408)]
@@ -83,11 +87,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Leveraging Self-Supervision for Cross-Domain Crowd Counting [[paper](https://arxiv.org/abs/2103.16291)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
 - Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars)
-
-
-<details>
-<summary>Earlier ArXiv Papers</summary>
-
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]

@@ -228,8 +228,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="ikNN"></a> **[ikNN]** Improving Dense Crowd Counting Convolutional Neural Networks using Inverse k-Nearest Neighbor Maps and Multiscale Upsampling (**VISAPP**) [[paper](https://arxiv.org/abs/1902.05379)]
 
 ### Journal
-- <a name="KDMG"></a> **[KDMG]** Kernel-based Density Map Generation for Dense Object Counting (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/document/9189836)][[code](https://github.com/jia-wan/KDMG_Counting)]![GitHub stars](https://img.shields.io/github/stars/jia-wan/KDMG_Counting.svg?logo=github&label=Stars)
 - <a name="NWPU"></a> **[NWPU]** NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization (**T-PAMI**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/NWPU-Crowd-Sample-Code.svg?logo=github&label=Stars)
+- <a name="KDMG"></a> **[KDMG]** Kernel-based Density Map Generation for Dense Object Counting (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/document/9189836)][[code](https://github.com/jia-wan/KDMG_Counting)]![GitHub stars](https://img.shields.io/github/stars/jia-wan/KDMG_Counting.svg?logo=github&label=Stars)
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/lsc-cnn.svg?logo=github&label=Stars)
 - <a name="PWCU"></a> **[PWCU]** Pixel-wise Crowd Understanding via Synthetic Data (**IJCV**) [[paper](https://arxiv.org/abs/2007.16032)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/GCC-SFCN.svg?logo=github&label=Stars)
@@ -257,9 +257,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CFANet"></a> **[MH-METRONET]** MH-MetroNet—A Multi-Head CNN for Passenger-Crowd Attendance Estimation (**JImaging**) [[paper](https://www.mdpi.com/759202)][[code]( https://bitbucket.org/isasi-lecce/mh-metronet/src/master/)]
 
 ### 2019
-
-- <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))[[Project](https://mmcheng.net/dncl/)]
-- <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
+### Conference
 - <a name="CG-DRCN"></a> **[CG-DRCN]** Pushing the Frontiers of Unconstrained Crowd Counting: New Dataset and Benchmark Method (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sindagi_Pushing_the_Frontiers_of_Unconstrained_Crowd_Counting_New_Dataset_and_ICCV_2019_paper.pdf)]
 - <a name="ADMG"></a> **[ADMG]** Adaptive Density Map Generation for Crowd Counting (**ICCV**)[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Adaptive_Density_Map_Generation_for_Crowd_Counting_ICCV_2019_paper.pdf)]
 - <a name="DSSINet"></a> **[DSSINet]** Crowd Counting with Deep Structured Scale Integration Network (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf)][[code](https://github.com/Legion56/Counting-ICCV-DSSINet)] ![GitHub stars](https://img.shields.io/github/stars/Legion56/Counting-ICCV-DSSINet.svg?logo=github&label=Stars)
@@ -292,7 +290,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CCWld"></a> **[CCWld, SFCN]** Learning from Synthetic Data for Crowd Counting in the Wild (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_From_Synthetic_Data_for_Crowd_Counting_in_the_Wild_CVPR_2019_paper.pdf)] [[Project](https://gjy3035.github.io/GCC-CL/)] [[arxiv](https://arxiv.org/abs/1903.03303)] ![GitHub stars](https://img.shields.io/github/stars/gjy3035/GCC-CL.svg?logo=github&label=Stars)
 - <a name="DG-GAN"></a> **[DG-GAN]** Dense Crowd Counting Convolutional Neural Networks with Minimal Data using Semi-Supervised Dual-Goal Generative Adversarial Networks (**CVPRW**)[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Weakly%20Supervised%20Learning%20for%20Real-World%20Computer%20Vision%20Applications/Olmschenk_Dense_Crowd_Counting_Convolutional_Neural_Networks_with_Minimal_Data_using_CVPRW_2019_paper.pdf)]
 - <a name="GSP"></a> **[GSP]** Global Sum Pooling: A Generalization Trick for Object Counting with Small Datasets of Large Images (**CVPRW**)[[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Aich_Global_Sum_Pooling_A_Generalization_Trick_for_Object_Counting_with_CVPRW_2019_paper.pdf)]
-- <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="IA-DNN"></a> **[IA-DNN]** Inverse Attention Guided Deep Crowd Counting Network (**AVSS Best Paper**) [[paper](https://arxiv.org/abs/1907.01193)]
 - <a name="MTCNet"></a> **[MTCNet]** MTCNET: Multi-task Learning Paradigm for Crowd Count Estimation (**AVSS**) [[paper](https://arxiv.org/abs/1908.08652)]
 - <a name="CODA"></a> **[CODA]** CODA: Counting Objects via Scale-aware Adversarial Density Adaption (**ICME**) [[paper](https://arxiv.org/abs/1903.10442)][[code](https://github.com/Willy0919/CODA)]![GitHub stars](https://img.shields.io/github/stars/Willy0919/CODA.svg?logo=github&label=Stars)
@@ -304,22 +301,27 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SPN"></a> **[SPN]** Scale Pyramid Network for Crowd Counting (**WACV**) [[paper](http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8642793)]
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 - <a name="GPC"></a> **[GPC]** Geometric and Physical Constraints for Drone-Based Head Plane Crowd Density Estimation (**IROS**) [[paper](https://arxiv.org/abs/1803.08805)]
+- <a name="AM-CNN"></a> **[AM-CNN]** Attention to Head Locations for Crowd Counting (**ICIG**) [[paper](https://arxiv.org/abs/1806.10287)]
+
+### Journal
+- <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))[[Project](https://mmcheng.net/dncl/)]
+- <a name="SL2R"></a>  **[SL2R]** Exploiting Unlabeled Data in CNNs by Self-supervised Learning to Rank (**T-PAMI**) [[paper](https://arxiv.org/abs/1902.06285)](extension of [L2R](#L2R))
 - <a name="PCC-Net"></a> **[PCC-Net]** PCC Net: Perspective Crowd Counting via Spatial Convolutional Network (**T-CSVT**) [[paper](https://arxiv.org/abs/1905.10085)] [[code](https://github.com/gjy3035/PCC-Net)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/PCC-Net.svg?logo=github&label=Stars)
 - <a name="CLPC"></a> **[CLPC]** Cross-Line Pedestrian Counting Based on Spatially-Consistent Two-Stage Local Crowd Density Estimation and Accumulation (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8295124)]
 - <a name="MAN"></a> **[MAN]** Mask-aware networks for crowd counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8796427)]
+- <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
 - <a name="CCLL"></a> **[CCLL]** Crowd Counting With Limited Labeling Through Submodular Frame Selection (**T-ITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360780)]
+- <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**TNNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
+- <a name="LDL"></a> **[LDL]** Indoor Crowd Counting by Mixture of Gaussians Label Distribution Learning (**TIP**) [[paper](http://palm.seu.edu.cn/xgeng/files/tip19.pdf)]
 - <a name="ACSPNet"></a> **[ACSPNet]** Atrous convolutions spatial pyramid network for crowd counting and density estimation (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219304059)]
 - <a name="DDCN"></a> **[DDCN]** Removing background interference for crowd counting via de-background detail convolutional network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218315042)]
 - <a name="MRA-CNN"></a> **[MRA-CNN]** Multi-resolution attention convolutional neural network for crowd counting (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218312542)]
 - <a name="ACM-CNN"></a> **[ACM-CNN]** Attend To Count: Crowd Counting with Adaptive Capacity Multi-scale CNNs (**Neurocomputing**) [[paper](https://arxiv.org/abs/1908.02797)]
 - <a name="SDA-MCNN"></a> **[SDA-MCNN]** Counting crowds using a scale-distribution-aware network and adaptive human-shaped kernel (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219314651)]
 - <a name="SCAR"></a> **[SCAR]** SCAR: Spatial-/Channel-wise Attention Regression Networks for Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/1908.03716)][[code](https://github.com/gjy3035/SCAR)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/SCAR.svg?logo=github&label=Stars)
-- <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**TNNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
-- <a name="LDL"></a> **[LDL]** Indoor Crowd Counting by Mixture of Gaussians Label Distribution Learning (**TIP**) [[paper](http://palm.seu.edu.cn/xgeng/files/tip19.pdf)]
-- <a name="AM-CNN"></a> **[AM-CNN]** Attention to Head Locations for Crowd Counting (**ICIG**) [[paper](https://arxiv.org/abs/1806.10287)]
 
 ### 2018
-
+### Conference
 - <a name="SANet"></a> **[SANet]** Scale Aggregation Network for Accurate and Efficient Crowd Counting (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinkun_Cao_Scale_Aggregation_Network_ECCV_2018_paper.pdf)]
 - <a name="ic-CNN"></a> **[ic-CNN]** Iterative Crowd Counting (**ECCV**) [[paper](https://arxiv.org/abs/1807.09959)]
 - <a name="CL"></a> **[CL]** Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds (**ECCV**) [[paper](https://arxiv.org/abs/1808.01050)]
@@ -343,33 +345,38 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 - <a name="DR-ResNet"></a> **[DR-ResNet]** A Deeply-Recursive Convolutional Network for Crowd Counting (**ICASSP**) [[paper](https://arxiv.org/abs/1805.05633)] 
 - <a name="GAN-MTR"></a> **[GAN-MTR]** Crowd Counting With Minimal Data Using Generative Adversarial Networks For Multiple Target Regression (**WACV**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354235)]
 - <a name="SaCNN"></a> **[SaCNN]** Crowd counting via scale-adaptive convolutional neural network (**WACV**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354231)] [[code](https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu)]![GitHub stars](https://img.shields.io/github/stars/miao0913/SaCNN-CrowdCounting-Tencent_Youtu.svg?logo=github&label=Stars)
-- <a name="Improved SaCNN"></a> **[Improved SaCNN]** Improved Crowd Counting Method Based on Scale-Adaptive Convolutional Neural Network (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643345)]
-- <a name="DA-Net"></a> **[DA-Net]** DA-Net: Learning the Fine-Grained Density Distribution With Deformation Aggregation Network (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8497050)][[code](https://github.com/BigTeacher-777/DA-Net)]![GitHub stars](https://img.shields.io/github/stars/BigTeacher-777/DA-Net.svg?logo=github&label=Stars)
+
+### Journal
 - <a name="BSAD"></a> **[BSAD]** Body Structure Aware Deep Crowd Counting (**TIP**) [[paper](http://mac.xmu.edu.cn/rrji/papers/IP%202018-Body.pdf)] 
 - <a name="NetVLAD"></a> **[NetVLAD]** Multiscale Multitask Deep NetVLAD for Crowd Counting (**TII**) [[paper](https://staff.fnwi.uva.nl/z.shi/files/counting-netvlad.pdf)] [[code](https://github.com/shizenglin/Multitask-Multiscale-Deep-NetVLAD)]![GitHub stars](https://img.shields.io/github/stars/shizenglin/Multitask-Multiscale-Deep-NetVLAD.svg?logo=github&label=Stars)
 - <a name="W-VLAD"></a> **[W-VLAD]** Crowd Counting via Weighted VLAD on Dense Attribute Feature Maps (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7778134)]
+- <a name="Improved SaCNN"></a> **[Improved SaCNN]** Improved Crowd Counting Method Based on Scale-Adaptive Convolutional Neural Network (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643345)]
+- <a name="DA-Net"></a> **[DA-Net]** DA-Net: Learning the Fine-Grained Density Distribution With Deformation Aggregation Network (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8497050)][[code](https://github.com/BigTeacher-777/DA-Net)]![GitHub stars](https://img.shields.io/github/stars/BigTeacher-777/DA-Net.svg?logo=github&label=Stars)
 
 ### 2017
-
-- <a name="ACNN"></a> **[ACNN]** Incorporating Side Information by Adaptive Convolution (**NIPS**) [[paper](http://papers.nips.cc/paper/6976-incorporating-side-information-by-adaptive-convolution.pdf)][[Project](http://visal.cs.cityu.edu.hk/research/acnn/)]
+### Conference
+- <a name="SCNN"></a> **[Switching CNN]** Switching Convolutional Neural Network for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/crowd-counting-scnn.svg?logo=github&label=Stars)
 - <a name="CP-CNN"></a> **[CP-CNN]** Generating High-Quality Crowd Density Maps using Contextual Pyramid CNNs (**ICCV**) [[paper](https://arxiv.org/abs/1708.00953)]
 - <a name="ConvLSTM"></a> **[ConvLSTM]** Spatiotemporal Modeling for Crowd Counting in Videos (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)]
 - <a name="CMTL"></a> **[CMTL]** CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting (**AVSS**) [[paper](https://arxiv.org/abs/1707.09605)] [[code](https://github.com/svishwa/crowdcount-cascaded-mtl)]![GitHub stars](https://img.shields.io/github/stars/svishwa/crowdcount-cascaded-mtl.svg?logo=github&label=Stars)
 - <a name="ResnetCrowd"></a> **[ResnetCrowd]** ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification (**AVSS**) [[paper](https://arxiv.org/abs/1705.10698)]
-- <a name="SCNN"></a> **[Switching CNN]** Switching Convolutional Neural Network for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/1708.00199)] [[code](https://github.com/val-iisc/crowd-counting-scnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/crowd-counting-scnn.svg?logo=github&label=Stars)
-- <a name="DAL-SVR"></a> **[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
+- <a name="ACNN"></a> **[ACNN]** Incorporating Side Information by Adaptive Convolution (**NeurIPS**) [[paper](http://papers.nips.cc/paper/6976-incorporating-side-information-by-adaptive-convolution.pdf)][[Project](http://visal.cs.cityu.edu.hk/research/acnn/)]
 - <a name="MSCNN"></a> **[MSCNN]** Multi-scale Convolution Neural Networks for Crowd Counting (**ICIP**) [[paper](https://arxiv.org/abs/1702.02359)] [[code](https://github.com/Ling-Bao/mscnn)]![GitHub stars](https://img.shields.io/github/stars/Ling-Bao/mscnn.svg?logo=github&label=Stars)
-- <a name="FCNCC"></a> **[FCNCC]** Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP**) [[paper](https://arxiv.org/abs/1612.00220)] 
+- <a name="FCNCC"></a> **[FCNCC]** Fully Convolutional Crowd Counting On Highly Congested Scenes (**VISAPP**) [[paper](https://arxiv.org/abs/1612.00220)]
+
+### Journal
+- <a name="DAL-SVR"></a> **[DAL-SVR]** Boosting deep attribute learning via support vector regression for fast moving crowd counting (**PR Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865517304415)]
 - <a name="CNN-MRF"></a> **[CNN-MRF]** Image Crowd Counting Using Convolutional Neural Network and Markov Random Field (**JACII**) [[paper](https://arxiv.org/abs/1706.03686)] [[code](https://github.com/hankong/crowd-counting)]![GitHub stars](https://img.shields.io/github/stars/hankong/crowd-counting.svg?logo=github&label=Stars)
 
-### 2016 
 
+### 2016 
+### Conference
+- <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [unofficial code: [TensorFlow](https://github.com/aditya-vora/crowd_counting_tensorflow) ![GitHub stars](https://img.shields.io/github/stars/aditya-vora/crowd_counting_tensorflow.svg?logo=github&label=Stars) [PyTorch](https://github.com/svishwa/crowdcount-mcnn)]![GitHub stars](https://img.shields.io/github/stars/svishwa/crowdcount-mcnn.svg?logo=github&label=Stars)
 - <a name="Hydra-CNN"></a> **[Hydra-CNN]** Towards perspective-free object counting with deep learning  (**ECCV**) [[paper](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf)] [[code](https://github.com/gramuah/ccnn)]![GitHub stars](https://img.shields.io/github/stars/gramuah/ccnn.svg?logo=github&label=Stars)
 - <a name="CNN-Boosting"></a> **[CNN-Boosting]** Learning to Count with CNN Boosting (**ECCV**) [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-46475-6_41)] 
 - <a name="Crossing-line"></a> **[Crossing-line]** Crossing-line Crowd Counting with Two-phase Deep Neural Networks (**ECCV**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/ZhaoLZWeccv16.pdf)] 
 - <a name="GP"></a> **[GP]** Gaussian Process Density Counting from Weak Supervision (**ECCV**) [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-46448-0_22)]
 - <a name="CrowdNet"></a> **[CrowdNet]** CrowdNet: A Deep Convolutional Network for Dense Crowd Counting (**ACMMM**) [[paper](https://arxiv.org/abs/1608.06197)] [[code](https://github.com/davideverona/deep-crowd-counting_crowdnet)]![GitHub stars](https://img.shields.io/github/stars/davideverona/deep-crowd-counting_crowdnet.svg?logo=github&label=Stars)
-- <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] [unofficial code: [TensorFlow](https://github.com/aditya-vora/crowd_counting_tensorflow) ![GitHub stars](https://img.shields.io/github/stars/aditya-vora/crowd_counting_tensorflow.svg?logo=github&label=Stars) [PyTorch](https://github.com/svishwa/crowdcount-mcnn)]![GitHub stars](https://img.shields.io/github/stars/svishwa/crowdcount-mcnn.svg?logo=github&label=Stars)
 - <a name="Shang2016"></a> **[Shang 2016]** End-to-end crowd counting via joint learning local and global count (**ICIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532551)]
 - <a name="DE-VOC"></a> **[DE-VOC]** Fast visual object counting via example-based density estimation (**ICIP**) [[paper](http://web.pkusz.edu.cn/adsp/files/2015/10/Fast-Visual-Object-Counting-via-Example-based-Density-Estimation.pdf)] 
 - <a name="RPF"></a> **[RPF]** Crowd Density Estimation based on Rich Features and Random Projection Forest (**WACV**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7477682)] 
@@ -377,39 +384,41 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 - <a name="Faster-OHEM-KCF"></a> **[Faster-OHEM-KCF]** Deep People Counting with Faster R-CNN and Correlation Tracking (**ICME**) [[paper](https://dl.acm.org/citation.cfm?id=3007745)] 
 
 ### 2015
-
+### Conference
 - <a name="COUNTForest"></a> **[COUNT Forest]** COUNT Forest: CO-voting Uncertain Number of Targets using Random Forest
 for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/content_iccv_2015/papers/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.pdf)]
 - <a name="Bayesian"></a> **[Bayesian]** Bayesian Model Adaptation for Crowd Counts (**ICCV**) [[paper](https://ieeexplore.ieee.org/document/7410832?arnumber=7410832&tag=1)]
 - <a name="Zhang2015"></a> **[Zhang 2015]** Cross-scene Crowd Counting via Deep Convolutional Neural Networks (**CVPR**) [[paper](https://www.ee.cuhk.edu.hk/~xgwang/papers/zhangLWYcvpr15.pdf)] [[code](https://github.com/wk910930/crowd_density_segmentation)]![GitHub stars](https://img.shields.io/github/stars/wk910930/crowd_density_segmentation.svg?logo=github&label=Stars)
 - <a name="Wang2015"></a> **[Wang 2015]** Deep People Counting in Extremely Dense Crowds (**ACMMM**) [[paper](https://dl.acm.org/citation.cfm?id=2806337)]
+
+### Journal
 - <a name="Fu2015"></a> **[FU 2015]** Fast crowd density estimation with convolutional neural networks (**Artificial Intelligence**) [[paper](https://www.sciencedirect.com/science/article/pii/S0952197615000871)]
 
 ### 2014
-
+### Conference
 - <a name="Arteta2014"></a> **[Arteta 2014]** Interactive Object Counting (**ECCV**) [[paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8691/86910504.pdf)] 
 
 ### 2013
-
+### Conference
 - <a name="Idrees2013"></a> **[Idrees 2013]** Multi-Source Multi-Scale Counting in Extremely Dense Crowd Images (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
 - <a name="Ma2013"></a> **[Ma 2013]** Crossing the Line: Crowd Counting by Integer Programming with Local Features (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Ma_Crossing_the_Line_2013_CVPR_paper.pdf)]
 - <a name="Chen2013"></a> **[Chen 2013]** Cumulative Attribute Space for Age and Crowd Density Estimation (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Chen_Cumulative_Attribute_Space_2013_CVPR_paper.pdf)]
 - <a name="SSR"></a> **[SSR]** From Semi-Supervised to Transfer Counting of Crowds (**ICCV**) [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Loy_From_Semi-supervised_to_2013_ICCV_paper.pdf)]
 
 ### 2012
-
+### Conference
 - <a name="Chen2012"></a> **[Chen 2012]** Feature mining for localised crowd counting (**BMVC**) [[paper](https://pdfs.semanticscholar.org/c5ec/65e36bccf8a64050d38598511f0352653d6f.pdf)]
 
 ### 2011
-
+### Conference
 - <a name="Rodriguez2011"></a> **[Rodriguez 2011]** Density-aware person detection and tracking in crowds (**ICCV**) [[paper](https://hal-enpc.archives-ouvertes.fr/hal-00654266/file/ICCV11a.pdf)]
 
 ### 2010
-
+### Conference
 - <a name="Lempitsky2010"></a> **[Lempitsky 2010]** Learning To Count Objects in Images (**NeurIPS**) [[paper](http://papers.nips.cc/paper/4043-learning-to-count-objects-in-images)]
 
 ### 2008
-
+### Conference
 - <a name="Chan2008"></a> **[Chan 2008]** Privacy preserving crowd monitoring: Counting people without people models or tracking (**CVPR**) [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
 
 

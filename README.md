@@ -57,6 +57,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Enhancing and Dissecting Crowd Counting By Synthetic Data [[paper](https://arxiv.org/abs/2201.08992)]
+- Iterative Correlation-based Feature Refinement for Few-shot Counting [[paper](https://arxiv.org/abs/2201.08959)]
 - S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
 - Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
 - Object Counting: You Only Need to Look at One [[paper](https://arxiv.org/abs/2112.05993)]

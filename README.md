@@ -235,8 +235,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
 - <a name="LSC-CNN"></a> **[LSC-CNN]** Locate, Size and Count: Accurately Resolving People in Dense Crowds via Detection (**T-PAMI**) [[paper](https://arxiv.org/abs/1906.07538)][[code](https://github.com/val-iisc/lsc-cnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/lsc-cnn.svg?logo=github&label=Stars)
 - <a name="PWCU"></a> **[PWCU]** Pixel-wise Crowd Understanding via Synthetic Data (**IJCV**) [[paper](https://arxiv.org/abs/2007.16032)]![GitHub stars](https://img.shields.io/github/stars/gjy3035/GCC-SFCN.svg?logo=github&label=Stars)
-- <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
-- <a name="PaDNet"></a> **[PaDNet]** PaDNet: Pan-Density Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897143)]
 - <a name="CRNet"></a> **[CRNet]** Crowd Counting via Cross-stage Refinement Networks (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9096602)][[code](https://github.com/lytgftyf/Crowd-Counting-via-Cross-stage-Refinement-Networks)] ![GitHub stars](https://img.shields.io/github/stars/lytgftyf/Crowd-Counting-via-Cross-stage-Refinement-Networks.svg?logo=github&label=Stars)
 - <a name="BNFDD"></a> **[BNFDD]** Background Noise Filtering and Distribution Dividing for Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161353)]
 - <a name="FADA"></a> **[FADA]** Feature-aware Adaptation and Density Alignment for Crowd Counting in Video Surveillance (**TCYB**) [[paper](https://arxiv.org/abs/1912.03672)]
@@ -314,6 +312,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name=""></a>Generalizing semi-supervised generative adversarial networks to regression using feature contrasting (**CVIU**)[[paper](https://arxiv.org/abs/1811.11269)]
 - <a name="CCLL"></a> **[CCLL]** Crowd Counting With Limited Labeling Through Submodular Frame Selection (**T-ITS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360780)]
 - <a name="MLCNN"></a> **[GMLCNN]** Learning Multi-Level Density Maps for Crowd Counting (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848475)]
+- <a name="HA-CCN"></a> **[HA-CCN]** HA-CCN: Hierarchical Attention-based Crowd Counting Network (**TIP**) [[paper](https://arxiv.org/abs/1907.10255)]
+- <a name="PaDNet"></a> **[PaDNet]** PaDNet: Pan-Density Crowd Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8897143)]
 - <a name="LDL"></a> **[LDL]** Indoor Crowd Counting by Mixture of Gaussians Label Distribution Learning (**TIP**) [[paper](http://palm.seu.edu.cn/xgeng/files/tip19.pdf)]
 - <a name="ACSPNet"></a> **[ACSPNet]** Atrous convolutions spatial pyramid network for crowd counting and density estimation (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231219304059)]
 - <a name="DDCN"></a> **[DDCN]** Removing background interference for crowd counting via de-background detail convolutional network (**Neurocomputing**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231218315042)]

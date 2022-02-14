@@ -11,7 +11,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Misc
 
 ### News
-- [2022.01] The FUDAN-UCC Dataset will be released.
+- [2022.01] The FUDAN-UCC Dataset is released.
 - [2021.04] The RGBT-CC Benchmark is released.
 - [2020.04] The JHU-CROWD++ Dataset is released.
 - [2020.01] The NWPU-Crowd benchmark is released.

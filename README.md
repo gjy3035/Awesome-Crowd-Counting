@@ -57,6 +57,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Counting with Adaptive Auxiliary Learning [[paper](https://arxiv.org/abs/2203.04061)]
+- CrowdFormer: Weakly-supervised Crowd counting with Improved Generalizability [[paper](https://arxiv.org/abs/2203.03768)]
 - FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion [[paper](https://arxiv.org/abs/2202.13660)]
 - An End-to-End Transformer Model for Crowd Localization [[paper](https://arxiv.org/abs/2202.13065)]
 - A Unified Multi-Task Learning Framework of Real-Time Drone Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2202.03843)]

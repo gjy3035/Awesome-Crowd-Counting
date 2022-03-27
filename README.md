@@ -73,12 +73,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
 - CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
 - Harnessing Perceptual Adversarial Patches for Crowd Counting [[paper](https://arxiv.org/abs/2109.07986)]
-- Audio-Visual Transformer Based Crowd Counting [[paper](https://arxiv.org/abs/2109.01926)]
 - S4-Crowd: Semi-Supervised Learning with Self-Supervised Regularisation for Crowd Counting [[paper](https://arxiv.org/abs/2108.13969)]
 - Fine-grained Domain Adaptive Crowd Counting via Point-derived Segmentation [[paper](https://arxiv.org/abs/2108.02980)]
 - Reducing Spatial Labeling Redundancy for Semi-supervised Crowd Counting [[paper](https://arxiv.org/abs/2108.02970)]
 - Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer [[paper](https://arxiv.org/abs/2108.00584)]
-- Cascaded Residual Density Network for Crowd Counting [[paper](https://arxiv.org/abs/2107.13718)]
 - Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)]
@@ -127,7 +125,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/DRNet.svg?logo=github&label=Stars)
 - <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="MAN"></a>**[MAN]**  Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention.svg?logo=github&label=Stars)
-- <a name=""></a> Crowd Counting in the Frequency Domain (**CVPR**) [[paper]()]
+- <a name=""></a> Crowd Counting in the Frequency Domain (**CVPR**)
 - <a name="WSCNN"></a>**[WSCNN]** Single Image Object Counting and Localizing using Active-Learning (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Huberman-Spiegelglas_Single_Image_Object_Counting_and_Localizing_Using_Active-Learning_WACV_2022_paper.pdf)]
 - <a name="IS-Count"></a>**[IS-Count]** IS-Count: Large-Scale Object Counting from Satellite Images with Covariate-Based Importance Sampling (**AAAI**) [[paper](https://arxiv.org/abs/2112.09126)][[code](https://github.com/sustainlab-group/IS-Count)]![GitHub stars](https://img.shields.io/github/stars/sustainlab-group/IS-Count.svg?logo=github&label=Stars)
 - <a name="MPS"></a>**[MPS]** Multiscale Crowd Counting and Localization By Multitask Point Supervision (**ICASSP**) [[paper](https://arxiv.org/abs/2202.09942)][[code](https://github.com/RCVLab-AiimLab/crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/RCVLab-AiimLab/crowd_counting.svg?logo=github&label=Stars)
@@ -151,6 +149,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]![GitHub stars](https://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-UEPNet.svg?logo=github&label=Stars)
 - <a name="SUA"></a>**[SUA]** Spatial Uncertainty-Aware Semi-Supervised Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.13271)][[code](https://github.com/smallmax00/SUA_crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/smallmax00/SUA_crowd_counting.svg?logo=github&label=Stars)
 - <a name="DKPNet"></a>**[DKPNet]** Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2108.08023)][[code](https://github.com/Zhaoyi-Yan/DKPNet)]![GitHub stars](https://img.shields.io/github/stars/Zhaoyi-Yan/DKPNet.svg?logo=github&label=Stars)
+- <a name="CC-AV"></a>**[CC-AV]** Audio-Visual Transformer Based Crowd Counting (**ICCVW**) [[paper](https://arxiv.org/abs/2109.01926)]
 - <a name="BinLoss"></a>**[BinLoss]** Wisdom of (Binned) Crowds: A Bayesian Stratification Paradigm for Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2108.08784)][[code](https://github.com/atmacvit/bincrowd)]![GitHub stars](https://img.shields.io/github/stars/atmacvit/bincrowd?label=Stars&logo=Github)
 - <a name="C2MoT"></a>**[C2MoT]** Dynamic Momentum Adaptation for Zero-Shot Cross-Domain Crowd Counting (**ACM MM**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475230)]
 - <a name="ASNet"></a>**[ASNet]** Coarse to Fine: Domain Adaptive Crowd Counting via Adversarial Scoring Network (**ACM MM**) [[paper](https://arxiv.org/abs/2107.12858)]
@@ -312,6 +311,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="GWTA-CCNN"></a> **[GWTA-CCNN]** Almost Unsupervised Learning for Dense Crowd Counting (**AAAI**) [[paper](http://val.serc.iisc.ernet.in/valweb/papers/AAAI_2019_WTACNN.pdf)]
 - <a name="GPC"></a> **[GPC]** Geometric and Physical Constraints for Drone-Based Head Plane Crowd Density Estimation (**IROS**) [[paper](https://arxiv.org/abs/1803.08805)]
 - <a name="AM-CNN"></a> **[AM-CNN]** Attention to Head Locations for Crowd Counting (**ICIG**) [[paper](https://arxiv.org/abs/1806.10287)]
+- <a name="CRDNet"></a> **[CRDNet]** Cascaded Residual Density Network for Crowd Counting (**ICIP**) [[paper](https://arxiv.org/abs/2107.13718)]
 
 ### Journal
 - <a name="D-ConvNet"></a> **[D-ConvNet]** Nonlinear Regression via Deep Negative Correlation Learning (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8850209)](extension of [D-ConvNet](#D-ConvNet))[[Project](https://mmcheng.net/dncl/)]

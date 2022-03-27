@@ -52,7 +52,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 | :---- | :---- | :---- |
 | [[**Auxiliary Tasks**](src/Auxiliary_Tasks.md)] | [[**Localization**](src/Localization.md)] | [[**Transfer Learning and Domain Adaptation**](src/Transfer_Learning_and_Domain_Adaptation.md)] |
 | [[**Light-weight Models**](src/Light-weight_Model.md)] | [[**Video**](src/Video.md)] | [[**Network Design, Search**](src/Network_Design_and_Search.md)] |
-| [[**Perspective Map**](src/Perspective_Map.md)] | [[**Attention**](src/Attention.md)] | Todo |
+| [[**Perspective Map**](src/Perspective_Map.md)] | [[**Attention**](src/Attention.md)] | [[**Transformer**](src/Transformer.md)] |
 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).

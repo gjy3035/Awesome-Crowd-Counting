@@ -169,6 +169,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CFOCNet"></a> **[CFOCNet]** Class-agnostic Few-shot Object Counting (**WACV**) [[paper](https://winstonhsu.info/wp-content/uploads/2020/11/yang21class-agnostic.pdf)]
 - <a name="SCALNet"></a> **[SCALNet]** Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization (**ICMEW**) [[paper](https://arxiv.org/abs/2104.12505)][[code](https://github.com/WangyiNTU/SCALNet)]![GitHub stars](https://img.shields.io/github/stars/WangyiNTU/SCALNet.svg?logo=github&label=Stars)
 - <a name="DSNet"></a> **[DSNet]** Dense Scale Network for Crowd Counting (**ICMR**) [[paper](https://arxiv.org/abs/1906.09707)][unofficial code: [PyTorch](https://github.com/rongliangzi/Dense-Scale-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/rongliangzi/Dense-Scale-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
+- - <a name="FCVF"></a> **[FCVF]** Learning Factorized Cross-View Fusion for Multi-View Crowd Counting (**ICME**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428284)]
 
 ### Journal
 - <a name="DPDNet"></a>**[DPDNet]** Locating and Counting Heads in Crowds With a Depth Prior (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601215)] [[code](https://github.com/svip-lab/Locating_Counting_with_a_Depth_Prior)]![GitHub stars](https://img.shields.io/github/stars/svip-lab/Locating_Counting_with_a_Depth_Prior.svg?logo=github&label=Stars)

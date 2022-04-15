@@ -57,6 +57,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]
 - Counting with Adaptive Auxiliary Learning [[paper](https://arxiv.org/abs/2203.04061)][[code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning)]![GitHub stars](https://img.shields.io/github/stars/smallmax00/Counting_With_Adaptive_Auxiliary_Learning.svg?logo=github&label=Stars)

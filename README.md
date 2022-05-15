@@ -57,6 +57,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]
@@ -123,10 +124,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
+- <a name=""></a> Bi-level Alignment for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2205.05844)]
 - <a name="BMNet"></a>**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (**CVPR**)[[paper](https://arxiv.org/abs/2203.08354)][[code](https://github.com/flyinglynx/Bilinear-Matching-Network)]![GitHub stars](https://img.shields.io/github/stars/flyinglynx/Bilinear-Matching-Network.svg?logo=github&label=Stars)
 - <a name="CrowdFormer"></a>**[CrowdFormer]** CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting (**IJCAI**)
 - <a name=""></a> Crowd Counting in the Frequency Domain (**CVPR**)
-- <a name=""></a> Bi-level Alignment for Cross-Domain Crowd Counting (**CVPR**)
 - <a name=""></a> Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**)
 - <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/DRNet.svg?logo=github&label=Stars)
 - <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github&label=Stars)

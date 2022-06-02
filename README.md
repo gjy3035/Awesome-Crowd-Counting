@@ -67,7 +67,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion [[paper](https://arxiv.org/abs/2202.13660)]
 - An End-to-End Transformer Model for Crowd Localization [[paper](https://arxiv.org/abs/2202.13065)]
 - A Unified Multi-Task Learning Framework of Real-Time Drone Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2202.03843)]
-- Enhancing and Dissecting Crowd Counting By Synthetic Data [[paper](https://arxiv.org/abs/2201.08992)]
 - Iterative Correlation-based Feature Refinement for Few-shot Counting [[paper](https://arxiv.org/abs/2201.08959)]
 - S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
 - Scene-Adaptive Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/2112.15509)]
@@ -136,6 +135,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="MAN"></a>**[MAN]**  Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention.svg?logo=github&label=Stars)
 - <a name="WSCNN"></a>**[WSCNN]** Single Image Object Counting and Localizing using Active-Learning (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Huberman-Spiegelglas_Single_Image_Object_Counting_and_Localizing_Using_Active-Learning_WACV_2022_paper.pdf)]
 - <a name="IS-Count"></a>**[IS-Count]** IS-Count: Large-Scale Object Counting from Satellite Images with Covariate-Based Importance Sampling (**AAAI**) [[paper](https://arxiv.org/abs/2112.09126)][[code](https://github.com/sustainlab-group/IS-Count)]![GitHub stars](https://img.shields.io/github/stars/sustainlab-group/IS-Count.svg?logo=github&label=Stars)
+- <a name="LARL"></a>**[LARL]** Label-Aware Ranked Loss for robust People Counting using Automotive in-cabin Radar (**ICASSP**) [[paper](https://arxiv.org/abs/2110.05876v2)]
+- <a name="ESA-Net"></a>**[ESA-Net]** Enhancing and Dissecting Crowd Counting By Synthetic Data (**ICASSP**) [[paper](https://arxiv.org/abs/2201.08992)]
 - <a name="MPS"></a>**[MPS]** Multiscale Crowd Counting and Localization By Multitask Point Supervision (**ICASSP**) [[paper](https://arxiv.org/abs/2202.09942)][[code](https://github.com/RCVLab-AiimLab/crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/RCVLab-AiimLab/crowd_counting.svg?logo=github&label=Stars)
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 

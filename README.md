@@ -57,6 +57,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]

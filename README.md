@@ -57,6 +57,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
+- Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
 - Self-supervised Domain Adaptation in Crowd Counting [[paper](https://arxiv.org/abs/2206.03431)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
@@ -115,11 +117,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
 - Crowd Transformer Network [[paper](https://arxiv.org/abs/1904.02774)]
 - W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/abs/1903.11249)][[code](https://github.com/ZhengPeng7/W-Net-Keras)]![GitHub stars](https://img.shields.io/github/stars/ZhengPeng7/W-Net-Keras.svg?logo=github&label=Stars)
-- Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/pdf/1902.01115.pdf)]
-- Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/pdf/1901.06026.pdf)]
+- Dual Path Multi-Scale Fusion Networks with Attention for Crowd Counting [[paper](https://arxiv.org/abs/1902.01115)]
+- Scale-Aware Attention Network for Crowd Counting [[paper](https://arxiv.org/abs/1901.06026)]
 - Crowd Counting with Density Adaption Networks [[paper](https://arxiv.org/abs/1806.10040)]
 - Improving Object Counting with Heatmap Regulation [[paper](https://arxiv.org/abs/1803.05494)][[code](https://github.com/littleaich/heatmap-regulation)]![GitHub stars](https://img.shields.io/github/stars/littleaich/heatmap-regulation.svg?logo=github&label=Stars)
-- Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/pdf/1801.06642.pdf)]
+- Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/abs/1801.06642)]
 
 </details>
 
@@ -130,7 +132,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="BMNet"></a>**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (**CVPR**)[[paper](https://arxiv.org/abs/2203.08354)][[code](https://github.com/flyinglynx/Bilinear-Matching-Network)]![GitHub stars](https://img.shields.io/github/stars/flyinglynx/Bilinear-Matching-Network.svg?logo=github&label=Stars)
 - <a name="CrowdFormer"></a>**[CrowdFormer]** CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting (**IJCAI**)
 - <a name=""></a> Crowd Counting in the Frequency Domain (**CVPR**)
-- <a name=""></a> Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**)
+- <a name=""></a> Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [paper](https://arxiv.org/abs/2206.05253)]
 - <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/DRNet.svg?logo=github&label=Stars)
 - <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="MAN"></a>**[MAN]**  Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention.svg?logo=github&label=Stars)
@@ -142,6 +144,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="NDConv"></a>**[NDConv]** An Improved Normed-Deformable Convolution for Crowd Counting (**SPL**) [[paper](https://arxiv.org/abs/2206.08084)]
 - <a name="RAN"></a>**[RAN]** Region-Aware Network: Model Human’s Top-Down Visual Perception Mechanism for Crowd Counting (**Neural Networks**) [[paper](https://arxiv.org/abs/2106.12163)]
 - <a name="HANet"></a>**[HANet]** Hybrid attention network based on progressive embedding scale-context for crowd counting (**Information Sciences**) [[paper](https://arxiv.org/abs/2106.02324)]
 - <a name="TransCrowd"></a>**[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer (**Science China Information Sciences**) [[paper](https://arxiv.org/abs/2104.09116)] [[code](https://github.com/dk-liang/TransCrowd)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/TransCrowd.svg?logo=github&label=Stars)

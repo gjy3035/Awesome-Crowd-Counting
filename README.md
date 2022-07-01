@@ -133,7 +133,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="BMNet"></a>**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (**CVPR**)[[paper](https://arxiv.org/abs/2203.08354)][[code](https://github.com/flyinglynx/Bilinear-Matching-Network)]![GitHub stars](https://img.shields.io/github/stars/flyinglynx/Bilinear-Matching-Network.svg?logo=github&label=Stars)
 - <a name="CrowdFormer"></a>**[CrowdFormer]** CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting (**IJCAI**)
 - <a name=""></a> Crowd Counting in the Frequency Domain (**CVPR**)
-- <a name="GAUNet"></a> Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [[paper](https://arxiv.org/abs/2206.05253)][[code](https://github.com/zhiqic/Rethinking-Counting)]![GitHub stars](https://img.shields.io/github/stars/zhiqic/Rethinking-Counting.svg?logo=github&label=Stars)
+- <a name="GauNet"></a>**[GauNet]** Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [[paper](https://arxiv.org/abs/2206.05253)][[code](https://github.com/zhiqic/Rethinking-Counting)]![GitHub stars](https://img.shields.io/github/stars/zhiqic/Rethinking-Counting.svg?logo=github&label=Stars)
 - <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/DRNet.svg?logo=github&label=Stars)
 - <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="MAN"></a>**[MAN]**  Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention.svg?logo=github&label=Stars)
@@ -503,6 +503,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [RANet](#RANet)                              | 59.4  | 102.0 | -  | -  | -  | -           |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
+| 2022--CVPR | [GauNet](#GauNet)                           | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
 | 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)               | 57.55 | 94.48 | -  | -  | -  | -           |
 | 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | **86.0** | -  | -  | -  | -         |
@@ -551,6 +552,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--CVPR | [ADCrowdNet](#ADCrowdNet)(AMG-DME)            | 7.6   | 13.9  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 7.6   | 13.0  |
 | 2019--CVPR | [PACNN](#PACNN)                               | 8.9   | 13.5  |
+| 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | 7.6   | 12.7  |
 | 2019--CVPR | [PACNN+CSRNet](#PACNN)                        | 7.6   | 11.8  |
 | 2019--ICCV | [BL](#BL)                                     | 7.7   | 12.7  |
 | 2019--ICCV | [CFF](#CFF)                                   | 7.2   | 12.2  |
@@ -574,6 +576,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2018--ECCV | [SANet](#SANet)                               | 82.1  | 272.6  |
 | 2019--ICCV | [MBTTBF](#MBTTBF)                             | 73.8  | 256.8  | 
 | 2018--CVPR | [CSRNet](#CSR)                                | 72.2  | 249.9  |
+| 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | 69.4  | 262.4  |
 | 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 
 | 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  |
@@ -621,6 +624,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [BL](#BL)                   | 88.7 | - | 154.8 | - | - | - | - | - | - |
 | 2020--ICPR | [M-SFANet](#M-SFANet)       | 85.6 | - | 151.23 | - | - | - | - | - | - |
 | 2021--AAAI | [SASNet](#SASNet)           | 85.2 | - | 147.3 | - | - | - | - | - | - |
+| 2022--CVPR | [GauNet](#GauNet)(VGG-16)   | 84.2 | - | 152.4 | - | - | - | - | - | - |
 | 2020--CVPR | **[ADSCNet](#ADSCNet)**     | **71.3** | - | **132.5** | - | - | - | - | - | - |
 
 
@@ -664,6 +668,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)                       | 233.1 | 300.9  |
 | 2019--ICCV | [BL](#BL)                                    | 229.3 | 308.2  |
 | 2019--ICCV | [DSSINet](#DSSINet)                          | 216.9 | 302.4  |
+| 2022--CVPR | [GauNet](#GauNet)(VGG-16)                    | 215.4 | 296.4  |
 | 2019--CVPR | [SFCN](#CCWld)                               | 214.2 | 318.2  |
 | 2019--CVPR | [CAN](#CAN)                                  | 212.2 | 243.7  |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 204.2 | 301.3  |

@@ -57,6 +57,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications [[paper](https://arxiv.org/abs/2207.10155)]
 - Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation [[paper](https://arxiv.org/abs/2206.10075)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]

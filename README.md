@@ -70,7 +70,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Counting with Adaptive Auxiliary Learning [[paper](https://arxiv.org/abs/2203.04061)][[code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning)]![GitHub stars](https://img.shields.io/github/stars/smallmax00/Counting_With_Adaptive_Auxiliary_Learning.svg?logo=github&label=Stars)
 - CrowdFormer: Weakly-supervised Crowd counting with Improved Generalizability [[paper](https://arxiv.org/abs/2203.03768)]
 - FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion [[paper](https://arxiv.org/abs/2202.13660)][[code](https://github.com/YimingMa/FusionCount)]![GitHub stars](https://img.shields.io/github/stars/YimingMa/FusionCount.svg?logo=github&label=Stars)
-- An End-to-End Transformer Model for Crowd Localization [[paper](https://arxiv.org/abs/2202.13065)]
 - A Unified Multi-Task Learning Framework of Real-Time Drone Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2202.03843)]
 - Iterative Correlation-based Feature Refinement for Few-shot Counting [[paper](https://arxiv.org/abs/2201.08959)]
 - S2FPR: Crowd Counting via Self-Supervised Coarse to Fine Feature Pyramid Ranking [[paper](https://arxiv.org/abs/2201.04819)][[code](https://github.com/bridgeqiqi/S2FPR)]![GitHub stars](https://img.shields.io/github/stars/bridgeqiqi/S2FPR.svg?logo=github&label=Stars)
@@ -129,6 +128,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
+- <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/CLTR.svg?logo=github&label=Stars)[[project](https://dk-liang.github.io/CLTR/)]
 - <a name="DC"></a>**[DC]** Discrete-Constrained Regression for Local Counting Models (**ECCV**) [[paper](https://arxiv.org/abs/2207.09865)]
 - <a name="DMBA"></a>**[DMBA]** Backdoor Attacks on Crowd Counting (**ACM MM**) [[paper](https://arxiv.org/abs/2205.11398)][[code](https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name=""></a>Semi-supervised-Crowd-Counting-via-Density-Agency (**ACM MM**) [[paper]()]

@@ -82,7 +82,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
 - LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
 - CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
-- Harnessing Perceptual Adversarial Patches for Crowd Counting [[paper](https://arxiv.org/abs/2109.07986)]
 
 <details>
 <summary>Earlier ArXiv Papers</summary>
@@ -131,7 +130,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
-- <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
+- <a name="PAP"></a>**[PAP]** Harnessing Perceptual Adversarial Patches for Crowd Counting (**ACM CCS**) [[paper](https://arxiv.org/abs/2109.07986)]
 - <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/CLTR.svg?logo=github&label=Stars)[[project](https://dk-liang.github.io/CLTR/)]
 - <a name=""></a> Calibration-free Multi-view Crowd Counting (**ECCV**) [[paper]()]
 - <a name="DC"></a>**[DC]** Discrete-Constrained Regression for Local Counting Models (**ECCV**) [[paper](https://arxiv.org/abs/2207.09865)]
@@ -155,6 +154,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
 - <a name="NDConv"></a>**[NDConv]** An Improved Normed-Deformable Convolution for Crowd Counting (**SPL**) [[paper](https://arxiv.org/abs/2206.08084)]
 - <a name="RAN"></a>**[RAN]** Region-Aware Network: Model Human’s Top-Down Visual Perception Mechanism for Crowd Counting (**Neural Networks**) [[paper](https://arxiv.org/abs/2106.12163)]
 - <a name="HANet"></a>**[HANet]** Hybrid attention network based on progressive embedding scale-context for crowd counting (**Information Sciences**) [[paper](https://arxiv.org/abs/2106.02324)]

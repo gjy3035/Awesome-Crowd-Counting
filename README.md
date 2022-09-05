@@ -99,7 +99,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - WheatNet: A Lightweight Convolutional Neural Network for High-throughput Image-based Wheat Head Detection and Counting [[paper](https://arxiv.org/abs/2103.09408)]
 - Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting [[paper](https://arxiv.org/abs/2104.13946)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
-- Focal Inverse Distance Transform Maps for Crowd Localization and Counting in Dense Crowd [[paper](https://arxiv.org/abs/2102.07925)]  [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars)
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal [[paper](https://arxiv.org/abs/2012.15685)]
@@ -132,6 +131,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
+- <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
 - <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/CLTR.svg?logo=github&label=Stars)[[project](https://dk-liang.github.io/CLTR/)]
 - <a name=""></a> Calibration-free Multi-view Crowd Counting (**ECCV**) [[paper]()]
 - <a name="DC"></a>**[DC]** Discrete-Constrained Regression for Local Counting Models (**ECCV**) [[paper](https://arxiv.org/abs/2207.09865)]

@@ -162,6 +162,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="STNet"></a>**[STNet]** STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9681311)]
 - <a name="SGANet"></a>**[SGANet]** Crowd Counting via Segmentation Guided Attention Networks and Curriculum Loss (**TITS**) [[paper](https://ieeexplore.ieee.org/document/9678116)]
 - <a name="SSR-HEF"></a>**[SSR-HEF]** SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing (**TII**) [[paper](https://arxiv.org/abs/2204.07406)]
+- <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3465455)]
+- <a name="SSCC"></a> **[SSCC]** 	Scene-specific crowd counting using synthetic training images (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321006609)]
 
 ### 2021
 ### Conference
@@ -220,7 +222,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="ScSiNet"></a> **[ScSiNet]** Interlayer and Intralayer Scale Aggregation for Scale-invariant Crowd Counting (**Neurocomputing**) [[paper](https://arxiv.org/abs/2005.11943)]
 - <a name="PRM"></a> **[PRM]** Towards More Effective PRM-based Crowd Counting via A Multi-resolution Fusion and Attention Network (**Neurocomputing**) [[paper](https://arxiv.org/abs/2112.09664)]
 - <a name="DeepCorn"></a> **[DeepCorn]** DeepCorn: A Semi-Supervised Deep Learning Method for High-Throughput Image-Based Corn Kernel Counting and Yield Estimation (**Knowledge-Based Systems**) [[paper](https://arxiv.org/abs/2007.10521)]
-- <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**)
 
 ### 2020
 ### Conference

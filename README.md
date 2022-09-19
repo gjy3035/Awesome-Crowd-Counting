@@ -11,6 +11,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Misc
 
 ### News
+- [2022.09] The VSCrowd Dataset is released.
 - [2022.01] The FUDAN-UCC Dataset is released.
 - [2021.04] The RGBT-CC Benchmark is released.
 - [2020.04] The JHU-CROWD++ Dataset is released.
@@ -154,6 +155,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TMM**)[[paper]([https://ieeexplore.ieee.org/document/9875106](https://ieeexplore.ieee.org/document/9893023/))] [[code]([https://github.com/dk-liang/FIDTM](https://github.com/HopLee6/VSCrowd-Dataset))]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 
 - <a name="LibraNet+DQN"></a> **[LibraNet+DQN]** Counting Crowd by Weighing Counts: A Sequential Decision-Making Perspective (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9887967/)][[code](https://git.io/libranet)](extension of [LibraNet](#LibraNet))
 - <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
 - <a name="NDConv"></a>**[NDConv]** An Improved Normed-Deformable Convolution for Crowd Counting (**SPL**) [[paper](https://arxiv.org/abs/2206.08084)]

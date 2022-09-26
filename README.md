@@ -96,7 +96,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)]
 - Crowd Counting by Self-supervised Transfer Colorization Learning and Global Prior Classification [[paper](https://arxiv.org/abs/2105.09684)]
-- Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead [[paper](https://arxiv.org/abs/2105.09121)]
 - WheatNet: A Lightweight Convolutional Neural Network for High-throughput Image-based Wheat Head Detection and Counting [[paper](https://arxiv.org/abs/2103.09408)]
 - Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting [[paper](https://arxiv.org/abs/2104.13946)]
 - Multi-channel Deep Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2103.09553)]
@@ -168,6 +167,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="SSR-HEF"></a>**[SSR-HEF]** SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing (**TII**) [[paper](https://arxiv.org/abs/2204.07406)]
 - <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3465455)]
 - <a name="SSCC"></a> **[SSCC]** 	Scene-specific crowd counting using synthetic training images (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321006609)]
+- <a name="SL-ViT"></a> **[SL-ViT]** Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead (**Neural Networks**) [[paper](https://arxiv.org/abs/2105.09121)]
 
 ### 2021
 ### Conference

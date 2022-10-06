@@ -132,10 +132,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
-- <a name=""></a>**[]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**)
-- <a name=""></a>**[]** RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)
-- <a name=""></a>**[]** Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**)
-- <a name=""></a>**[]** Scale-Prior Deformable Convolution for Exemplar-Guided Class-Agnostic Counting (**BMVC**)
+- <a name=""></a> Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**)
+- <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)
+- <a name=""></a> Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**)
+- <a name=""></a> Scale-Prior Deformable Convolution for Exemplar-Guided Class-Agnostic Counting (**BMVC**)
 - <a name="PAP"></a>**[PAP]** Harnessing Perceptual Adversarial Patches for Crowd Counting (**ACM CCS**) [[paper](https://arxiv.org/abs/2109.07986)]
 - <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/CLTR.svg?logo=github&label=Stars)[[project](https://dk-liang.github.io/CLTR/)]
 - <a name=""></a> Calibration-free Multi-view Crowd Counting (**ECCV**)

@@ -132,7 +132,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
-- <a name=""></a> Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**)
+- <a name="CUT"></a>**[CUT]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**) [[paper](https://www.researchgate.net/publication/364030579_Segmentation_Assisted_U-shaped_Multi-scale_Transformer_for_Crowd_Counting)]
 - <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)
 - <a name=""></a> Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**)
 - <a name=""></a> Scale-Prior Deformable Convolution for Exemplar-Guided Class-Agnostic Counting (**BMVC**)

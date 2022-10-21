@@ -58,6 +58,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Inception-Based Crowd Counting -- Being Fast while Remaining Accurate [[paper](https://arxiv.org/abs/2210.09796)]
 - Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection [[paper](https://arxiv.org/abs/2209.13801)]
 - Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives [[paper](https://arxiv.org/abs/2209.07271)]
 - Crowd Counting on Heavily Compressed Images with Curriculum Pre-Training [[paper](https://arxiv.org/abs/2208.07075)]
@@ -132,7 +133,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
-- <a name=""></a> Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**)
+- <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**)[[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](https://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)
 - <a name="CUT"></a>**[CUT]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**) [[paper](https://www.researchgate.net/publication/364030579_Segmentation_Assisted_U-shaped_Multi-scale_Transformer_for_Crowd_Counting)]
 - <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)
 - <a name=""></a> Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**)

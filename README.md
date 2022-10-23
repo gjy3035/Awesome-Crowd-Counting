@@ -162,6 +162,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**)[[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 
 - <a name="CLRNet"></a>**[CLRNet]** CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos (**T-NNLS**)[[paper](https://ieeexplore.ieee.org/document/9913683)]
 - <a name="AGCCM"></a>**[AGCCM]** Attention-guided Collaborative Counting (**TIP**)[[paper](https://ieeexplore.ieee.org/document/9906560)]
 - <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)][[code](https://github.com/HopLee6/VSCrowd-Dataset)]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 

@@ -58,6 +58,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning [[paper](https://arxiv.org/abs/2211.10040)]
+- DroneNet: Crowd Density Estimation using Self-ONNs for Drones [[paper](https://arxiv.org/abs/2211.07137)]
+- Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network [[paper](https://arxiv.org/abs/2211.06835)]
 - Inception-Based Crowd Counting -- Being Fast while Remaining Accurate [[paper](https://arxiv.org/abs/2210.09796)]
 - Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection [[paper](https://arxiv.org/abs/2209.13801)]
 - Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives [[paper](https://arxiv.org/abs/2209.07271)]

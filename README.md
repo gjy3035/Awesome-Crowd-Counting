@@ -19,7 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Call for Papers
 - [Transportation Research Part C] Special Issue on: Applications of artificial intelligence, computer vision, physics and econometrics modelling methods in pedestrian traffic modelling and crowd safety [[Link](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies/about/call-for-papers#call-for-papers-applications-of-artificial-intelligence-computer-vision-physics-and-econometrics-modelling-methods-in-pedestrian-traffic-modelling-and-crowd-safety)]. Deadline: April 30th, 2023.
-- [IET Image Processing] Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
+- [IET Image Processing] ~~Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]~~
 
 ### Challenge
 - [[NWPU-Crowd Counting](https://www.crowdbenchmark.com/nwpucrowd.html)] Crowd counting. Deadline: none.

@@ -19,7 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Call for Papers
 - [Transportation Research Part C] Special Issue on: Applications of artificial intelligence, computer vision, physics and econometrics modelling methods in pedestrian traffic modelling and crowd safety [[Link](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies/about/call-for-papers#call-for-papers-applications-of-artificial-intelligence-computer-vision-physics-and-econometrics-modelling-methods-in-pedestrian-traffic-modelling-and-crowd-safety)]. Deadline: April 30th, 2023.
-- [IET Image Processing] ~~Special Issue on: Crowd Understanding and Analysis [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]~~
+- [IET Image Processing] ~~Special Issue on: Crowd Understanding and Analysis~~ [[Link](https://digital-library.theiet.org/content/journals/iet-ipr/info/spl-issues;jsessionid=rfnb4mhi25p6.x-iet-live-01)] [[PDF](https://digital-library.theiet.org/files/IET_IPR_CFP_CUA.pdf)]
 
 ### Challenge
 - [[NWPU-Crowd Counting](https://www.crowdbenchmark.com/nwpucrowd.html)] Crowd counting. Deadline: none.
@@ -59,6 +59,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects [[paper](https://arxiv.org/abs/2212.02248)]
 - DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning [[paper](https://arxiv.org/abs/2211.10040)]
 - DroneNet: Crowd Density Estimation using Self-ONNs for Drones [[paper](https://arxiv.org/abs/2211.07137)]
 - Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network [[paper](https://arxiv.org/abs/2211.06835)]
@@ -134,6 +135,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/abs/1801.06642)]
 
 </details>
+
+### 2023
+### Conference
+- <a name="DGCC"></a>**[DGCC]** Domain-general Crowd Counting in Unseen Scenarios (**AAAI**)[[paper](https://arxiv.org/abs/2212.02573)] [[code](https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios.svg?logo=github&label=Stars)
 
 ### 2022
 ### Conference

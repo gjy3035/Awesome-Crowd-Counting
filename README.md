@@ -80,6 +80,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Self-supervised Domain Adaptation in Crowd Counting [[paper](https://arxiv.org/abs/2206.03431)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
+
+<details>
+<summary>Earlier ArXiv Papers</summary>
+
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]
@@ -94,10 +98,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - PANet: Perspective-Aware Network with Dynamic Receptive Fields and Self-Distilling Supervision for Crowd Counting [[paper](https://arxiv.org/abs/2111.00406)]
 - LDC-Net: A Unified Framework for Localization, Detection and Counting in Dense Crowds [[paper](https://arxiv.org/abs/2110.04727)]
 - CCTrans: Simplifying and Improving Crowd Counting with Transformer [[paper](https://arxiv.org/abs/2109.14483)]
-
-<details>
-<summary>Earlier ArXiv Papers</summary>
-
 - S4-Crowd: Semi-Supervised Learning with Self-Supervised Regularisation for Crowd Counting [[paper](https://arxiv.org/abs/2108.13969)]
 - Fine-grained Domain Adaptive Crowd Counting via Point-derived Segmentation [[paper](https://arxiv.org/abs/2108.02980)]
 - Reducing Spatial Labeling Redundancy for Semi-supervised Crowd Counting [[paper](https://arxiv.org/abs/2108.02970)]

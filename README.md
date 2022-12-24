@@ -59,6 +59,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Mask Focal Loss for dense crowd counting with canonical object detection networks [[paper](https://arxiv.org/abs/2212.11542)]
+- CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking [[paper](https://arxiv.org/abs/2212.05861)]
+- Progressive Multi-resolution Loss for Crowd Counting [[paper](https://arxiv.org/abs/2212.04127)]
 - Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects [[paper](https://arxiv.org/abs/2212.02248)]
 - DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning [[paper](https://arxiv.org/abs/2211.10040)]
 - DroneNet: Crowd Density Estimation using Self-ONNs for Drones [[paper](https://arxiv.org/abs/2211.07137)]
@@ -168,6 +171,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="ESA-Net"></a>**[ESA-Net]** Enhancing and Dissecting Crowd Counting By Synthetic Data (**ICASSP**) [[paper](https://arxiv.org/abs/2201.08992)]
 - <a name="MPS"></a>**[MPS]** Multiscale Crowd Counting and Localization By Multitask Point Supervision (**ICASSP**) [[paper](https://arxiv.org/abs/2202.09942)][[code](https://github.com/RCVLab-AiimLab/crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/RCVLab-AiimLab/crowd_counting.svg?logo=github&label=Stars)
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
+- <a name="HDNet"></a>**[HDNet]** HDNet: A Hierarchically Decoupled Network for Crowd Counting (**ICME**) [[paper](https://arxiv.org/abs/2212.05722)]
 
 ### Journal
 - <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**)[[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 

@@ -59,6 +59,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- A Unified Object Counting Network with Object Occupation Prior [[paper](https://arxiv.org/abs/2212.14193)]
 - Mask Focal Loss for dense crowd counting with canonical object detection networks [[paper](https://arxiv.org/abs/2212.11542)]
 - CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking [[paper](https://arxiv.org/abs/2212.05861)]
 - Progressive Multi-resolution Loss for Crowd Counting [[paper](https://arxiv.org/abs/2212.04127)]

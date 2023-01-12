@@ -18,6 +18,7 @@
 
 | Name | Year | Attributes | Avg. Resolution | No. Samples | No. Instances | Avg. Cnt | Link | 
 | --- | --- |  --- | --- |--- | --- | --- | --- |
+| GTA Head| 2022 | Synthetic, Localization(Box Label) | 1080\*1920 | 5,098 | 1,732,505 | 340 | [[Homepage](https://github.com/gkw0010/GTAV_Head-dataset)] |
 | VSCrowd | 2022 | Video, Localization | 1080\*1920 | 62,938 | 2,344,276 | 37 | [[Download](https://github.com/HopLee6/VSCrowd-Dataset)] |
 | DISCO | 2020 | Audiovisual, extreme conditions | 1080\*1920 | 1,935 | 170,270 | 88 | [[Download](https://doi.org/10.5281/zenodo.3828467)] |
 | Crowd Surveillance | 2019 | Free scenes | 840\*1342 | 13,945 | 386,513 | 28 | [[Homepage](https://ai.baidu.com/broad/introduction)] |

@@ -148,7 +148,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 - <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**)[[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](https://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)
 - <a name="CUT"></a>**[CUT]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**) [[paper](https://www.researchgate.net/publication/364030579_Segmentation_Assisted_U-shaped_Multi-scale_Transformer_for_Crowd_Counting)]
-- <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)
+- <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)[[paper](https://arxiv.org/abs/2301.03033)] [[code](https://github.com/liuzywen/RGBTCC)]![GitHub stars](https://img.shields.io/github/stars/liuzywen/RGBTCC.svg?logo=github&label=Stars)
 - <a name=""></a> Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**)
 - <a name=""></a> Scale-Prior Deformable Convolution for Exemplar-Guided Class-Agnostic Counting (**BMVC**)
 - <a name="PAP"></a>**[PAP]** Harnessing Perceptual Adversarial Patches for Crowd Counting (**ACM CCS**) [[paper](https://arxiv.org/abs/2109.07986)]

@@ -146,7 +146,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### Journal
 - <a name="MTCP"></a>**[MTCP]** Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (**T-NNLS**)[[paper]()] [[code](https://github.com/ljq2000/MTCP)]![GitHub stars](https://img.shields.io/github/stars/ljq2000/MTCP.svg?logo=github&label=Stars)
-- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](https://img.shields.io/github/stars/uzhe71/STGN.svg?logo=github&label=Stars)
+- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](https://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
 - <a name="CmCaF"></a>**[CmCaF]** RGB-D Crowd Counting With Cross-Modal Cycle-Attention Fusion and Fine-Coarse Supervision (**TII**) [[paper](https://ieeexplore.ieee.org/document/9765786)]
 - <a name="STC-Crowd"></a>**[STC-Crowd]** Semi-supervised Crowd Counting with Spatial Temporal Consistency and Pseudo-label Filter (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/10032602)]
 - <a name="LMSFFNet"></a>**[LMSFFNet]** A Lightweight Multiscale Feature Fusion Network for Remote Sensing Object Counting (**TGRS**)[[paper](https://ieeexplore.ieee.org/document/10021616)]

@@ -74,16 +74,17 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting [[paper](https://arxiv.org/abs/2208.06761)]
 - Multi-scale Feature Aggregation for Crowd Counting [[paper](https://arxiv.org/abs/2208.05256)]
 - Redesigning Multi-Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2208.02894)][[code](https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
+
+<details>
+<summary>Earlier ArXiv Papers</summary>
+  
+  
 - Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications [[paper](https://arxiv.org/abs/2207.10155)]
 - Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation [[paper](https://arxiv.org/abs/2206.10075)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
-
-<details>
-<summary>Earlier ArXiv Papers</summary>
-
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]

@@ -615,41 +615,25 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2020--ICPR | **[M-SFANet+M-SegNet](#M-SFANet)**            | **6.32** | 10.06 |
 | 2021--AAAI | **[SASNet](#SASNet)**                         | 6.35  | **9.9** |
 
-### JHU-CROWD++(Val Set)
+### JHU-CROWD++
 
-| Year-Conference/Journal | Methods                          | MAE   | MSE   |
-| ---- | ---------------- | ----- | ---- |
-| 2016--CVPR | [MCNN](#MCNN)                                 | 160.6 | 377.7  |
-| 2017--AVSS | [CMTL](#CMTL)                                 | 138.1 | 379.5  |
-| 2019--ICCV | [DSSINet](#DSSINet)                           | 116.6 | 317.4  |
-| 2019--CVPR | [CAN](#CAN)                                   | 89.5  | 239.3  |
-| 2020--TPAMI | [LSC-CNN](#LSC-CNN)                          | 87.3  | 309.0  | 
-| 2018--ECCV | [SANet](#SANet)                               | 82.1  | 272.6  |
-| 2019--ICCV | [MBTTBF](#MBTTBF)                             | 73.8  | 256.8  | 
-| 2018--CVPR | [CSRNet](#CSR)                                | 72.2  | 249.9  |
+| Year-Conference/Journal | Methods                          | MAE(Val Set)   | MSE(Val Set)   | MAE(Test Set)   | MSE(Test Set)   |
+| ---- | ---------------- | ----- | ---- | ----- | ---- |
+| 2016--CVPR | [MCNN](#MCNN)                                 | 160.6 | 377.7  | 188.9 | 483.4  |
+| 2017--AVSS | [CMTL](#CMTL)                                 | 138.1 | 379.5  | 157.8 | 490.4  |
+| 2019--ICCV | [DSSINet](#DSSINet)                           | 116.6 | 317.4  | 133.5 | 416.5  |
+| 2019--CVPR | [CAN](#CAN)                                   | 89.5  | 239.3  | 100.1 | 314.0  |
+| 2020--TPAMI | [LSC-CNN](#LSC-CNN)                          | 87.3  | 309.0  | 112.7 | 454.4  |  
+| 2018--ECCV | [SANet](#SANet)                               | 82.1  | 272.6  | 91.1  | 320.4  |
+| 2019--ICCV | [MBTTBF](#MBTTBF)                             | 73.8  | 256.8  | 81.8  | 299.1  |  
+| 2018--CVPR | [CSRNet](#CSR)                                | 72.2  | 249.9  | 85.9  | 309.2  |
 | 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | 69.4  | 262.4  |
-| 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  |
-| 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 
-| 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  |
-| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | **57.6**  | 244.4  |
+| 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  | 82.3  | 328.0  |
+| 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 77.5  | 297.6  |  
+| 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  | 75.0  | 299.9  |
+| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | **57.6**  | 244.4  | **71.0** | **278.6**  |
 
 
-### JHU-CROWD++(Test Set)
-
-| Year-Conference/Journal | Methods                          | MAE   | MSE   |
-| ---- | ---------------- | ----- | ---- |
-| 2016--CVPR | [MCNN](#MCNN)                                 | 188.9 | 483.4  |
-| 2017--AVSS | [CMTL](#CMTL)                                 | 157.8 | 490.4  |
-| 2019--ICCV | [DSSINet](#DSSINet)                           | 133.5 | 416.5  |
-| 2020--TPAMI | [LSC-CNN](#LSC-CNN)                          | 112.7 | 454.4  | 
-| 2019--CVPR | [CAN](#CAN)                                   | 100.1 | 314.0  |
-| 2018--ECCV | [SANet](#SANet)                               | 91.1  | 320.4  |
-| 2018--CVPR | [CSRNet](#CSR)                                | 85.9  | 309.2  |
-| 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 82.3  | 328.0  |
-| 2019--ICCV | [MBTTBF](#MBTTBF)                             | 81.8  | 299.1  | 
-| 2019--CVPR | [SFCN](#CCWld)                                | 77.5  | 297.6  | 
-| 2019--ICCV | [BL](#BL)                                     | 75.0  | 299.9  |
-| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | **71.0** | **278.6**  |
 
 ### UCF-QNRF
 

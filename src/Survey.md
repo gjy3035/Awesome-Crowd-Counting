@@ -1,7 +1,7 @@
 # Survey Papers
 
-- Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives (**Image and Vision Computing**) [[paper](https://arxiv.org/abs/2209.07271)]
-- A survey on deep learning-based single image crowd counting: Network design, loss function and supervisory signal (**Neurocomputing**) [[paper](https://arxiv.org/abs/2012.15685)]
+- Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives (**Image and Vision Computing2023**) [[paper](https://arxiv.org/abs/2209.07271)]
+- A survey on deep learning-based single image crowd counting: Network design, loss function and supervisory signal (**Neurocomputing2022**) [[paper](https://arxiv.org/abs/2012.15685)]
 - CNN-based Density Estimation and Crowd Counting: A Survey (**arXiv 2020.3**) [[paper](https://arxiv.org/abs/2003.12783)]
 - Beyond Counting：Comparisons of Density Maps for Crowd Analysis Tasks (**T-CSVT2018**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8360001)][[arxiv](https://arxiv.org/abs/1705.10118)]
 - A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation (**PR Letters2018**) [[paper](https://arxiv.org/abs/1707.01202)]

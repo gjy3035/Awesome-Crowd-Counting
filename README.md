@@ -110,9 +110,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
 - PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
-- Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
-- Completely Self-Supervised Crowd Counting via Distribution Matching [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
 - Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)]
 - Dense Crowds Detection and Counting with a Lightweight Architecture [[paper](https://arxiv.org/abs/2007.06630)]
@@ -152,6 +150,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
+- <a name="CSS-CCNN"></a>**[CSS-CCNN]** Completely Self-Supervised Crowd Counting via Distribution Matching (**ECCV**) [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](https://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - <a name="TSFADet"></a>**[TSFADet]** Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection (**ECCV**) [[paper](https://arxiv.org/abs/2209.13801)]
 - <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**) [[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](https://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)
 - <a name="CUT"></a>**[CUT]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**) [[paper](https://www.researchgate.net/publication/364030579_Segmentation_Assisted_U-shaped_Multi-scale_Transformer_for_Crowd_Counting)]
@@ -185,10 +184,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="FusionCount"></a>**[FusionCount]** FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion (**ICIP**) [[paper](https://arxiv.org/abs/2202.13660)][[code](https://github.com/YimingMa/FusionCount)]![GitHub stars](https://img.shields.io/github/stars/YimingMa/FusionCount.svg?logo=github&label=Stars)
 
 ### Journal
-- <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**)[[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 
-- <a name="CLRNet"></a>**[CLRNet]** CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos (**T-NNLS**)[[paper](https://ieeexplore.ieee.org/document/9913683)]
-- <a name="AGCCM"></a>**[AGCCM]** Attention-guided Collaborative Counting (**TIP**)[[paper](https://ieeexplore.ieee.org/document/9906560)]
-- <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)][[code](https://github.com/HopLee6/VSCrowd-Dataset)]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 
+- <a name="MVMS"></a>**[MVMS]** Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes (**IJCV**) [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
+- <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 
+- <a name="CLRNet"></a>**[CLRNet]** CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9913683)]
+- <a name="AGCCM"></a>**[AGCCM]** Attention-guided Collaborative Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9906560)]
+- <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9875106)][[code](https://github.com/HopLee6/VSCrowd-Dataset)]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 
 - <a name="LibraNet+DQN"></a> **[LibraNet+DQN]** Counting Crowd by Weighing Counts: A Sequential Decision-Making Perspective (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9887967/)][[code](https://git.io/libranet)](extension of [LibraNet](#LibraNet))
 - <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
 - <a name="NDConv"></a>**[NDConv]** An Improved Normed-Deformable Convolution for Crowd Counting (**SPL**) [[paper](https://arxiv.org/abs/2206.08084)]

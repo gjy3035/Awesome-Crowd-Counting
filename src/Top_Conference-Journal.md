@@ -3,13 +3,14 @@ This repository is for listing papers of crowd counting published on CVPR, ICCV,
 
 ## CVPR 
 
-- <a name="ChfL"></a>**[ChfL]** Crowd Counting in the Frequency Domain (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shu_Crowd_Counting_in_the_Frequency_Domain_CVPR_2022_paper.pdf)][[code](https://github.com/wbshu/Crowd_Counting_in_the_Frequency_Domain)]![GitHub stars](https://img.shields.io/github/stars/wbshu/Crowd_Counting_in_the_Frequency_Domain.svg?logo=github&label=Stars)
-- <a name="GauNet"></a>**[GauNet]** Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [[paper](https://arxiv.org/abs/2206.05253)][[code](https://github.com/zhiqic/Rethinking-Counting)]![GitHub stars](https://img.shields.io/github/stars/zhiqic/Rethinking-Counting.svg?logo=github&label=Stars)
-- <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/DRNet.svg?logo=github&label=Stars)
-- <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/weizheliu/Cross-Domain-Crowd-Counting.svg?logo=github&label=Stars)
-- <a name="MAN"></a>**[MAN]** Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention.svg?logo=github&label=Stars)
-- <a name="BLA"></a>**[BLA]** Bi-level Alignment for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2205.05844)][[code](https://github.com/Yankeegsj/BLA)]![GitHub stars](https://img.shields.io/github/stars/Yankeegsj/BLA.svg?logo=github&label=Stars)
-- <a name="BMNet"></a>**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (**CVPR**)[[paper](https://arxiv.org/abs/2203.08354)][[code](https://github.com/flyinglynx/Bilinear-Matching-Network)]![GitHub stars](https://img.shields.io/github/stars/flyinglynx/Bilinear-Matching-Network.svg?logo=github&label=Stars)
+
+- <a name="ChfL"></a>**[ChfL]** Crowd Counting in the Frequency Domain (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shu_Crowd_Counting_in_the_Frequency_Domain_CVPR_2022_paper.pdf)][[code](https://github.com/wbshu/Crowd_Counting_in_the_Frequency_Domain)]
+- <a name="GauNet"></a>**[GauNet]** Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [[paper](https://arxiv.org/abs/2206.05253)][[code](https://github.com/zhiqic/Rethinking-Counting)]
+- <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]
+- <a name="CDCC"></a>**[CDCC]** Leveraging Self-Supervision for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2103.16291)][[code](https://github.com/weizheliu/Cross-Domain-Crowd-Counting)]
+- <a name="MAN"></a>**[MAN]** Boosting Crowd Counting via Multifaceted Attention (**CVPR**) [[paper](https://arxiv.org/abs/2203.02636)][[code](https://github.com/LoraLinH/Boosting-Crowd-Counting-via-Multifaceted-Attention)]
+- <a name="BLA"></a>**[BLA]** Bi-level Alignment for Cross-Domain Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2205.05844)][[code](https://github.com/Yankeegsj/BLA)]
+- <a name="BMNet"></a>**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting (**CVPR**)[[paper](https://arxiv.org/abs/2203.08354)][[code](https://github.com/flyinglynx/Bilinear-Matching-Network)]
 - <a name="GLoss"></a>**[GLoss]** A Generalized Loss Function for Crowd Counting and Localization (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf)]
 - <a name="CVCS"></a>**[CVCS]** Cross-View Cross-Scene Multi-View Crowd Counting (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf)]
 - <a name="STANet"></a> **[STANet]** Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark (**CVPR**) [[paper](https://arxiv.org/abs/2105.02440)][[code](https://github.com/VisDrone/DroneCrowd)]
@@ -51,9 +52,9 @@ Incrementally Growing CNN (**CVPR**) [[paper](http://openaccess.thecvf.com/conte
 - <a name="URC"></a>**[URC]** Crowd Counting With Partial Annotations in an Image (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Crowd_Counting_With_Partial_Annotations_in_an_Image_ICCV_2021_paper.pdf)]
 - <a name="MFDC"></a>**[MFDC]** Exploiting Sample Correlation for Crowd Counting With Multi-Expert Network (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Exploiting_Sample_Correlation_for_Crowd_Counting_With_Multi-Expert_Network_ICCV_2021_paper.pdf)]
 - <a name="SDNet"></a>**[SDNet]** Towards A Universal Model for Cross-Dataset Crowd Counting (**ICCV**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_Towards_a_Universal_Model_for_Cross-Dataset_Crowd_Counting_ICCV_2021_paper.pdf)]
-- <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]![GitHub stars](https://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-P2PNet.svg?logo=github&label=Stars)
-- <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]![GitHub stars](https://img.shields.io/github/stars/TencentYoutuResearch/CrowdCounting-UEPNet.svg?logo=github&label=Stars)
-- <a name="SUA"></a>**[SUA]** Spatial Uncertainty-Aware Semi-Supervised Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.13271)][[code](https://github.com/smallmax00/SUA_crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/smallmax00/SUA_crowd_counting.svg?logo=github&label=Stars)
+- <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]
+- <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]
+- <a name="SUA"></a>**[SUA]** Spatial Uncertainty-Aware Semi-Supervised Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.13271)][[code](https://github.com/smallmax00/SUA_crowd_counting)]
 - <a name="DKPNet"></a>**[DKPNet]** Variational Attention: Propagating Domain-Specific Knowledge for Multi-Domain Learning in Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2108.08023)][[code](https://github.com/Zhaoyi-Yan/DKPNet)]
 - <a name="P2PNet"></a>**[P2PNet]** Rethinking Counting and Localization in Crowds:A Purely Point-Based Framework (**ICCV(Oral)**) [[paper](https://arxiv.org/abs/2107.12746)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet)]
 - <a name="UEPNet"></a>**[UEPNet]** Uniformity in Heterogeneity:Diving Deep into Count Interval Partition for Crowd Counting (**ICCV**) [[paper](https://arxiv.org/abs/2107.12619)][[code](https://github.com/TencentYoutuResearch/CrowdCounting-UEPNet)]
@@ -80,7 +81,7 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 
 ## ECCV
 
-- <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/CLTR.svg?logo=github&label=Stars)[[project](https://dk-liang.github.io/CLTR/)]
+- <a name="CLTR"></a>**[CLTR]** An End-to-End Transformer Model for Crowd Localization (**ECCV**) [[paper](https://arxiv.org/abs/2202.13065)] [[code](https://github.com/dk-liang/CLTR)]
 - <a name="CF-MVCC"></a>**[CF-MVCC]** Calibration-free Multi-view Crowd Counting (**ECCV**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690224.pdf)]
 - <a name="DC"></a>**[DC]** Discrete-Constrained Regression for Local Counting Models (**ECCV**) [[paper](https://arxiv.org/abs/2207.09865)]
 - <a name="AMSNet"></a> **[AMSNet]** NAS-Count: Counting-by-Density with Neural Architecture Search (**ECCV**) [[paper](https://arxiv.org/abs/2003.00217)]
@@ -102,7 +103,7 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 
 ## T-PAMI
 
-- <a name="DPDNet"></a>**[DPDNet]** Locating and Counting Heads in Crowds With a Depth Prior (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601215)] [[code](https://github.com/svip-lab/Locating_Counting_with_a_Depth_Prior)]![GitHub stars](https://img.shields.io/github/stars/svip-lab/Locating_Counting_with_a_Depth_Prior.svg?logo=github&label=Stars)
+- <a name="DPDNet"></a>**[DPDNet]** Locating and Counting Heads in Crowds With a Depth Prior (**T-PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601215)] [[code](https://github.com/svip-lab/Locating_Counting_with_a_Depth_Prior)]
 - <a name="EPF"></a>**[EPF]** Counting People by Estimating People Flows (**T-PAMI**) [[paper](https://arxiv.org/abs/2012.00452)][[code](https://github.com/weizheliu/People-Flows)]
 - <a name="LA-Batch"></a>**[LA-Batch]** Locality-Aware Crowd Counting (**T-PAMI**) [[paper](https://www.computer.org/csdl/journal/tp/5555/01/09346018/1qV39sNsjWU)]
 - <a name="JHU-CROWD"></a> **[JHU-CROWD]** JHU-CROWD++: Large-Scale Crowd Counting Dataset and A Benchmark Method (**T-PAMI**) [[paper](https://arxiv.org/abs/2004.03597)](extension of [CG-DRCN](#CG-DRCN))
@@ -115,4 +116,4 @@ for Crowd Density Estimation (**ICCV**) [[paper](http://openaccess.thecvf.com/co
 ## IJCV
 
 - <a name="PWCU"></a> **[PWCU]** Pixel-wise Crowd Understanding via Synthetic Data (**IJCV**) [[paper](https://arxiv.org/abs/2007.16032)]
-- <a name="AutoScale"></a>**[AutoScale]** AutoScale: Learning to Scale for Crowd Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-021-01542-z)] (extension of [L2SM](#L2SM))[[code](https://github.com/dk-liang/AutoScale)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/AutoScale.svg?logo=github&label=Stars)
+- <a name="AutoScale"></a>**[AutoScale]** AutoScale: Learning to Scale for Crowd Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-021-01542-z)] (extension of [L2SM](#L2SM))[[code](https://github.com/dk-liang/AutoScale)]

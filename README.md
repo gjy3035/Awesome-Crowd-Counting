@@ -78,7 +78,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation [[paper](https://arxiv.org/abs/2206.10075)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
-- Self-supervised Domain Adaptation in Crowd Counting [[paper](https://arxiv.org/abs/2206.03431)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
 
@@ -184,6 +183,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="MPS"></a>**[MPS]** Multiscale Crowd Counting and Localization By Multitask Point Supervision (**ICASSP**) [[paper](https://arxiv.org/abs/2202.09942)][[code](https://github.com/RCVLab-AiimLab/crowd_counting)]![GitHub stars](https://img.shields.io/github/stars/RCVLab-AiimLab/crowd_counting.svg?logo=github&label=Stars)
 - <a name="TAFNet"></a>**[TAFNet]** TAFNet: A Three-Stream Adaptive Fusion Network for RGB-T Crowd Counting (**ISCAS**) [[paper](https://arxiv.org/abs/2202.08517)][[code](https://github.com/TANGHAIHAN/TAFNet)]![GitHub stars](https://img.shields.io/github/stars/TANGHAIHAN/TAFNet.svg?logo=github&label=Stars)
 - <a name="HDNet"></a>**[HDNet]** HDNet: A Hierarchically Decoupled Network for Crowd Counting (**ICME**) [[paper](https://arxiv.org/abs/2212.05722)]
+- <a name="SSDA"></a>**[SSDA]** Self-supervised Domain Adaptation in Crowd Counting (**ICIP**) [[paper](https://arxiv.org/abs/2206.03431)]
 
 ### Journal
 - <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**)[[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 

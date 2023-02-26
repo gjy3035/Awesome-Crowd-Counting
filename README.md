@@ -70,8 +70,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - DroneNet: Crowd Density Estimation using Self-ONNs for Drones [[paper](https://arxiv.org/abs/2211.07137)]
 - Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network [[paper](https://arxiv.org/abs/2211.06835)]
 - Inception-Based Crowd Counting -- Being Fast while Remaining Accurate [[paper](https://arxiv.org/abs/2210.09796)]
-- Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection [[paper](https://arxiv.org/abs/2209.13801)]
-- Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives [[paper](https://arxiv.org/abs/2209.07271)]
 - Crowd Counting on Heavily Compressed Images with Curriculum Pre-Training [[paper](https://arxiv.org/abs/2208.07075)]
 - MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting [[paper](https://arxiv.org/abs/2208.06761)]
 - Multi-scale Feature Aggregation for Crowd Counting [[paper](https://arxiv.org/abs/2208.05256)]
@@ -147,16 +145,18 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DMCNet"></a>**[DMCNet]** Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Wang_Dynamic_Mixture_of_Counter_Network_for_Location-Agnostic_Crowd_Counting_WACV_2023_paper.pdf)]
 
 ### Journal
-- <a name="MTCP"></a>**[MTCP]** Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (**T-NNLS**)[[paper]()] [[code](https://github.com/ljq2000/MTCP)]![GitHub stars](https://img.shields.io/github/stars/ljq2000/MTCP.svg?logo=github&label=Stars)
-- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](https://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
+- Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives (**Image and Vision Computing**) [[paper](https://arxiv.org/abs/2209.07271)]
+- <a name="MTCP"></a>**[MTCP]** Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (**T-NNLS**) [[paper]()] [[code](https://github.com/ljq2000/MTCP)]![GitHub stars](https://img.shields.io/github/stars/ljq2000/MTCP.svg?logo=github&label=Stars)
+- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](https://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
 - <a name="CmCaF"></a>**[CmCaF]** RGB-D Crowd Counting With Cross-Modal Cycle-Attention Fusion and Fine-Coarse Supervision (**TII**) [[paper](https://ieeexplore.ieee.org/document/9765786)]
 - <a name="STC-Crowd"></a>**[STC-Crowd]** Semi-supervised Crowd Counting with Spatial Temporal Consistency and Pseudo-label Filter (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/10032602)]
-- <a name="LMSFFNet"></a>**[LMSFFNet]** A Lightweight Multiscale Feature Fusion Network for Remote Sensing Object Counting (**TGRS**)[[paper](https://ieeexplore.ieee.org/document/10021616)]
-- <a name="DDMD"></a>**[DDMD]** Deformable Density Estimation via Adaptive Representation (**TIP**)[[paper](https://ieeexplore.ieee.org/document/10036469)]
+- <a name="LMSFFNet"></a>**[LMSFFNet]** A Lightweight Multiscale Feature Fusion Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/document/10021616)]
+- <a name="DDMD"></a>**[DDMD]** Deformable Density Estimation via Adaptive Representation (**TIP**) [[paper](https://ieeexplore.ieee.org/document/10036469)]
 
 ### 2022
 ### Conference
-- <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**)[[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](https://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)
+- <a name=""></a> Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection (**ECCV**) [[paper](https://arxiv.org/abs/2209.13801)]
+- <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**) [[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](https://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)
 - <a name="CUT"></a>**[CUT]** Segmentation Assisted U-shaped Multi-scale Transformer for Crowd Counting (**BMVC**) [[paper](https://www.researchgate.net/publication/364030579_Segmentation_Assisted_U-shaped_Multi-scale_Transformer_for_Crowd_Counting)]
 - <a name=""></a> RGB-T Multi-Modal Crowd Counting Based on Transformer (**BMVC**)[[paper](https://arxiv.org/abs/2301.03033)] [[code](https://github.com/liuzywen/RGBTCC)]![GitHub stars](https://img.shields.io/github/stars/liuzywen/RGBTCC.svg?logo=github&label=Stars)
 - <a name="LoViTCrowd"></a>**[LoViTCrowd]** Improving Local Features with Relevant Spatial Information by Vision Transformer for Crowd Counting (**BMVC**) [[paper](https://bmvc2022.mpi-inf.mpg.de/0729.pdf)] [[code](https://github.com/nguyen1312/LoViTCrowd)]![GitHub stars](https://img.shields.io/github/stars/nguyen1312/LoViTCrowd.svg?logo=github&label=Stars)

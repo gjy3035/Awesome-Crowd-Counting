@@ -627,7 +627,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2018--ECCV | [SANet](#SANet)                               | 82.1  | 272.6  | 91.1  | 320.4  |
 | 2019--ICCV | [MBTTBF](#MBTTBF)                             | 73.8  | 256.8  | 81.8  | 299.1  |  
 | 2018--CVPR | [CSRNet](#CSR)                                | 72.2  | 249.9  | 85.9  | 309.2  |
-| 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | 69.4  | 262.4  |
+| 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | -     | -      | 69.4  | 262.4  |
 | 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  | 82.3  | 328.0  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 77.5  | 297.6  |  
 | 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  | 75.0  | 299.9  |

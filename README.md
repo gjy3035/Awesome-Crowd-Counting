@@ -84,7 +84,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
-- Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting [[paper](https://arxiv.org/abs/2205.03307)]
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
 - CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]
@@ -144,7 +143,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CHS-Net"></a>**[CHS-Net]** Cross-head Supervision for Crowd Counting with Noisy Annotations (**ICASSP**)[[paper](https://arxiv.org/abs/2303.09245)] [[code](https://github.com/RaccoonDML/CHSNet)]![GitHub stars](https://img.shields.io/github/stars/RaccoonDML/CHSNet.svg?logo=github&label=Stars)
 
 ### Journal
-- Revisiting Crowd Counting: State-of-the-art, Trends, and Future Perspectives (**Image and Vision Computing**) [[paper](https://arxiv.org/abs/2209.07271)]
+- <a name="SSL-FT"></a>**[SSL-FT]** Self-Supervised Learning with Data-Efficient Supervised Fine-Tuning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/10057013)]
+- <a name="FRVCC"></a>**[FRVCC]** Frame-Recurrent Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/10057072)]
+- <a name="FLCB"></a>**[FLCB]** Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting (**FITEE**) [[paper](https://link.springer.com/article/10.1631/FITEE.2200380)]
 - <a name="MTCP"></a>**[MTCP]** Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (**T-NNLS**) [[paper]()] [[code](https://github.com/ljq2000/MTCP)]![GitHub stars](https://img.shields.io/github/stars/ljq2000/MTCP.svg?logo=github&label=Stars)
 - <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](https://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
 - <a name="CmCaF"></a>**[CmCaF]** RGB-D Crowd Counting With Cross-Modal Cycle-Attention Fusion and Fine-Coarse Supervision (**TII**) [[paper](https://ieeexplore.ieee.org/document/9765786)]

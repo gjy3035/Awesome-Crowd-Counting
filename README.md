@@ -106,7 +106,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Enhanced Information Fusion Network for Crowd Counting [[paper](https://arxiv.org/abs/2101.01479)]
 - Scale-Aware Network with Regional and Semantic Attentions for Crowd Counting under Cluttered Background [[paper](https://arxiv.org/abs/2101.04279)]
 - Learning Independent Instance Maps for Crowd Localization [[paper](https://arxiv.org/abs/2012.04164)] [[code](https://github.com/taohan10200/IIM)]![GitHub stars](https://img.shields.io/github/stars/taohan10200/IIM.svg?logo=github&label=Stars)
-- PSCNet: Pyramidal Scale and Global Context Guided Network for Crowd Counting [[paper](https://arxiv.org/abs/2012.03597)]
 - A Strong Baseline for Crowd Counting and Unsupervised People Localization [[paper](https://arxiv.org/abs/2011.03725)]
 - A Study of Human Gaze Behavior During Visual Crowd Counting [[paper](https://arxiv.org/abs/2009.06502)]
 - Bayesian Multi Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2007.14245)]
@@ -116,7 +115,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions [[paper](https://arxiv.org/abs/2005.07097)][[code](https://github.com/qingzwang/AudioVisualCrowdCounting)]![GitHub stars](https://img.shields.io/github/stars/qingzwang/AudioVisualCrowdCounting.svg?logo=github&label=Stars)
 - CNN-based Density Estimation and Crowd Counting: A Survey [[paper](https://arxiv.org/abs/2003.12783)]
 - Drone Based RGBT Vehicle Detection and Counting: A Challenge [[paper](https://arxiv.org/abs/2003.02437)]
-- From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting [[paper](https://arxiv.org/abs/2001.01886)](extension of [S-DCNet](#S-DCNet))
 - Drone-based Joint Density Map Estimation, Localization and Tracking with Space-Time Multi-Scale Attention Network [[paper](https://arxiv.org/abs/1912.01811)][[code](https://github.com/VisDrone)]
 - Using Depth for Pixel-Wise Detection of Adversarial Attacks in Crowd Counting [[paper](https://arxiv.org/abs/1911.11484)]
 - Content-aware Density Map for Crowd Counting and Density Estimation [[paper](https://arxiv.org/abs/1906.07258)]
@@ -141,6 +139,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="CHS-Net"></a>**[CHS-Net]** Cross-head Supervision for Crowd Counting with Noisy Annotations (**ICASSP**)[[paper](https://arxiv.org/abs/2303.09245)] [[code](https://github.com/RaccoonDML/CHSNet)]![GitHub stars](https://img.shields.io/github/stars/RaccoonDML/CHSNet.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="SS-DCNet"></a>**[SS-DCNet]** From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-023-01782-1)](extension of [S-DCNet](#S-DCNet))
 - <a name="SSL-FT"></a>**[SSL-FT]** Self-Supervised Learning with Data-Efficient Supervised Fine-Tuning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/10057013)]
 - <a name="FRVCC"></a>**[FRVCC]** Frame-Recurrent Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/10057072)]
 - <a name="FLCB"></a>**[FLCB]** Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting (**FITEE**) [[paper](https://link.springer.com/article/10.1631/FITEE.2200380)]
@@ -188,6 +187,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="FusionCount"></a>**[FusionCount]** FusionCount: Efficient Crowd Counting via Multiscale Feature Fusion (**ICIP**) [[paper](https://arxiv.org/abs/2202.13660)][[code](https://github.com/YimingMa/FusionCount)]![GitHub stars](https://img.shields.io/github/stars/YimingMa/FusionCount.svg?logo=github&label=Stars)
 
 ### Journal
+- <a name="PSGCNet"></a> **[PSGCNet]** PSGCNet: A Pyramidal Scale and Global Context Guided Network for Dense Object Counting in Remote Sensing Images (**TGRS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9720990)][[code](https://github.com/gaoguangshuai/psgcnet)]![GitHub stars](https://img.shields.io/github/stars/gaoguangshuai/psgcnet.svg?logo=github&label=Stars)
 - <a name="MVMS"></a>**[MVMS]** Wide-Area Crowd Counting: Multi-View Fusion Networks for Counting in Large Scenes (**IJCV**) [[paper](https://arxiv.org/abs/2012.00946)](extension of [MVMS](#MVMS))
 - <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 
 - <a name="CLRNet"></a>**[CLRNet]** CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9913683)]

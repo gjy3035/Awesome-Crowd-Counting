@@ -80,7 +80,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
   
   
 - Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications [[paper](https://arxiv.org/abs/2207.10155)]
-- Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation [[paper](https://arxiv.org/abs/2206.10075)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
@@ -98,7 +97,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - S4-Crowd: Semi-Supervised Learning with Self-Supervised Regularisation for Crowd Counting [[paper](https://arxiv.org/abs/2108.13969)]
 - Fine-grained Domain Adaptive Crowd Counting via Point-derived Segmentation [[paper](https://arxiv.org/abs/2108.02980)]
 - Reducing Spatial Labeling Redundancy for Semi-supervised Crowd Counting [[paper](https://arxiv.org/abs/2108.02970)]
-- Video Crowd Localization with Multi-focus Gaussian Neighbor Attention and a Large-Scale Benchmark [[paper](https://arxiv.org/abs/2107.08645)]
 - Multi-Level Attentive Convoluntional Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2105.11422)]
 - Boosting Crowd Counting with Transformers [[paper](https://arxiv.org/abs/2105.10926)]
 - Crowd Counting by Self-supervised Transfer Colorization Learning and Global Prior Classification [[paper](https://arxiv.org/abs/2105.09684)]
@@ -194,7 +192,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DEFNet"></a>**[DEFNet]** DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting (**TITS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9889192)][[code](https://github.com/panyi95/DEFNet)]![GitHub stars](https://img.shields.io/github/stars/panyi95/DEFNet.svg?logo=github&label=Stars) 
 - <a name="CLRNet"></a>**[CLRNet]** CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9913683)]
 - <a name="AGCCM"></a>**[AGCCM]** Attention-guided Collaborative Counting (**TIP**) [[paper](https://ieeexplore.ieee.org/document/9906560)]
-- <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9875106)][[code](https://github.com/HopLee6/VSCrowd-Dataset)]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 
+- <a name="GNA"></a>**[GNA]** Video Crowd Localization with Multi-focus Gaussian Neighborhood Attention and a Large-Scale Benchmark (**TIP**) [[paper](https://ieeexplore.ieee.org/abstract/document/9893023/)][[code](https://github.com/HopLee6/VSCrowd-Dataset)]![GitHub stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset.svg?logo=github&label=Stars) 
 - <a name="LibraNet+DQN"></a> **[LibraNet+DQN]** Counting Crowd by Weighing Counts: A Sequential Decision-Making Perspective (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/9887967/)][[code](https://git.io/libranet)](extension of [LibraNet](#LibraNet))
 - <a name="FIDTM"></a>**[FIDTM]** Focal Inverse Distance Transform Maps for Crowd Localization (**TMM**)[[paper](https://ieeexplore.ieee.org/document/9875106)] [[code](https://github.com/dk-liang/FIDTM)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/FIDTM.svg?logo=github&label=Stars) [[project](https://dk-liang.github.io/FIDTM/)]
 - <a name="NDConv"></a>**[NDConv]** An Improved Normed-Deformable Convolution for Crowd Counting (**SPL**) [[paper](https://arxiv.org/abs/2206.08084)]
@@ -203,6 +201,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="TransCrowd"></a>**[TransCrowd]** TransCrowd: Weakly-Supervised Crowd Counting with Transformer (**Science China Information Sciences**) [[paper](https://arxiv.org/abs/2104.09116)] [[code](https://github.com/dk-liang/TransCrowd)]![GitHub stars](https://img.shields.io/github/stars/dk-liang/TransCrowd.svg?logo=github&label=Stars)
 - <a name="STNet"></a>**[STNet]** STNet: Scale Tree Network with Multi-level Auxiliator for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/9681311)]
 - <a name="SGANet"></a>**[SGANet]** Crowd Counting via Segmentation Guided Attention Networks and Curriculum Loss (**TITS**) [[paper](https://ieeexplore.ieee.org/document/9678116)]
+- <a name="CTASNet"></a>**[CTASNet]** Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/9899467)]
 - <a name="SSR-HEF"></a>**[SSR-HEF]** SSR-HEF: Crowd Counting with Multi-Scale Semantic Refining and Hard Example Focusing (**TII**) [[paper](https://arxiv.org/abs/2204.07406)]
 - <a name="ECCNAS"></a> **[ECCNAS]** 	ECCNAS: Efficient Crowd Counting Neural Architecture Search (**TOMM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3465455)]
 - <a name="SSCC"></a> **[SSCC]** 	Scene-specific crowd counting using synthetic training images (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321006609)]

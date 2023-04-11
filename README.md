@@ -130,7 +130,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
-- <a name=""></a> CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)[[paper]()]
+- <a name="CrowdCLIP"></a>**[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)[[paper](https://arxiv.org/abs/2304.04231)]
 - <a name=""></a> Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting (**CVPR**)[[paper]()]
 - <a name="DGCC"></a>**[DGCC]** Domain-general Crowd Counting in Unseen Scenarios (**AAAI**)[[paper](https://arxiv.org/abs/2212.02573)] [[code](https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios.svg?logo=github&label=Stars)
 - <a name="SAFECount"></a>**[SAFECount]** Few-Shot Object Counting With Similarity-Aware Feature Enhancement (**WACV**)[[paper](https://arxiv.org/abs/2201.08959)] [[code](https://github.com/zhiyuanyou/SAFECount)]![GitHub stars](https://img.shields.io/github/stars/zhiyuanyou/SAFECount.svg?logo=github&label=Stars)

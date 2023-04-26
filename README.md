@@ -130,6 +130,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
+- <a name="IOCFormer"></a>**[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)[[paper](http://arxiv.org/abs/2304.11677)][[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting)]![GitHub stars](https://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github&label=Stars)
 - <a name="CrowdCLIP"></a>**[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)[[paper](https://arxiv.org/abs/2304.04231)]
 - <a name=""></a> Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting (**CVPR**)[[paper]()]
 - <a name="DGCC"></a>**[DGCC]** Domain-general Crowd Counting in Unseen Scenarios (**AAAI**)[[paper](https://arxiv.org/abs/2212.02573)] [[code](https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios.svg?logo=github&label=Stars)

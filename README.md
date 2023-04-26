@@ -59,6 +59,11 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Can SAM Count Anything? An Empirical Study on SAM Counting [[paper](https://arxiv.org/abs/2304.10817)]
+- Why Existing Multimodal Crowd Counting Datasets Can Lead to Unfulfilled Expectations in Real-World Applications [[paper](https://arxiv.org/abs/2304.06401)]
+- Crowd Counting with Sparse Annotation [[paper](https://arxiv.org/abs/2304.06021)]
+- Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models [[paper](https://arxiv.org/abs/2303.12790)]
+- Crowd Counting with Online Knowledge Learning [[paper](https://arxiv.org/abs/2303.10318)]
 - LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance [[paper](https://arxiv.org/abs/2302.05374)]
 - GCNet: Probing Self-Similarity Learning for Generalized Counting Network [[paper](https://arxiv.org/abs/2302.05132)]
 - A Unified Object Counting Network with Object Occupation Prior [[paper](https://arxiv.org/abs/2212.14193)]

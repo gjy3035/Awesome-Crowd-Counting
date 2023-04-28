@@ -62,7 +62,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Can SAM Count Anything? An Empirical Study on SAM Counting [[paper](https://arxiv.org/abs/2304.10817)]
 - Why Existing Multimodal Crowd Counting Datasets Can Lead to Unfulfilled Expectations in Real-World Applications [[paper](https://arxiv.org/abs/2304.06401)]
 - Crowd Counting with Sparse Annotation [[paper](https://arxiv.org/abs/2304.06021)]
-- Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models [[paper](https://arxiv.org/abs/2303.12790)]
 - Crowd Counting with Online Knowledge Learning [[paper](https://arxiv.org/abs/2303.10318)]
 - LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance [[paper](https://arxiv.org/abs/2302.05374)]
 - GCNet: Probing Self-Similarity Learning for Generalized Counting Network [[paper](https://arxiv.org/abs/2302.05132)]
@@ -134,6 +133,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
+- <a name="DDC"></a>**[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models [[paper](https://arxiv.org/abs/2303.12790)][[code](https://github.com/dylran/DiffuseDenoiseCount)]![GitHub stars](https://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github&label=Stars)
 - <a name="IOCFormer"></a>**[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)[[paper](http://arxiv.org/abs/2304.11677)][[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting)]![GitHub stars](https://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github&label=Stars)
 - <a name="CrowdCLIP"></a>**[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)[[paper](https://arxiv.org/abs/2304.04231)]
 - <a name=""></a> Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting (**CVPR**)[[paper]()]

@@ -133,7 +133,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
-- <a name="DDC"></a>**[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models [[paper](https://arxiv.org/abs/2303.12790)][[code](https://github.com/dylran/DiffuseDenoiseCount)]![GitHub stars](https://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github&label=Stars)
+- <a name="ZSC"></a>**[ZSC]** Zero-shot Object Counting (**CVPR**)[[paper](https://arxiv.org/abs/2303.02001)][[code](https://github.com/cvlab-stonybrook/zero-shot-counting)]![GitHub stars](https://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github&label=Stars)
+- <a name="DDC"></a>**[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)[[paper](https://arxiv.org/abs/2303.12790)][[code](https://github.com/dylran/DiffuseDenoiseCount)]![GitHub stars](https://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github&label=Stars)
 - <a name="IOCFormer"></a>**[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)[[paper](http://arxiv.org/abs/2304.11677)][[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting)]![GitHub stars](https://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github&label=Stars)
 - <a name="CrowdCLIP"></a>**[CrowdCLIP]** CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model (**CVPR**)[[paper](https://arxiv.org/abs/2304.04231)]
 - <a name=""></a> Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting (**CVPR**)[[paper]()]

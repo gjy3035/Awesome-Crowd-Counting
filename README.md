@@ -73,8 +73,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking [[paper](https://arxiv.org/abs/2212.05861)]
 - Progressive Multi-resolution Loss for Crowd Counting [[paper](https://arxiv.org/abs/2212.04127)]
 - Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects [[paper](https://arxiv.org/abs/2212.02248)]
-- DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning [[paper](https://arxiv.org/abs/2211.10040)]
-- DroneNet: Crowd Density Estimation using Self-ONNs for Drones [[paper](https://arxiv.org/abs/2211.07137)]
 - Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network [[paper](https://arxiv.org/abs/2211.06835)]
 - Inception-Based Crowd Counting -- Being Fast while Remaining Accurate [[paper](https://arxiv.org/abs/2210.09796)]
 - Crowd Counting on Heavily Compressed Images with Curriculum Pre-Training [[paper](https://arxiv.org/abs/2208.07075)]
@@ -146,6 +144,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DMCNet"></a>**[DMCNet]** Dynamic Mixture of Counter Network for Location-Agnostic Crowd Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Wang_Dynamic_Mixture_of_Counter_Network_for_Location-Agnostic_Crowd_Counting_WACV_2023_paper.pdf)]
 - <a name="MSSRM"></a>**[MSSRM]** Super-Resolution Information Enhancement For Crowd Counting (**ICASSP**)[[paper](https://arxiv.org/abs/2303.06925)] [[code](https://github.com/PRIS-CV/MSSRM)]![GitHub stars](https://img.shields.io/github/stars/PRIS-CV/MSSRM.svg?logo=github&label=Stars)
 - <a name="CHS-Net"></a>**[CHS-Net]** Cross-head Supervision for Crowd Counting with Noisy Annotations (**ICASSP**)[[paper](https://arxiv.org/abs/2303.09245)] [[code](https://github.com/RaccoonDML/CHSNet)]![GitHub stars](https://img.shields.io/github/stars/RaccoonDML/CHSNet.svg?logo=github&label=Stars)
+- <a name="Self-ONN"></a>**[Self-ONN]** DroneNet: Crowd Density Estimation using Self-ONNs for Drones (**CCNC**)[[paper](https://arxiv.org/abs/2211.07137)]
 
 ### Journal
 - <a name="SS-DCNet"></a>**[SS-DCNet]** From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-023-01782-1)](extension of [S-DCNet](#S-DCNet))
@@ -159,6 +158,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="LMSFFNet"></a>**[LMSFFNet]** A Lightweight Multiscale Feature Fusion Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/document/10021616)]
 - <a name="DDMD"></a>**[DDMD]** Deformable Density Estimation via Adaptive Representation (**TIP**) [[paper](https://ieeexplore.ieee.org/document/10036469)]
 - <a name="UCCF"></a>**[UCCF]** A unified RGB-T crowd counting learning framework (**Image and Vision Computing**) [[arxiv](https://arxiv.org/abs/2202.03843)] [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0262885623000057)]
+- <a name="DASECount"></a>**[DASECount]** DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning (**IEEE IOT**) [[paper](https://arxiv.org/abs/2211.10040)]
 
 ### 2022
 ### Conference

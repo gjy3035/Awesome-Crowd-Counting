@@ -60,6 +60,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Focus for Free in Density-Based Counting [[paper](https://arxiv.org/abs/2306.05129)]
+- Counting Crowds in Bad Weather [[paper](https://arxiv.org/abs/2306.01209)]
 - Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement [[paper](https://arxiv.org/abs/2305.09271)]
 - CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)]
 - Can SAM Count Anything? An Empirical Study on SAM Counting [[paper](https://arxiv.org/abs/2304.10817)]

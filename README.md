@@ -137,6 +137,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 - <a name="AWCC-Net"></a>**[AWCC-Net]** Counting Crowds in Bad Weather (**ICCV**)[[paper](https://arxiv.org/abs/2306.01209)][[code](https://github.com/awccnet/AWCC-Net)]![GitHub stars](https://img.shields.io/github/stars/awccnet/AWCC-Net.svg?logo=github&label=Stars)
 - Calibrating Uncertainty for Semi-Supervised Crowd Counting (**ICCV**)[[paper]()]
+- <a name="DAOT"></a>**[DAOT]** DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting (**ACM MM**)[[paper]()]
 - <a name="ZSC"></a>**[ZSC]** Zero-shot Object Counting (**CVPR**)[[paper](https://arxiv.org/abs/2303.02001)][[code](https://github.com/cvlab-stonybrook/zero-shot-counting)]![GitHub stars](https://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github&label=Stars)
 - <a name="DDC"></a>**[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)[[paper](https://arxiv.org/abs/2303.12790)][[code](https://github.com/dylran/DiffuseDenoiseCount)]![GitHub stars](https://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github&label=Stars)
 - <a name="IOCFormer"></a>**[IOCFormer]** Indiscernible Object Counting in Underwater Scenes (**CVPR**)[[paper](http://arxiv.org/abs/2304.11677)][[code](https://github.com/GuoleiSun/Indiscernible-Object-Counting)]![GitHub stars](https://img.shields.io/github/stars/GuoleiSun/Indiscernible-Object-Counting.svg?logo=github&label=Stars)

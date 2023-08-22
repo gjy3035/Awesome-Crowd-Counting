@@ -83,13 +83,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 <summary>Earlier ArXiv Papers</summary>
   
 - Multi-scale Feature Aggregation for Crowd Counting [[paper](https://arxiv.org/abs/2208.05256)]
-- Redesigning Multi-Scale Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2208.02894)][[code](https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications [[paper](https://arxiv.org/abs/2207.10155)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
 - Reducing Capacity Gap in Knowledge Distillation with Review Mechanism for Crowd Counting [[paper](https://arxiv.org/abs/2206.05475)]
 - Glance to Count: Learning to Rank with Anchors for Weakly-supervised Crowd Counting [[paper](https://arxiv.org/abs/2205.14659)]
 - Counting in the 2020s: Binned Representations and Inclusive Performance Measures for Deep Crowd Counting Approaches [[paper](https://arxiv.org/abs/2204.04653)]
-- CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP [[paper](https://arxiv.org/abs/2203.08219)]
 - Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting [[paper](https://arxiv.org/abs/2203.06388)]
 - Counting with Adaptive Auxiliary Learning [[paper](https://arxiv.org/abs/2203.04061)][[code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning)]![GitHub stars](https://img.shields.io/github/stars/smallmax00/Counting_With_Adaptive_Auxiliary_Learning.svg?logo=github&label=Stars)
 - CrowdFormer: Weakly-supervised Crowd counting with Improved Generalizability [[paper](https://arxiv.org/abs/2203.03768)]
@@ -151,6 +149,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="Self-ONN"></a>**[Self-ONN]** DroneNet: Crowd Density Estimation using Self-ONNs for Drones (**CCNC**)[[paper](https://arxiv.org/abs/2211.07137)]
 
 ### Journal
+- <a name="HMoDE"></a>**[HMoDE]** Redesigning Multi-Scale Neural Network for Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2208.02894)][[code](https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="SS-DCNet"></a>**[SS-DCNet]** From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-023-01782-1)](extension of [S-DCNet](#S-DCNet))
 - <a name="SSL-FT"></a>**[SSL-FT]** Self-Supervised Learning with Data-Efficient Supervised Fine-Tuning for Crowd Counting (**TMM**) [[paper](https://ieeexplore.ieee.org/document/10057013)]
 - <a name="FRVCC"></a>**[FRVCC]** Frame-Recurrent Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/10057072)]
@@ -163,6 +162,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="DDMD"></a>**[DDMD]** Deformable Density Estimation via Adaptive Representation (**TIP**) [[paper](https://ieeexplore.ieee.org/document/10036469)]
 - <a name="UCCF"></a>**[UCCF]** A unified RGB-T crowd counting learning framework (**Image and Vision Computing**) [[arxiv](https://arxiv.org/abs/2202.03843)] [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0262885623000057)]
 - <a name="DASECount"></a>**[DASECount]** DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning (**IEEE IOT**) [[paper](https://arxiv.org/abs/2211.10040)]
+- <a name="CrowdMLP"></a>**[CrowdMLP]** CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2203.08219)]
 
 ### 2022
 ### Conference

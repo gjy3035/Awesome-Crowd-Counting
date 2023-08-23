@@ -133,6 +133,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
+- <a name=""></a>Striking a Balance: Unsupervised Cross-Domain Crowd Counting via Knowledge Diffusion (**ACM MM**)[[paper](http://aim-nercms.whu.edu.cn/news/list-39.html)]
 - <a name="AWCC-Net"></a>**[AWCC-Net]** Counting Crowds in Bad Weather (**ICCV**)[[paper](https://arxiv.org/abs/2306.01209)][[code](https://github.com/awccnet/AWCC-Net)]![GitHub stars](https://img.shields.io/github/stars/awccnet/AWCC-Net.svg?logo=github&label=Stars)
 - Calibrating Uncertainty for Semi-Supervised Crowd Counting (**ICCV**)[[paper](https://arxiv.org/abs/2308.09887)]
 - <a name="DAOT"></a>**[DAOT]** DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting (**ACM MM**)[[paper](https://arxiv.org/abs/2308.05311)]

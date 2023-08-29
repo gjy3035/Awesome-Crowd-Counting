@@ -135,7 +135,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 - <a name=""></a>Striking a Balance: Unsupervised Cross-Domain Crowd Counting via Knowledge Diffusion (**ACM MM**)[[paper](http://aim-nercms.whu.edu.cn/news/list-39.html)]
 - <a name="AWCC-Net"></a>**[AWCC-Net]** Counting Crowds in Bad Weather (**ICCV**)[[paper](https://arxiv.org/abs/2306.01209)][[code](https://github.com/awccnet/AWCC-Net)]![GitHub stars](https://img.shields.io/github/stars/awccnet/AWCC-Net.svg?logo=github&label=Stars)
-- Calibrating Uncertainty for Semi-Supervised Crowd Counting (**ICCV**)[[paper](https://arxiv.org/abs/2308.09887)]
+- <a name="CU"></a>**[CU]** Calibrating Uncertainty for Semi-Supervised Crowd Counting (**ICCV**)[[paper](https://arxiv.org/abs/2308.09887)][[code](https://github.com/superlc1995/Calibrating_count)]![GitHub stars](https://img.shields.io/github/stars/superlc1995/Calibrating_count.svg?logo=github&label=Stars)
 - <a name="DAOT"></a>**[DAOT]** DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting (**ACM MM**)[[paper](https://arxiv.org/abs/2308.05311)]
 - <a name="ZSC"></a>**[ZSC]** Zero-shot Object Counting (**CVPR**)[[paper](https://arxiv.org/abs/2303.02001)][[code](https://github.com/cvlab-stonybrook/zero-shot-counting)]![GitHub stars](https://img.shields.io/github/stars/cvlab-stonybrook/zero-shot-counting.svg?logo=github&label=Stars)
 - <a name="DDC"></a>**[DDC]** Diffuse-Denoise-Count: Accurate Crowd-Counting with Diffusion Models (**CVPR**)[[paper](https://arxiv.org/abs/2303.12790)][[code](https://github.com/dylran/DiffuseDenoiseCount)]![GitHub stars](https://img.shields.io/github/stars/dylran/DiffuseDenoiseCount.svg?logo=github&label=Stars)

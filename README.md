@@ -150,6 +150,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="Self-ONN"></a>**[Self-ONN]** DroneNet: Crowd Density Estimation using Self-ONNs for Drones (**CCNC**)[[paper](https://arxiv.org/abs/2211.07137)]
 
 ### Journal
+- <a name="FLCC"></a>**[FLCC]** Federated Learning for Crowd Counting in Smart Surveillance Systems (**IEEE IoTJ**) [[paper](https://ieeexplore.ieee.org/document/10221866)]
 - <a name="MGANet"></a>**[MGANet]** Crowd Counting Based on Multiscale Spatial Guided Perception Aggregation Network (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/10227827)]
 - <a name="HMoDE"></a>**[HMoDE]** Redesigning Multi-Scale Neural Network for Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2208.02894)][[code](https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting)]![GitHub stars](https://img.shields.io/github/stars/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="SS-DCNet"></a>**[SS-DCNet]** From Open Set to Closed Set: Supervised Spatial Divide-and-Conquer for Object Counting (**IJCV**) [[paper](https://link.springer.com/article/10.1007/s11263-023-01782-1)](extension of [S-DCNet](#S-DCNet))

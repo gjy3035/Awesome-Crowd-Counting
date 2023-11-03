@@ -60,6 +60,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes [[paper](https://arxiv.org/abs/2310.10352)]
+- SYRAC: Synthesize, Rank, and Count [[paper](https://arxiv.org/abs/2310.01662)]
 - Focus for Free in Density-Based Counting [[paper](https://arxiv.org/abs/2306.05129)]
 - Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement [[paper](https://arxiv.org/abs/2305.09271)]
 - CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)]

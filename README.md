@@ -154,6 +154,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="Self-ONN"></a>**[Self-ONN]** DroneNet: Crowd Density Estimation using Self-ONNs for Drones (**CCNC**)[[paper](https://arxiv.org/abs/2211.07137)]
 
 ### Journal
+- <a name="PESSNet"></a>**[PESSNet]** A Perspective-Embedded Scale-Selection Network for Crowd Counting in Public Transportation (**T-ITS**) [[paper](https://ieeexplore.ieee.org/document/10311097)]
 - <a name="MRL"></a>**[MRL]** Semi-Supervised Crowd Counting via Multiple Representation Learning (**TIP**) [[paper](https://ieeexplore.ieee.org/document/10251149)]
 - <a name="CDENet"></a>**[CDENet]** Confusion Region Mining for Crowd Counting (**T-NNLS**) [[paper](https://ieeexplore.ieee.org/document/10253468)]
 - <a name="FLCC"></a>**[FLCC]** Federated Learning for Crowd Counting in Smart Surveillance Systems (**IEEE IoTJ**) [[paper](https://ieeexplore.ieee.org/document/10221866)]

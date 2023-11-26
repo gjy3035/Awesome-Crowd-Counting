@@ -60,6 +60,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Point, Segment and Count: A Generalized Framework for Object Counting [[paper](https://arxiv.org/abs/2311.12386)]
 - Learning Discriminative Features for Crowd Counting [[paper](https://arxiv.org/abs/2311.04509)]
 - Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes [[paper](https://arxiv.org/abs/2310.10352)]
 - SYRAC: Synthesize, Rank, and Count [[paper](https://arxiv.org/abs/2310.01662)]

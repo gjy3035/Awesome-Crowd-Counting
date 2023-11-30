@@ -176,6 +176,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="UCCF"></a>**[UCCF]** A unified RGB-T crowd counting learning framework (**Image and Vision Computing**) [[arxiv](https://arxiv.org/abs/2202.03843)] [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0262885623000057)]
 - <a name="DASECount"></a>**[DASECount]** DASECount: Domain-Agnostic Sample-Efficient Wireless Indoor Crowd Counting via Few-shot Learning (**IEEE IOT**) [[paper](https://arxiv.org/abs/2211.10040)]
 - <a name="CrowdMLP"></a>**[CrowdMLP]** CrowdMLP: Weakly-Supervised Crowd Counting via Multi-Granularity MLP (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2203.08219)]
+- <a name="MTSS"></a>**[MTSS]** Multi-task semi-supervised crowd counting via global to local self-correction (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002066)]
 
 ### 2022
 ### Conference

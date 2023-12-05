@@ -156,6 +156,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="Self-ONN"></a>**[Self-ONN]** DroneNet: Crowd Density Estimation using Self-ONNs for Drones (**CCNC**)[[paper](https://arxiv.org/abs/2211.07137)]
 
 ### Journal
+- <a name="AGK"></a>**[AGK]** Counting manatee aggregations using deep neural networks and Anisotropic Gaussian Kernel (**Scientific Reports-Nature**) [[paper](https://www.nature.com/articles/s41598-023-45507-3.epdf)] [[code](https://github.com/yeyimilk/deep-learning-for-manatee-counting)]![GitHub stars](https://img.shields.io/github/stars/yeyimilk/deep-learning-for-manatee-counting.svg?logo=github&label=Stars)
 - <a name="GCFL"></a>**[GCFL]** Generalized Characteristic Function Loss for Crowd Analysis in the Frequency Domain (**T-PAMI**) [[paper]()]
 - <a name="PESSNet"></a>**[PESSNet]** A Perspective-Embedded Scale-Selection Network for Crowd Counting in Public Transportation (**T-ITS**) [[paper](https://ieeexplore.ieee.org/document/10311097)]
 - <a name="MRL"></a>**[MRL]** Semi-Supervised Crowd Counting via Multiple Representation Learning (**TIP**) [[paper](https://ieeexplore.ieee.org/document/10251149)]

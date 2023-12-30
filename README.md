@@ -137,6 +137,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 </details>
 
+### 2024
+### Conference
+- <a name=""></a> Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**AAAI**)[[paper]()]
+
 ### 2023
 ### Conference
 - <a name="SRN"></a>**[SAM]** Training-free Object Counting with Prompts (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)][[code](https://github.com/shizenglin/training-free-object-counter)]![GitHub stars](https://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github&label=Stars)

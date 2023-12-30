@@ -60,6 +60,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Scale-Aware Crowd Count Network with Annotation Error Correction [[paper](https://arxiv.org/abs/2312.16771)]
 - Regressor-Segmenter Mutual Prompt Learning for Crowd Counting [[paper](https://arxiv.org/abs/2312.01711)]
 - Point, Segment and Count: A Generalized Framework for Object Counting [[paper](https://arxiv.org/abs/2311.12386)]
 - Learning Discriminative Features for Crowd Counting [[paper](https://arxiv.org/abs/2311.04509)]

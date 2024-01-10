@@ -143,6 +143,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
+- <a name="Gramformer"></a>**[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**WACV**)[[paper](https://arxiv.org/abs/2401.03870)][[code](https://github.com/LoraLinH/Gramformer)]![GitHub stars](https://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github&label=Stars)
 - <a name="SRN"></a>**[SAM]** Training-free Object Counting with Prompts (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)][[code](https://github.com/shizenglin/training-free-object-counter)]![GitHub stars](https://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github&label=Stars)
 - <a name="SRN"></a>**[SGA]** Semantic Generative Augmentations for Few-Shot Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Doubinsky_Semantic_Generative_Augmentations_for_Few-Shot_Counting_WACV_2024_paper.pdf)]
 - <a name="SRN"></a>**[SRN]** Glance To Count: Learning To Rank With Anchors for Weakly-Supervised Crowd Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xiong_Glance_To_Count_Learning_To_Rank_With_Anchors_for_Weakly-Supervised_WACV_2024_paper.pdf)][[code](https://github.com/pandaszzzzz/CCRanking)]![GitHub stars](https://img.shields.io/github/stars/pandaszzzzz/CCRanking.svg?logo=github&label=Stars)

@@ -143,6 +143,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Conference
 - <a name="Gramformer"></a>**[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**WACV**)[[paper](https://arxiv.org/abs/2401.03870)][[code](https://github.com/LoraLinH/Gramformer)]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github&label=Stars)
 
+### Journal
+- <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)]
+
 ### 2023
 ### Conference
 - <a name="SRN"></a>**[SAM]** Training-free Object Counting with Prompts (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)][[code](https://github.com/shizenglin/training-free-object-counter)]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github&label=Stars)

@@ -68,7 +68,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Learning Discriminative Features for Crowd Counting [[paper](https://arxiv.org/abs/2311.04509)]
 - Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes [[paper](https://arxiv.org/abs/2310.10352)]
 - SYRAC: Synthesize, Rank, and Count [[paper](https://arxiv.org/abs/2310.01662)]
-- Focus for Free in Density-Based Counting [[paper](https://arxiv.org/abs/2306.05129)]
 - Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement [[paper](https://arxiv.org/abs/2305.09271)]
 - CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)]
 - Can SAM Count Anything? An Empirical Study on SAM Counting [[paper](https://arxiv.org/abs/2304.10817)]
@@ -144,6 +143,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="Gramformer"></a>**[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**WACV**)[[paper](https://arxiv.org/abs/2401.03870)][[code](https://github.com/LoraLinH/Gramformer)]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github&label=Stars)
 
 ### Journal
+- Focus for Free in Density-Based Counting (**IJCV**) [[paper](https://arxiv.org/abs/2306.05129)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] ![GitHub stars](http://img.shields.io/github/stars/shizenglin/Counting-with-Focus-for-Free.svg?logo=github&label=Stars)(extension of [CFF](#CFF))
 - <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)]
 
 ### 2023

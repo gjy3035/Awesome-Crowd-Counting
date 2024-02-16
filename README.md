@@ -76,19 +76,18 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Crowd Counting with Online Knowledge Learning [[paper](https://arxiv.org/abs/2303.10318)]
 - LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance [[paper](https://arxiv.org/abs/2302.05374)]
 - GCNet: Probing Self-Similarity Learning for Generalized Counting Network [[paper](https://arxiv.org/abs/2302.05132)]
-- A Unified Object Counting Network with Object Occupation Prior [[paper](https://arxiv.org/abs/2212.14193)]
 - Mask Focal Loss for dense crowd counting with canonical object detection networks [[paper](https://arxiv.org/abs/2212.11542)]
 - CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking [[paper](https://arxiv.org/abs/2212.05861)]
-- Progressive Multi-resolution Loss for Crowd Counting [[paper](https://arxiv.org/abs/2212.04127)]
 - Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects [[paper](https://arxiv.org/abs/2212.02248)]
+
+
+<details>
+<summary>Earlier ArXiv Papers</summary>
+
 - Scale-Aware Crowd Counting Using a Joint Likelihood Density Map and Synthetic Fusion Pyramid Network [[paper](https://arxiv.org/abs/2211.06835)]
 - Inception-Based Crowd Counting -- Being Fast while Remaining Accurate [[paper](https://arxiv.org/abs/2210.09796)]
 - Crowd Counting on Heavily Compressed Images with Curriculum Pre-Training [[paper](https://arxiv.org/abs/2208.07075)]
 - MAFNet: A Multi-Attention Fusion Network for RGB-T Crowd Counting [[paper](https://arxiv.org/abs/2208.06761)]
-
-<details>
-<summary>Earlier ArXiv Papers</summary>
-  
 - Multi-scale Feature Aggregation for Crowd Counting [[paper](https://arxiv.org/abs/2208.05256)]
 - Analysis of the Effect of Low-Overhead Lossy Image Compression on the Performance of Visual Crowd Counting for Smart City Applications [[paper](https://arxiv.org/abs/2207.10155)]
 - Indirect-Instant Attention Optimization for Crowd Counting in Dense Scenes [[paper](https://arxiv.org/abs/2206.05648)]
@@ -185,7 +184,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="FRVCC"></a>**[FRVCC]** Frame-Recurrent Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/10057072)]
 - <a name="FLCB"></a>**[FLCB]** Forget Less, Count Better: A Domain-Incremental Self-Distillation Learning Benchmark for Lifelong Crowd Counting (**FITEE**) [[paper](https://link.springer.com/article/10.1631/FITEE.2200380)]
 - <a name="MTCP"></a>**[MTCP]** Multi-Task Credible Pseudo-Label Learning for Semi-supervised Crowd Counting (**T-NNLS**) [[paper]()] [[code](https://github.com/ljq2000/MTCP)]![GitHub stars](http://img.shields.io/github/stars/ljq2000/MTCP.svg?logo=github&label=Stars)
-- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/9810269)] [[code](https://github.com/wuzhe71/STGN)]![GitHub stars](http://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
+- <a name="STGN"></a>**[STGN]** Spatial-Temporal Graph Network for Video Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/document/9810269)][[code](https://github.com/wuzhe71/STGN)]![GitHub stars](http://img.shields.io/github/stars/wuzhe71/STGN.svg?logo=github&label=Stars)
+- <a name="PML_Loss"></a>**[PML_Loss]** Progressive Multi-resolution Loss for Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/abstract/document/10256036/)][[code](https://github.com/streamer-AP/PML_Loss)]![GitHub stars](http://img.shields.io/github/stars/streamer-AP/PML_Loss.svg?logo=github&label=Stars)
+- <a name="EoCo"></a>**[EoCo]** A Unified Object Counting Network with Object Occupation Prior (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/abstract/document/10172099)][[code](https://github.com/Tanyjiang/EOCO)]![GitHub stars](http://img.shields.io/github/stars/Tanyjiang/EOCO.svg?logo=github&label=Stars)
 - <a name="CmCaF"></a>**[CmCaF]** RGB-D Crowd Counting With Cross-Modal Cycle-Attention Fusion and Fine-Coarse Supervision (**TII**) [[paper](https://ieeexplore.ieee.org/document/9765786)]
 - <a name="STC-Crowd"></a>**[STC-Crowd]** Semi-supervised Crowd Counting with Spatial Temporal Consistency and Pseudo-label Filter (**T-CSVT**)[[paper](https://ieeexplore.ieee.org/document/10032602)]
 - <a name="LMSFFNet"></a>**[LMSFFNet]** A Lightweight Multiscale Feature Fusion Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/document/10021616)]

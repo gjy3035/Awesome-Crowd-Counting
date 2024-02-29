@@ -60,6 +60,8 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Robust Unsupervised Crowd Counting and Localization with Adaptive Resolution SAM [[paper](https://arxiv.org/abs/2402.17514)]
+- Semi-supervised Counting via Pixel-by-pixel Density Distribution Modelling [[paper](https://arxiv.org/abs/2402.15297)]
 - Diffusion-based Data Augmentation for Object Counting Problems [[paper](https://arxiv.org/abs/2401.13992)]
 - A Lightweight Feature Fusion Architecture For Resource-Constrained Crowd Counting [[paper](https://arxiv.org/abs/2401.05968)]
 - Scale-Aware Crowd Count Network with Annotation Error Correction [[paper](https://arxiv.org/abs/2312.16771)]

@@ -4,6 +4,7 @@ This repository is for listing papers of crowd counting published on CVPR, ICCV,
 ## CVPR 
 
 
+- <a name="Crowd-Hat"></a>**[Crowd-Hat]** Boosting Detection in Crowd Analysis via Underutilized Output Features (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Boosting_Detection_in_Crowd_Analysis_via_Underutilized_Output_Features_CVPR_2023_paper.pdf)][[code](https://github.com/wskingdom/Crowd-Hat)]
 - <a name="ChfL"></a>**[ChfL]** Crowd Counting in the Frequency Domain (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shu_Crowd_Counting_in_the_Frequency_Domain_CVPR_2022_paper.pdf)][[code](https://github.com/wbshu/Crowd_Counting_in_the_Frequency_Domain)]
 - <a name="GauNet"></a>**[GauNet]** Rethinking Spatial Invariance of Convolutional Networks for Object Counting (**CVPR**) [[paper](https://arxiv.org/abs/2206.05253)][[code](https://github.com/zhiqic/Rethinking-Counting)]
 - <a name="DR.VIC"></a>**[DR.VIC]** DR.VIC: Decomposition and Reasoning for Video Individual Counting (**CVPR**) [[paper](https://crabwq.github.io/pdf/2022%20DR.VIC.pdf)][[code](https://github.com/taohan10200/DRNet)]

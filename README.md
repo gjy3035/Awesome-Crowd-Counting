@@ -606,13 +606,13 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [RANet](#RANet)                              | 59.4  | 102.0 | -  | -  | -  | -           |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
-| 2022--CVPR | [GauNet](#GauNet)                           | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
+| 2022--CVPR | [GauNet](#GauNet)                            | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
 | 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)               | 57.55 | 94.48 | -  | -  | -  | -           |
-| 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | 86.0 | -  | -  | -  | -         |
+| 2019--ICCV |[PGCNet](#PGCNet)                             | 57.0 | 86.0 | -  | -  | -  | -         |
 | 2020--ECCV | [AMSNet](#AMSNet)                            | 56.7 | 93.4   | -  | -  | -  | -             |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                          | 55.4 | 97.7   | -  | -  | -  | -           |
-| 2021--AAAI |**[SASNet](#SASNet)**                         | 53.59 | 88.38 | -  | -  | -  | -       |
+| 2021--AAAI |[SASNet](#SASNet)                             | 53.59 | 88.38 | -  | -  | -  | -       |
 | 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **51.2** | **81.9** | -  | -  | -  | -       |
 
 
@@ -663,10 +663,11 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
 | 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
-| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | 6.5   | **9.9** |
+| 2019--ICCV | [SPANet+SANet](#SPANet)                       | 6.5   | 9.9 |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                           | 6.4   | 11.3 |
-| 2020--ICPR | **[M-SFANet+M-SegNet](#M-SFANet)**            | **6.32** | 10.06 |
-| 2021--AAAI | **[SASNet](#SASNet)**                         | 6.35  | **9.9** |
+| 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)                | 6.32 | 10.06 |
+| 2021--AAAI | [SASNet](#SASNet)                             | 6.35  | 9.9 |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **5.7** | **9.4** | -  | -  | -  | -       |
 
 ### JHU-CROWD++
 
@@ -683,8 +684,9 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | -     | -      | 69.4  | 262.4  |
 | 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  | 82.3  | 328.0  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 77.5  | 297.6  |  
-| 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  | 75.0  | 299.9  |
-| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | **57.6**  | 244.4  | **71.0** | **278.6**  |
+| 2019--ICCV | **[BL](#BL)**                                 | 59.3  | 229.2  | 75.0  | 299.9  |
+| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | 57.6  | 244.4  | **71.0** | **278.6**  |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **52.3** | **211.8** |   |   |     
 
 
 
@@ -713,7 +715,8 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2020--ICPR | [M-SFANet](#M-SFANet)       | 85.6 | - | 151.23 | - | - | - | - | - | - |
 | 2021--AAAI | [SASNet](#SASNet)           | 85.2 | - | 147.3 | - | - | - | - | - | - |
 | 2022--CVPR | [GauNet](#GauNet)(VGG-16)   | 84.2 | - | 152.4 | - | - | - | - | - | - |
-| 2020--CVPR | **[ADSCNet](#ADSCNet)**     | **71.3** | - | **132.5** | - | - | - | - | - | - |
+| 2020--CVPR | **[ADSCNet](#ADSCNet)**     | **71.3** | - | 132.5 | - | - | - | - | - | - |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | 75.1 | - |**126.7** | - | - | - | - | - | - |  
 
 
 ### UCF_CC_50

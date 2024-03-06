@@ -609,10 +609,11 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2022--CVPR | [GauNet](#GauNet)                           | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
 | 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)               | 57.55 | 94.48 | -  | -  | -  | -           |
-| 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | **86.0** | -  | -  | -  | -         |
+| 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | 86.0 | -  | -  | -  | -         |
 | 2020--ECCV | [AMSNet](#AMSNet)                            | 56.7 | 93.4   | -  | -  | -  | -             |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                          | 55.4 | 97.7   | -  | -  | -  | -           |
-| 2021--AAAI |**[SASNet](#SASNet)**                         | **53.59** | 88.38 | -  | -  | -  | -       |
+| 2021--AAAI |**[SASNet](#SASNet)**                         | 53.59 | 88.38 | -  | -  | -  | -       |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **51.2** | **81.9** | -  | -  | -  | -       |
 
 
 

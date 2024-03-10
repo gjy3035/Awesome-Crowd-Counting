@@ -149,6 +149,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2023
 ### Conference
+- <a name="Crowd-Hat"></a>**[Crowd-Hat]** Boosting Detection in Crowd Analysis via Underutilized Output Features (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Boosting_Detection_in_Crowd_Analysis_via_Underutilized_Output_Features_CVPR_2023_paper.pdf)][[code](https://github.com/wskingdom/Crowd-Hat)]![GitHub stars](http://img.shields.io/github/stars/wskingdom/Crowd-Hat.svg?logo=github&label=Stars)
 - <a name="SRN"></a>**[SAM]** Training-free Object Counting with Prompts (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf)][[code](https://github.com/shizenglin/training-free-object-counter)]![GitHub stars](http://img.shields.io/github/stars/shizenglin/training-free-object-counter.svg?logo=github&label=Stars)
 - <a name="SRN"></a>**[SGA]** Semantic Generative Augmentations for Few-Shot Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Doubinsky_Semantic_Generative_Augmentations_for_Few-Shot_Counting_WACV_2024_paper.pdf)]
 - <a name="SRN"></a>**[SRN]** Glance To Count: Learning To Rank With Anchors for Weakly-Supervised Crowd Counting (**WACV**)[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Xiong_Glance_To_Count_Learning_To_Rank_With_Anchors_for_Weakly-Supervised_WACV_2024_paper.pdf)][[code](https://github.com/pandaszzzzz/CCRanking)]![GitHub stars](http://img.shields.io/github/stars/pandaszzzzz/CCRanking.svg?logo=github&label=Stars)
@@ -605,13 +606,14 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [RANet](#RANet)                              | 59.4  | 102.0 | -  | -  | -  | -           |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                      | 59.4  | 92.5  | -  | -  | -  | -           |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 59.2  | 98.1  | -  | -  | -  | -           |
-| 2022--CVPR | [GauNet](#GauNet)                           | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
+| 2022--CVPR | [GauNet](#GauNet)                            | 59.2  | 95.4  | -  | -  | -  | VGG-16      |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                          | 58.3  | 95.0  | -  | -  | -  | -           |
 | 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)               | 57.55 | 94.48 | -  | -  | -  | -           |
-| 2019--ICCV |**[PGCNet](#PGCNet)**                         | 57.0 | **86.0** | -  | -  | -  | -         |
+| 2019--ICCV |[PGCNet](#PGCNet)                             | 57.0 | 86.0 | -  | -  | -  | -         |
 | 2020--ECCV | [AMSNet](#AMSNet)                            | 56.7 | 93.4   | -  | -  | -  | -             |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                          | 55.4 | 97.7   | -  | -  | -  | -           |
-| 2021--AAAI |**[SASNet](#SASNet)**                         | **53.59** | 88.38 | -  | -  | -  | -       |
+| 2021--AAAI |[SASNet](#SASNet)                             | 53.59 | 88.38 | -  | -  | -  | -       |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **51.2** | **81.9** | -  | -  | -  | -       |
 
 
 
@@ -661,10 +663,11 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
 | 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
-| 2019--ICCV | **[SPANet+SANet](#SPANet)**                   | 6.5   | **9.9** |
+| 2019--ICCV | [SPANet+SANet](#SPANet)                       | 6.5   | 9.9 |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                           | 6.4   | 11.3 |
-| 2020--ICPR | **[M-SFANet+M-SegNet](#M-SFANet)**            | **6.32** | 10.06 |
-| 2021--AAAI | **[SASNet](#SASNet)**                         | 6.35  | **9.9** |
+| 2020--ICPR | [M-SFANet+M-SegNet](#M-SFANet)                | 6.32 | 10.06 |
+| 2021--AAAI | [SASNet](#SASNet)                             | 6.35  | 9.9 |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **5.7** | **9.4** | -  | -  | -  | -       |
 
 ### JHU-CROWD++
 
@@ -681,8 +684,9 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2022--CVPR | [GauNet](#GauNet)(VGG-16)                     | -     | -      | 69.4  | 262.4  |
 | 2020--TPAMI | [CG-DRCN-CC-VGG16](#JHU-CROWD)               | 67.9  | 262.1  | 82.3  | 328.0  |
 | 2019--CVPR | [SFCN](#CCWld)                                | 62.9  | 247.5  | 77.5  | 297.6  |  
-| 2019--ICCV | **[BL](#BL)**                                 | 59.3  | **229.2**  | 75.0  | 299.9  |
-| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | **57.6**  | 244.4  | **71.0** | **278.6**  |
+| 2019--ICCV | [BL](#BL)                                     | 59.3  | 229.2  | 75.0  | 299.9  |
+| 2020--TPAMI | **[CG-DRCN-CC-Res101](#JHU-CROWD)**          | 57.6  | 244.4  | **71.0** | **278.6**  |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **52.3** | **211.8** |   |   |     
 
 
 
@@ -711,7 +715,8 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2020--ICPR | [M-SFANet](#M-SFANet)       | 85.6 | - | 151.23 | - | - | - | - | - | - |
 | 2021--AAAI | [SASNet](#SASNet)           | 85.2 | - | 147.3 | - | - | - | - | - | - |
 | 2022--CVPR | [GauNet](#GauNet)(VGG-16)   | 84.2 | - | 152.4 | - | - | - | - | - | - |
-| 2020--CVPR | **[ADSCNet](#ADSCNet)**     | **71.3** | - | **132.5** | - | - | - | - | - | - |
+| 2020--CVPR | **[ADSCNet](#ADSCNet)**     | **71.3** | - | 132.5 | - | - | - | - | - | - |
+| 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | 75.1 | - |**126.7** | - | - | - | - | - | - |  
 
 
 ### UCF_CC_50

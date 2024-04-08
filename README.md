@@ -65,7 +65,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Diffusion-based Data Augmentation for Object Counting Problems [[paper](https://arxiv.org/abs/2401.13992)]
 - A Lightweight Feature Fusion Architecture For Resource-Constrained Crowd Counting [[paper](https://arxiv.org/abs/2401.05968)]
 - Scale-Aware Crowd Count Network with Annotation Error Correction [[paper](https://arxiv.org/abs/2312.16771)]
-- Regressor-Segmenter Mutual Prompt Learning for Crowd Counting [[paper](https://arxiv.org/abs/2312.01711)]
 - Point, Segment and Count: A Generalized Framework for Object Counting [[paper](https://arxiv.org/abs/2311.12386)]
 - Learning Discriminative Features for Crowd Counting [[paper](https://arxiv.org/abs/2311.04509)]
 - Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes [[paper](https://arxiv.org/abs/2310.10352)]
@@ -141,6 +140,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2024
 ### Conference
+- <a name="CrowdDiff"></a>**[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) [[paper]()][[code](https://github.com/dylran/crowddiff)]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github&label=Stars)
+- <a name="mPrompt"></a>**[mPrompt]** Regressor-Segmenter Mutual Prompt Learning for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2312.01711)]
 - <a name="MPCount"></a>**[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2403.09124)][[code](https://github.com/Shimmer93/MPCount)]
 - <a name="Gramformer"></a>**[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**WACV**) [[paper](https://arxiv.org/abs/2401.03870)][[code](https://github.com/LoraLinH/Gramformer)]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github&label=Stars)
 

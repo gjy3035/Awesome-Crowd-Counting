@@ -714,6 +714,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [DSSINet](#DSSINet) | 99.1  | - | 159.2 | - | - | - | - | - | - |
 | 2019--ICCV | [MBTTBF-SCFB](#MBTTBF)      | 97.5 | - | 165.2 | - | - | - | - | - | - |
 | 2019--TIP  | [PaDNet](#PaDNet)           | 96.5 | - | 170.2 | - | - | - | - | - | - |
+| 2022--CVPR |[LSC-CNN](#LSC-CNN) + [CTFNet](#CTFNet)  | 90.8 | - | 166.7 | - | - | - | - | - | - |
 | 2019--ICCV | [BL](#BL)                   | 88.7 | - | 154.8 | - | - | - | - | - | - |
 | 2020--ICPR | [M-SFANet](#M-SFANet)       | 85.6 | - | 151.23 | - | - | - | - | - | - |
 | 2021--AAAI | [SASNet](#SASNet)           | 85.2 | - | 147.3 | - | - | - | - | - | - |

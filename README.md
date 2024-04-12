@@ -616,6 +616,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2020--ECCV | [AMSNet](#AMSNet)                            | 56.7 | 93.4   | -  | -  | -  | -             |
 | 2020--CVPR | [ADSCNet](#ADSCNet)                          | 55.4 | 97.7   | -  | -  | -  | -           |
 | 2021--AAAI |[SASNet](#SASNet)                             | 53.59 | 88.38 | -  | -  | -  | -       |
+| 2022--CVPR |[LSC-CNN](#LSC-CNN) + [CTFNet](#CTFNet)       | 53.4  | 82.3  | -  | -  | -  | -       |
 | 2023--CVPR |**[PSDDN](#PSDDN) + [Crowd-Hat](#Crowd-Hat)**   | **51.2** | **81.9** | -  | -  | -  | -       |
 
 
@@ -771,6 +772,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICASSP| [ASD](#ASD)                                 | 196.2 | 270.9  |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                            | 188.4 | 315.3  |
 | 2019--TIP  | [PaDNet](#PaDNet)                            | 185.8 | 278.3  |
+| 2022--CVPR | [LSC-CNN](#LSC-CNN) + [CTFNet](#CTFNet)      | 168.3 | 224.6  |
 | 2020--ICPR | [M-SFANet](#M-SFANet)                        | 162.33| 276.76 |
 | 2021--AAAI | **[SASNet](#SASNet)**                        | **161.4** | **234.46** |
 

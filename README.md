@@ -203,6 +203,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2022
 ### Conference
+- <a name="CTFNet"></a>**[CTFNet]** Faster, Lighter, Robuster: A Weakly-Supervised Crowd Analysis Enhancement Network and A Generic Feature Extraction Framework (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Wu_Faster_Lighter_Robuster_A_Weakly-Supervised_Crowd_Analysis_Enhancement_Network_and_CVPRW_2022_paper.html)]
 - <a name="CSS-CCNN"></a>**[CSS-CCNN]** Completely Self-Supervised Crowd Counting via Distribution Matching (**ECCV**) [[paper](https://arxiv.org/abs/2009.06420)][[code](https://github.com/val-iisc/css-ccnn)]![GitHub stars](http://img.shields.io/github/stars/val-iisc/css-ccnn.svg?logo=github&label=Stars)
 - <a name="TSFADet"></a>**[TSFADet]** Translation, Scale and Rotation: Cross-Modal Alignment Meets RGB-Infrared Vehicle Detection (**ECCV**) [[paper](https://arxiv.org/abs/2209.13801)]
 - <a name="CSCA"></a>**[CSCA]** Spatio-channel Attention Blocks for Cross-modal Crowd Counting (**ACCV**) [[paper](https://arxiv.org/abs/2210.10392)] [[code](https://github.com/VCLLab/CSCA)]![GitHub stars](http://img.shields.io/github/stars/VCLLab/CSCA.svg?logo=github&label=Stars)

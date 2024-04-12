@@ -60,6 +60,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification [[paper](https://arxiv.org/abs/2403.09281v1)][[code](https://github.com/Yiming-M/CLIP-EBC)] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github&label=Stars)
 - Robust Unsupervised Crowd Counting and Localization with Adaptive Resolution SAM [[paper](https://arxiv.org/abs/2402.17514)]
 - Semi-supervised Counting via Pixel-by-pixel Density Distribution Modelling [[paper](https://arxiv.org/abs/2402.15297)]
 - Diffusion-based Data Augmentation for Object Counting Problems [[paper](https://arxiv.org/abs/2401.13992)]

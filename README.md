@@ -664,6 +664,7 @@ Please refer to [this page](https://www.crowdbenchmark.com/nwpucrowd.html).
 | 2019--ICCV | [BL](#BL)                                     | 7.7   | 12.7  |
 | 2019--ICCV | [CFF](#CFF)                                   | 7.2   | 12.2  |
 | 2019--ICCV | [SPN+L2SM](#L2SM)                             | 7.2   | 11.1  |
+| 2022--CVPR | [LSC-CNN](#LSC-CNN) + [CTFNet](#CTFNet)       | 7.1   | 9.7   |
 | 2019--ICCV | [DSSINet](#DSSINet)                           | 6.85  | 10.34 |
 | 2019--ICCV | [S-DCNet](#S-DCNet)                           | 6.7   | 10.7  |
 | 2019--ICCV | [SPANet+SANet](#SPANet)                       | 6.5   | 9.9 |

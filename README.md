@@ -153,6 +153,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ### Journal
 - Focus for Free in Density-Based Counting (**IJCV**) [[paper](https://arxiv.org/abs/2306.05129)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] ![GitHub stars](http://img.shields.io/github/stars/shizenglin/Counting-with-Focus-for-Free.svg?logo=github&label=Stars)(extension of [CFF](#CFF))
 - <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)][[code](https://github.com/csguomy/MDKNet)]![GitHub stars](http://img.shields.io/github/stars/csguomy/MDKNet.svg?logo=github&label=Stars)
+- Rethinking Global Context in Crowd Counting (**MIR**) [[paper](https://link.springer.com/article/10.1007/s11633-023-1475-z)]
 
 ### 2023
 ### Conference

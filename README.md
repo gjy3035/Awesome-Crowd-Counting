@@ -61,6 +61,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance [[paper](https://arxiv.org/abs/2405.10589)]
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)]
 - Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2404.07847)]
 - CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification [[paper](https://arxiv.org/abs/2403.09281v1)][[code](https://github.com/Yiming-M/CLIP-EBC)] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github&label=Stars)
@@ -157,6 +158,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Focus for Free in Density-Based Counting (**IJCV**) [[paper](https://arxiv.org/abs/2306.05129)][[code](https://github.com/shizenglin/Counting-with-Focus-for-Free)] ![GitHub stars](http://img.shields.io/github/stars/shizenglin/Counting-with-Focus-for-Free.svg?logo=github&label=Stars)(extension of [CFF](#CFF))
 - <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)][[code](https://github.com/csguomy/MDKNet)]![GitHub stars](http://img.shields.io/github/stars/csguomy/MDKNet.svg?logo=github&label=Stars)
 - Rethinking Global Context in Crowd Counting (**MIR**) [[paper](https://link.springer.com/article/10.1007/s11633-023-1475-z)]
+- <a name="HKINet"></a>**[HKINet]** Hierarchical Kernel Interaction Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/abstract/document/10397559)]
 
 ### 2023
 ### Conference

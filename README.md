@@ -144,6 +144,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2024
 ### Conference
+- <a name="OALNet"></a>**[OALNet]** Few-shot Class-agnostic Counting with Occlusion Augmentation and Localization (**ISCAS**)[[paper](https://ieeexplore.ieee.org/document/10558069)]
 - <a name="WSCC_TAF"></a>**[WSCC_TAF]** Weakly-Supervised Crowd Counting with Token Attention and Fusion: A Simple and Effective Baseline (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/10446636)][[code](https://github.com/WangyiNTU/WSCC_TAF)]![GitHub stars](http://img.shields.io/github/stars/WangyiNTU/WSCC_TAF.svg?logo=github&label=Stars)
 - <a name="CrowdDiff"></a>**[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) [[paper]()][[code](https://github.com/dylran/crowddiff)]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github&label=Stars)
 - <a name="mPrompt"></a>**[mPrompt]** Regressor-Segmenter Mutual Prompt Learning for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2312.01711)]

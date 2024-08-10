@@ -69,9 +69,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Diffusion-based Data Augmentation for Object Counting Problems [[paper](https://arxiv.org/abs/2401.13992)]
 - A Lightweight Feature Fusion Architecture For Resource-Constrained Crowd Counting [[paper](https://arxiv.org/abs/2401.05968)]
 - Scale-Aware Crowd Count Network with Annotation Error Correction [[paper](https://arxiv.org/abs/2312.16771)]
-- Point, Segment and Count: A Generalized Framework for Object Counting [[paper](https://arxiv.org/abs/2311.12386)]
-- Learning Discriminative Features for Crowd Counting [[paper](https://arxiv.org/abs/2311.04509)]
-- Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes [[paper](https://arxiv.org/abs/2310.10352)]
 - SYRAC: Synthesize, Rank, and Count [[paper](https://arxiv.org/abs/2310.01662)]
 - Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement [[paper](https://arxiv.org/abs/2305.09271)]
 - CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)]
@@ -149,7 +146,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="APGCC"></a>**[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)[[paper](https://arxiv.org/abs/2405.10589)][[code](https://github.com/AaronCIH/APGCC)]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github&label=Stars)
 - <a name="OALNet"></a>**[OALNet]** Few-shot Class-agnostic Counting with Occlusion Augmentation and Localization (**ISCAS**)[[paper](https://ieeexplore.ieee.org/document/10558069)]
 - <a name="WSCC_TAF"></a>**[WSCC_TAF]** Weakly-Supervised Crowd Counting with Token Attention and Fusion: A Simple and Effective Baseline (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/10446636)][[code](https://github.com/WangyiNTU/WSCC_TAF)]![GitHub stars](http://img.shields.io/github/stars/WangyiNTU/WSCC_TAF.svg?logo=github&label=Stars)
-- <a name="CrowdDiff"></a>**[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) [[paper]()][[code](https://github.com/dylran/crowddiff)]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github&label=Stars)
+- <a name="CrowdDiff"></a>**[CrowdDiff]** CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models (**CVPR**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)][[code](https://github.com/dylran/crowddiff)]![GitHub stars](http://img.shields.io/github/stars/dylran/crowddiff.svg?logo=github&label=Stars)
+- <a name="PseCo"></a>**[PseCo]** Point, Segment and Count: A Generalized Framework for Object Counting [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Point_Segment_and_Count_A_Generalized_Framework_for_Object_Counting_CVPR_2024_paper.pdf)][[code](https://github.com/Hzzone/PseCo)]![GitHub stars](http://img.shields.io/github/stars/Hzzone/PseCo.svg?logo=github&label=Stars)
 - <a name="mPrompt"></a>**[mPrompt]** Regressor-Segmenter Mutual Prompt Learning for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2312.01711)]
 - <a name="MPCount"></a>**[MPCount]** Single Domain Generalization for Crowd Counting (**CVPR**) [[paper](https://arxiv.org/abs/2403.09124)][[code](https://github.com/Shimmer93/MPCount)]
 - <a name="Gramformer"></a>**[Gramformer]** Gramformer: Learning Crowd Counting via Graph-Modulated Transformer (**AAAI**) [[paper](https://arxiv.org/abs/2401.03870)][[code](https://github.com/LoraLinH/Gramformer)]![GitHub stars](http://img.shields.io/github/stars/LoraLinH/Gramformer.svg?logo=github&label=Stars)
@@ -163,7 +161,9 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)][[code](https://github.com/csguomy/MDKNet)]![GitHub stars](http://img.shields.io/github/stars/csguomy/MDKNet.svg?logo=github&label=Stars)
 - Rethinking Global Context in Crowd Counting (**MIR**) [[paper](https://link.springer.com/article/10.1007/s11633-023-1475-z)]
 - <a name="HPS"></a>**[HPS]** Hybrid Perturbation Strategy for Semi-Supervised Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2402.03758)]
+- <a name="LDFNet"></a>**[LDFNet]** Learning Discriminative Features for Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2311.04509)]
 - <a name="HKINet"></a>**[HKINet]** Hierarchical Kernel Interaction Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/abstract/document/10397559)]
+- <a name="MRC-Crowd"></a>**[MRC-Crowd]** Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes (**T-CSVT**) [[paper](https://arxiv.org/abs/2310.10352)][[code](https://github.com/cha15yq/MRC-Crowd)]![GitHub stars](http://img.shields.io/github/stars/cha15yq/MRC-Crowd.svg?logo=github&label=Stars)
 
 ### 2023
 ### Conference

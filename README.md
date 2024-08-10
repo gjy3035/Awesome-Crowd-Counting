@@ -143,6 +143,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2024
 ### Conference
+- <a name="ME"></a>**[ME]** Multi-modal Crowd Counting via Modal Emulation (**BMVC**)[[paper](https://arxiv.org/abs/2407.19491)][[code](https://github.com/Mr-Monday/Multi-modal-Crowd-Counting-via-Modal-Emulation)]![GitHub stars](http://img.shields.io/github/stars/Mr-Monday/Multi-modal-Crowd-Counting-via-Modal-Emulation.svg?logo=github&label=Stars)
 - <a name="BM"></a>**[BM]** Multi-modal Crowd Counting via a Broker Modality (**ECCV**)[[paper](https://arxiv.org/abs/2407.07518)][[code](https://github.com/HenryCilence/Broker-Modality-Crowd-Counting)]![GitHub stars](http://img.shields.io/github/stars/HenryCilence/Broker-Modality-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="CountFormer"></a>**[CountFormer]** CountFormer: Multi-View Crowd Counting Transformer (**ECCV**)[[paper](https://arxiv.org/abs/2407.02047)]
 - <a name="APGCC"></a>**[APGCC]** Improving Point-based Crowd Counting and Localization Based on Auxiliary Point Guidance (**ECCV**)[[paper](https://arxiv.org/abs/2405.10589)][[code](https://github.com/AaronCIH/APGCC)]![GitHub stars](http://img.shields.io/github/stars/AaronCIH/APGCC.svg?logo=github&label=Stars)

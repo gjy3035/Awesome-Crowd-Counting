@@ -61,6 +61,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)]
 - Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2404.07847)]
 - CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification [[paper](https://arxiv.org/abs/2403.09281v1)][[code](https://github.com/Yiming-M/CLIP-EBC)] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github&label=Stars)
@@ -77,7 +78,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Crowd Counting with Sparse Annotation [[paper](https://arxiv.org/abs/2304.06021)]
 - Crowd Counting with Online Knowledge Learning [[paper](https://arxiv.org/abs/2303.10318)]
 - LCDnet: A Lightweight Crowd Density Estimation Model for Real-time Video Surveillance [[paper](https://arxiv.org/abs/2302.05374)]
-- GCNet: Probing Self-Similarity Learning for Generalized Counting Network [[paper](https://arxiv.org/abs/2302.05132)]
 - Mask Focal Loss for dense crowd counting with canonical object detection networks [[paper](https://arxiv.org/abs/2212.11542)]
 - CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking [[paper](https://arxiv.org/abs/2212.05861)]
 - Counting Like Human: Anthropoid Crowd Counting on Modeling the Similarity of Objects [[paper](https://arxiv.org/abs/2212.02248)]
@@ -164,6 +164,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="LDFNet"></a>**[LDFNet]** Learning Discriminative Features for Crowd Counting (**TIP**) [[paper](https://arxiv.org/abs/2311.04509)]
 - <a name="HKINet"></a>**[HKINet]** Hierarchical Kernel Interaction Network for Remote Sensing Object Counting (**TGRS**) [[paper](https://ieeexplore.ieee.org/abstract/document/10397559)]
 - <a name="MRC-Crowd"></a>**[MRC-Crowd]** Semi-Supervised Crowd Counting with Contextual Modeling: Facilitating Holistic Understanding of Crowd Scenes (**T-CSVT**) [[paper](https://arxiv.org/abs/2310.10352)][[code](https://github.com/cha15yq/MRC-Crowd)]![GitHub stars](http://img.shields.io/github/stars/cha15yq/MRC-Crowd.svg?logo=github&label=Stars)
+- <a name="GCNet"></a>**[GCNet]** GCNet: Probing Self-Similarity Learning for Generalized Counting Network (**Pattern Recognition**) [[paper](https://arxiv.org/abs/2302.05132)]
 
 ### 2023
 ### Conference

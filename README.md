@@ -140,6 +140,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ### 2024
 ### Conference
+- <a name=""></a> Boosting Semi-supervised Crowd Counting with Scale-based Active Learning (**ACM MM**)[[paper](https://openreview.net/pdf?id=AXvAc3HQFl)]
+- <a name=""></a> Domain-Agnostic Crowd Counting via Uncertainty-Guided Style Diversity Augmentation (**ACM MM**)[[paper](https://openreview.net/attachment?id=nFrcliTxAC&name=pdf)]
 - <a name="ME"></a>**[ME]** Multi-modal Crowd Counting via Modal Emulation (**BMVC**)[[paper](https://arxiv.org/abs/2407.19491)][[code](https://github.com/Mr-Monday/Multi-modal-Crowd-Counting-via-Modal-Emulation)]![GitHub stars](http://img.shields.io/github/stars/Mr-Monday/Multi-modal-Crowd-Counting-via-Modal-Emulation.svg?logo=github&label=Stars)
 - <a name="BM"></a>**[BM]** Multi-modal Crowd Counting via a Broker Modality (**ECCV**)[[paper](https://arxiv.org/abs/2407.07518)][[code](https://github.com/HenryCilence/Broker-Modality-Crowd-Counting)]![GitHub stars](http://img.shields.io/github/stars/HenryCilence/Broker-Modality-Crowd-Counting.svg?logo=github&label=Stars)
 - <a name="CountFormer"></a>**[CountFormer]** CountFormer: Multi-View Crowd Counting Transformer (**ECCV**)[[paper](https://arxiv.org/abs/2407.02047)]

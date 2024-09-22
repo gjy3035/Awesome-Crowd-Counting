@@ -1,4 +1,5 @@
 # Transfer Learning and Domain Adaptation
+- <a name="SVCW"></a>**[SVCW]** Multi-view People Detection in Large Scenes via Supervised View-wise Contribution Weighting (**AAAI24**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28553/29075)][[code](https://github.com/zqyq/Multi-view-People-Detection-in-Large-Scenes-via-Supervised-View-wise-Contribution-Weighting)]
 - <a name="MDKNet"></a>**[MDKNet]** Virtual Classification: Modulating Domain-Specific Knowledge for Multidomain Crowd Counting (**T-NNLS**) [[paper](https://arxiv.org/abs/2402.03758)][[code](https://github.com/csguomy/MDKNet)]![GitHub stars](http://img.shields.io/github/stars/csguomy/MDKNet.svg?logo=github&label=Stars)
 - <a name="DCANet"></a>**[DCANet]** Towards Learning Multi-domain Crowd Counting (**T-CSVT**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9658506)][[code](https://github.com/Zhaoyi-Yan/DCANet)]![GitHub stars](https://img.shields.io/github/stars/Zhaoyi-Yan/DCANet.svg?logo=github&label=Stars)
 - AdaCrowd: Unlabeled Scene Adaptation for Crowd Counting (**TMM**) [[paper](https://arxiv.org/pdf/2010.12141.pdf)]

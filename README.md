@@ -61,6 +61,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)]
 - Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2404.07847)]

@@ -61,6 +61,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark [[paper](https://arxiv.org/abs/2411.13056)]
 - Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
 - OmniCount: Multi-label Object Counting with Semantic-Geometric Priors [[paper](https://arxiv.org/abs/2403.05435)]

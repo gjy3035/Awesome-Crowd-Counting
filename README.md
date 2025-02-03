@@ -64,7 +64,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark [[paper](https://arxiv.org/abs/2411.13056)]
 - Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
-- OmniCount: Multi-label Object Counting with Semantic-Geometric Priors [[paper](https://arxiv.org/abs/2403.05435)]
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)]
 - Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting [[paper](https://arxiv.org/abs/2404.07847)]
 - CLIP-EBC: CLIP Can Count Accurately through Enhanced Blockwise Classification [[paper](https://arxiv.org/abs/2403.09281v1)][[code](https://github.com/Yiming-M/CLIP-EBC)] ![GitHub stars](http://img.shields.io/github/stars/Yiming-M/CLIP-EBC.svg?logo=github&label=Stars)
@@ -140,6 +139,10 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Structured Inhomogeneous Density Map Learning for Crowd Counting [[paper](https://arxiv.org/abs/1801.06642)]
 
 </details>
+
+## 2025
+### Conference
+- <a name="OmniCount"></a>OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
 
 ### 2024
 ### Conference

@@ -74,7 +74,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Scale-Aware Crowd Count Network with Annotation Error Correction [[paper](https://arxiv.org/abs/2312.16771)]
 - SYRAC: Synthesize, Rank, and Count [[paper](https://arxiv.org/abs/2310.01662)]
 - Accurate Gigapixel Crowd Counting by Iterative Zooming and Refinement [[paper](https://arxiv.org/abs/2305.09271)]
-- CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)]
+- CLIP-Count: Towards Text-Guided Zero-Shot Object Counting [[paper](https://arxiv.org/abs/2305.07304)][[code](https://github.com/songrise/CLIP-Count)]
 - Can SAM Count Anything? An Empirical Study on SAM Counting [[paper](https://arxiv.org/abs/2304.10817)]
 - Why Existing Multimodal Crowd Counting Datasets Can Lead to Unfulfilled Expectations in Real-World Applications [[paper](https://arxiv.org/abs/2304.06401)]
 - Crowd Counting with Sparse Annotation [[paper](https://arxiv.org/abs/2304.06021)]

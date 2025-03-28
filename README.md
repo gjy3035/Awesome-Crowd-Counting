@@ -61,6 +61,11 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation [[paper](https://arxiv.org/abs/2503.12935)]
+- Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12441)]
+- EHNet: An Efficient Hybrid Network for Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12061)]
+- Video Individual Counting for Moving Drones [[paper](https://arxiv.org/abs/2503.10701)]
+- Embodied Crowd Counting [[paper](https://arxiv.org/abs/2503.08367)]
 - Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark [[paper](https://arxiv.org/abs/2411.13056)]
 - Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
@@ -142,6 +147,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ## 2025
 ### Conference
+- <a name="TMTB"></a>Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/syhien/taste_more_taste_better)]
 - <a name="OmniCount"></a>OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
 
 ### 2024

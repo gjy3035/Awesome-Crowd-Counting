@@ -148,6 +148,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 ## 2025
 ### Conference
 - <a name="TMTB"></a>Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/syhien/taste_more_taste_better)]
+- <a name="T2ICount"></a>T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)[[paper](https://arxiv.org/abs/2502.20625)][[code](https://github.com/cha15yq/T2ICount)]
 - <a name="OmniCount"></a>OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
 
 ### 2024

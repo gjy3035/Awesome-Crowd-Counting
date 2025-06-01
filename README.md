@@ -61,6 +61,7 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[paper](https://arxiv.org/abs/2504.03724)]![GitHub stars](http://img.shields.io/github/stars/yeyimilk/CrowdVLM-R1.svg?logo=github&label=Stars)
 - L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation [[paper](https://arxiv.org/abs/2503.12935)]
 - Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12441)]
 - EHNet: An Efficient Hybrid Network for Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12061)]

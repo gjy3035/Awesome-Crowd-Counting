@@ -148,6 +148,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ## 2025
 ### Conference
+- <a name="P2R"></a>Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/Elin24/P2RLoss)]
 - <a name="TMTB"></a>Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/syhien/taste_more_taste_better)]
 - <a name="OmniCount"></a>OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
 

@@ -67,7 +67,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - EHNet: An Efficient Hybrid Network for Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12061)]
 - Video Individual Counting for Moving Drones [[paper](https://arxiv.org/abs/2503.10701)]
 - Embodied Crowd Counting [[paper](https://arxiv.org/abs/2503.08367)]
-- Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark [[paper](https://arxiv.org/abs/2411.13056)]
 - Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
 - VMambaCC: A Visual State Space Model for Crowd Counting [[paper](https://arxiv.org/abs/2405.03978)]
@@ -154,7 +153,8 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - <a name="T2ICount"></a>**[T2ICount]** T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_T2ICount_Enhancing_Cross-modal_Understanding_for_Zero-Shot_Counting_CVPR_2025_paper.pdf)][[code](https://github.com/cha15yq/T2ICount)]
 - <a name="TMTB"></a>**[TMTB]** Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2503.17984)][[code](https://github.com/syhien/taste_more_taste_better)]
 - <a name="OmniCount"></a>**[OmniCount]** OmniCount: Multi-label Object Counting with Semantic-Geometric Priors (**AAAI**)[[paper](https://arxiv.org/abs/2403.05435)][[web](https://mondalanindya.github.io/OmniCount/)]
-
+- <a name="E-MAC"></a>**[E-MAC]** Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark (**ICLR**) [[paper](https://openreview.net/pdf?id=sY3anJ8C68)][[code](https://github.com/mast1ren/E-MAC)]
+  
 ### 2024
 ### Conference
 - <a name="PBC"></a>**[PBC]** A Fixed-Point Approach to Unified Prompt-Based Counting (**AAAI**)[[paper](https://arxiv.org/abs/2403.10236)][[code](https://github.com/Elin24/fixedpoint_prompt_counting)]

@@ -65,7 +65,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - L2HCount:Generalizing Crowd Counting from Low to High Crowd Density via Density Simulation [[paper](https://arxiv.org/abs/2503.12935)]
 - Consistent-Point: Consistent Pseudo-Points for Semi-Supervised Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12441)]
 - EHNet: An Efficient Hybrid Network for Crowd Counting and Localization [[paper](https://arxiv.org/abs/2503.12061)]
-- Video Individual Counting for Moving Drones [[paper](https://arxiv.org/abs/2503.10701)]
 - Embodied Crowd Counting [[paper](https://arxiv.org/abs/2503.08367)]
 - Bound Tightening Network for Robust Crowd Counting [[paper](https://arxiv.org/abs/2409.19146)]
 - Boosting Adverse Weather Crowd Counting via Multi-queue Contrastive Learning [[paper](https://arxiv.org/abs/2408.05956)]
@@ -147,6 +146,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 
 ## 2025
 ### Conference
+- <a name="MDC"></a>**[MDC]** Video Individual Counting for Moving Drones (**ICCV**)[[paper](https://arxiv.org/abs/2503.10701)][[code](https://github.com/fyw1999/MovingDroneCrowd)]
 - <a name="URM"></a>**[URM]** Single Domain Generalization for Few-Shot Counting via Universal Representation Matching (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Single_Domain_Generalization_for_Few-Shot_Counting_via_Universal_Representation_Matching_CVPR_2025_paper.pdf)]
 - <a name="FLE"></a>**[FLE]** Free Lunch Enhancements for Multi-modal Crowd Counting (**CVPR**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf)][[code](https://github.com/HenryCilence/Free-Lunch-Multimodal-Counting)]
 - <a name="P2R"></a>**[P2R]** Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting (**CVPR**)[[paper](https://arxiv.org/abs/2505.21943)][[code](https://github.com/Elin24/P2RLoss)]
